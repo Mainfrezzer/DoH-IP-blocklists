@@ -165,7 +165,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
-gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
@@ -197,6 +196,7 @@ odoh-target.alekberg.net
 please.dontsteal.my.id
 quic.lol
 resolver-eu.lelux.fi
+resolver.noaddns.com
 securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
