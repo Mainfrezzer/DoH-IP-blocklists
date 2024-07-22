@@ -276,6 +276,7 @@ dns.dnsforge.de
 dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
+dns.doh.best
 dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
