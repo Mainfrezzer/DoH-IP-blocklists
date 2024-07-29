@@ -371,7 +371,6 @@ dns.lista.my.id
 dns.lobbygod.com
 dns.lvolland.fr
 dns.mailkyb.co
-dns.mandre.dev
 dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.maybe.icu
