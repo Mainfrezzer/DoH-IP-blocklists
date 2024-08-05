@@ -704,7 +704,6 @@ doh.micronets.in
 doh.mmmalia.com
 doh.morizt.id
 doh.mullvad.net
-doh.neowutran.ovh
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
@@ -936,7 +935,6 @@ muli.stusta.mhn.de
 muxyuji.ru
 n0.eu
 n5.lsasss.com
-nanopi.cybergroove.net
 nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
