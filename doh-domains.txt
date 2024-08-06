@@ -1028,7 +1028,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 pukanuragan.ru
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
