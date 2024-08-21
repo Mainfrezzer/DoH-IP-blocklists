@@ -333,7 +333,6 @@ dns.indybanipal.com
 dns.interhub.cc
 dns.internal.hosmatic.com
 dns.ipoac.nl
-dns.ipv6dns.com
 dns.islandnet.com
 dns.janl.eu
 dns.jinwoo.dev
