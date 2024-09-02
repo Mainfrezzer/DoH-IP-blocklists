@@ -276,7 +276,6 @@ dns.dnswarden.com
 dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
-dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
@@ -409,7 +408,6 @@ dns.pernika.net
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.pietjacobs.be
-dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.privado.ovh
@@ -846,7 +844,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
