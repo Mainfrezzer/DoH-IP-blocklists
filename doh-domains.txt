@@ -276,6 +276,7 @@ dns.dnswarden.com
 dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
+dns.dyn1.de
 dns.east.comss.one
 dns.eddi.net
 dns.edison42.dev
@@ -582,15 +583,12 @@ dnscache.e-utp.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
@@ -832,7 +830,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 guard.sntrk.ru
-gustamadh.dynv6.net
 gztech.me
 h.gjrick.tw
 helios.plan9-dns.com
@@ -844,6 +841,7 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
