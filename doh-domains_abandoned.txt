@@ -98,6 +98,7 @@ dns.labnekotest.site
 dns.lightmaster.pw
 dns.lsho.top
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -111,6 +112,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.sarak.as
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -121,16 +123,14 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
+dns1.sarak.as
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
+dns2.sarak.as
 dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net

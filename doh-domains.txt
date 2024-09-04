@@ -366,7 +366,6 @@ dns.lobbygod.com
 dns.lvolland.fr
 dns.mailkyb.co
 dns.maolaohei.xyz
-dns.mathewakhil.online
 dns.maybe.icu
 dns.meeo.win
 dns.mestdag.fr
@@ -429,7 +428,6 @@ dns.rootlab.top
 dns.rotunneling.net
 dns.rslvr.eu
 dns.rubyfish.cn
-dns.sarak.as
 dns.sarilouis.com
 dns.sb
 dns.scapetical.com
@@ -528,7 +526,6 @@ dns1.nordvpn.com
 dns1.pietjacobs.be
 dns1.ryan-palmer.com
 dns1.saferbfc.org
-dns1.sarak.as
 dns1.sg.newpangea.de
 dns1.sitdns.com
 dns1.sriedmueadguard.casa
@@ -558,7 +555,6 @@ dns2.nextdns.io
 dns2.nordvpn.com
 dns2.ryan-palmer.com
 dns2.saferbfc.org
-dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
 dns2.sriedmueadguard.casa
@@ -583,12 +579,16 @@ dnscache.e-utp.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
