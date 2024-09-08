@@ -45,6 +45,7 @@ buc-m2.illmods.com
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
+cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -105,6 +106,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.nas-server.ru
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
