@@ -45,7 +45,6 @@ buc-m2.illmods.com
 canadianshield.cira.ca
 chaos.altendorfme.com
 chewbacca.meganerd.nl
-cloud.tezoi.com
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
@@ -106,7 +105,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.nas-server.ru
 dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
@@ -116,7 +114,6 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.sarak.as
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -127,11 +124,9 @@ dns.ypbind.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
-dns1.sarak.as
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
-dns2.sarak.as
 dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net

@@ -426,6 +426,7 @@ dns.rootlab.top
 dns.rotunneling.net
 dns.rslvr.eu
 dns.rubyfish.cn
+dns.sarak.as
 dns.sarilouis.com
 dns.sb
 dns.scapetical.com
@@ -524,6 +525,7 @@ dns1.nordvpn.com
 dns1.pietjacobs.be
 dns1.ryan-palmer.com
 dns1.saferbfc.org
+dns1.sarak.as
 dns1.sg.newpangea.de
 dns1.sitdns.com
 dns1.sriedmueadguard.casa
@@ -553,6 +555,7 @@ dns2.nextdns.io
 dns2.nordvpn.com
 dns2.ryan-palmer.com
 dns2.saferbfc.org
+dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
 dns2.sriedmueadguard.casa
