@@ -138,7 +138,6 @@ doh.chi.ahadns.net
 doh.dnslify.com
 doh.doh.my.id
 doh.es.ahadns.net
-doh.funil.de
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
@@ -150,6 +149,7 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net
+doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.southam.family
@@ -211,7 +211,6 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 please.dontsteal.my.id
-punono.duckdns.org
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
