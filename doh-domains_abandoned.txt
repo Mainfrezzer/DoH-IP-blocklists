@@ -113,6 +113,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
+dns.sev.monster
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -131,9 +132,11 @@ dns2.linzefeng.top
 dns4.imkvq.com
 dnsenc.com
 dnses.alekberg.net
+dnssilo.top
 dnsvps.familiamv.ml
 doh.abmb.win
 doh.armadillodns.net
+doh.att.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
 doh.dnslify.com
@@ -159,6 +162,7 @@ doh.velyn.my.id
 doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
+dohtrial.att.net
 dos.bytetel.net
 dot.au.ahadns.net
 dot.chi.ahadns.net
@@ -182,7 +186,7 @@ groupy.ga
 gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
-home27.duckdns.org
+hkname.freecdn.one
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
@@ -240,6 +244,7 @@ us.rslvr.eu
 vanced.sytes.net
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
+wyx.cloud
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
