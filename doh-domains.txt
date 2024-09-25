@@ -122,7 +122,6 @@ ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
 callies-online.site
-catdns.org
 cdn.0ms.dev
 chandr1000.net
 chaos-system.de
@@ -893,6 +892,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 l337.site
 las01.dnscry.pt
 lastentarvike.fi
@@ -1024,6 +1024,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 pukanuragan.ru
+punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
@@ -1122,6 +1123,7 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
