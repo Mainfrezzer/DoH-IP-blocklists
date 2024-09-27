@@ -1022,7 +1022,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 pukanuragan.ru
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
@@ -1062,7 +1061,6 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
-sby-doh.limotelu.org
 sdns.233py.com
 sdns22.gkonuralp.com
 secondary.dns.yandex.ru
@@ -1121,7 +1119,6 @@ trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
 tuandns.duckdns.org
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
