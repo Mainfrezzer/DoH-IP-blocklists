@@ -601,7 +601,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 doh-2.seby.io
 doh-ca.naftalie.net
-doh-ch.blahdns.com
 doh-de.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.dns.pub
@@ -612,9 +611,7 @@ doh-dns.kescher.at
 doh-dns.sitdns.com
 doh-dns.sriedmueadguard.casa
 doh-dns.technicule.info
-doh-fi.blahdns.com
 doh-ipv6.crypto.sx
-doh-jp.blahdns.com
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-sg.blahdns.com
@@ -747,10 +744,7 @@ doh2.blahdns.com
 doh2.gslb2.xfinity.com
 dohdot.coxlab.net
 dohtrial.att.net
-dot-ch.blahdns.com
 dot-de.blahdns.com
-dot-fi.blahdns.com
-dot-jp.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
 dot.centraleu.pi-dns.com
@@ -865,6 +859,7 @@ ipoac.nl
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
+jit.ddns.net
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
@@ -877,7 +872,6 @@ jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
 justhost.bedro.cloud
-kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
