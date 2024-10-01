@@ -859,7 +859,6 @@ ipoac.nl
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
-jit.ddns.net
 jnb01.dnscry.pt
 jp-dns1.bancuh.com
 jp-kix.doh.sb
@@ -884,6 +883,7 @@ kr2.ooroot.com
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 l337.site
 las01.dnscry.pt
 lastentarvike.fi
