@@ -158,6 +158,7 @@ doh.post-factum.tk
 doh.southam.family
 doh.this.web.id
 doh.velyn.my.id
+doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
 dos.bytetel.net
@@ -198,7 +199,6 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
