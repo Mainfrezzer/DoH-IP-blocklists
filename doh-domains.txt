@@ -446,7 +446,6 @@ dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
-dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
@@ -913,7 +912,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 minilla.store
-mo0on15.com
 morbitzer.de
 mozilla.cloudflare-dns.com
 msr177.com
@@ -1118,7 +1116,6 @@ tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt
-typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
 uk.teradns.org
