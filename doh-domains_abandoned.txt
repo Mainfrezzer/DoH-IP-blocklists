@@ -110,7 +110,7 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.repressoh.it
-dns.siry.de
+dns.rootlab.top
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -203,7 +203,6 @@ kaitain.restena.lu
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
-mo0on15.com
 nanopi.cybergroove.net
 neatdns.ustclug.org
 nebula.tru.io
@@ -234,7 +233,7 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-typaza.com
+tungdnsne.duckdns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
