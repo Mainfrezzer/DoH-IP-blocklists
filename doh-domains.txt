@@ -49,7 +49,6 @@ adguard.jfchenier.ca
 adguard.kiboko.it
 adguard.konikoni428.com
 adguard.kss.ovh
-adguard.lege.despagne.net
 adguard.marto.si
 adguard.meddy94.de
 adguard.oms-ctr.ru
@@ -371,7 +370,6 @@ dns.mestdag.fr
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.mo0on15.com
 dns.molinero.dev
 dns.moonssif.com
 dns.moulticast.net
@@ -433,7 +431,6 @@ dns.sarilouis.com
 dns.sb
 dns.scapetical.com
 dns.scarx.net
-dns.schlagheck.berlin
 dns.scuola.org
 dns.seiffert.me
 dns.sellan.fr
@@ -444,7 +441,6 @@ dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
-dns.siry.de
 dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
@@ -908,7 +904,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 minilla.store
-mo0on15.com
 morbitzer.de
 mozilla.cloudflare-dns.com
 msr177.com

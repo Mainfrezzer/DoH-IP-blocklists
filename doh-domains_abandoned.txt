@@ -19,6 +19,7 @@ adguard.dtness.com
 adguard.gbrossi.com.br
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
+adguard.lege.despagne.net
 adguard.lista.my.id
 adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
@@ -103,6 +104,7 @@ dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
+dns.mo0on15.com
 dns.moog.sh
 dns.ndo.dev
 dns.nixnet.xyz
@@ -112,6 +114,8 @@ dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rootlab.top
+dns.schlagheck.berlin
+dns.siry.de
 dns.stvsk.ml
 dns.surfshark.com
 dns.truong.fi
@@ -207,6 +211,7 @@ kaitain.restena.lu
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
+mo0on15.com
 nanopi.cybergroove.net
 ndns.233py.com
 neatdns.ustclug.org
@@ -239,6 +244,7 @@ thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+typaza.com
 uf-dns.lista.my.id
 uk.adhole.org
 uradoori.org
