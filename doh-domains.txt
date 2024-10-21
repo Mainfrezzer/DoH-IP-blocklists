@@ -320,7 +320,6 @@ dns.huseynov.work
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.iamninja.ru
-dns.ian.rocks
 dns.ibakerserver.pt
 dns.ihaveacloud.com
 dns.ikataruto.com
