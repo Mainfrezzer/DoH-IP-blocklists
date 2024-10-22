@@ -67,6 +67,7 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.bayas.dev
+dns.benpro.fr
 dns.blaze-sk.ru
 dns.cfiec.net
 dns.chocolatezz.xyz
@@ -190,6 +191,7 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 groupy.ga
+gustamadh.dynv6.net
 himedns.com
 hk.rslvr.eu
 hydra.plan9-ns1.com
