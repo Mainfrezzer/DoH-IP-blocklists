@@ -970,7 +970,6 @@ ore-dns.bitdefender.net
 orpi.privado.ovh
 osefcorp.duckdns.org
 oszx.co
-outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1007,7 +1006,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 pukanuragan.ru
-punono.duckdns.org
 puredns.org
 qlf-doh.inria.fr
 qual.cuprum.ru
