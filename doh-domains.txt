@@ -163,7 +163,6 @@ deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
 dns-cybersec.nordthreatprotection.com
 dns-doh-no-safe-search.dnsforfamily.com
-dns-doh.adblockersite.com
 dns-doh.dns.pub
 dns-doh.dnsforfamily.com
 dns-doh.dnsforge.de
@@ -194,7 +193,6 @@ dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.abdullahabas.de
-dns.adblockersite.com
 dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
@@ -296,7 +294,6 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -498,7 +495,6 @@ dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
-dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.conne.net
@@ -530,7 +526,6 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
-dns2.adblockersite.com
 dns2.cbio.top
 dns2.d94.xyz
 dns2.digitale-gesellschaft.ch
@@ -554,7 +549,6 @@ dns2.sitdns.com
 dns2.slinkyman.net
 dns2.sriedmueadguard.casa
 dns2.technicule.info
-dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.dns.pub
 dns3.dnsforge.de
@@ -596,7 +590,6 @@ doh-02.spectrum.com
 doh-2.seby.io
 doh-ca.naftalie.net
 doh-de.blahdns.com
-doh-dns.adblockersite.com
 doh-dns.dns.pub
 doh-dns.dnsforge.de
 doh-dns.doh.pub
@@ -615,7 +608,6 @@ doh.3dns.eu
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
-doh.adblockersite.com
 doh.almir1904.eu
 doh.apad.pro
 doh.applied-privacy.net
