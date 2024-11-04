@@ -820,7 +820,6 @@ hkname.freecdn.one
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -864,7 +863,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 l337.site
 las01.dnscry.pt
 lastentarvike.fi
@@ -1088,7 +1086,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 tyo01.dnscry.pt

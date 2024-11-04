@@ -202,6 +202,7 @@ fi.doh.dns.snopyta.org
 groupy.ga
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -219,6 +220,7 @@ jp.rslvr.eu
 jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lion.yazilimatolye.com
