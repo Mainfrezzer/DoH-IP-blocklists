@@ -390,7 +390,6 @@ dns.nullgate.net
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
-dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
 dns.paesa.es
@@ -955,7 +954,6 @@ ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
 osefcorp.duckdns.org
-oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
