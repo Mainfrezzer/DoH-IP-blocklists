@@ -661,6 +661,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kescher.at
 doh.killtw.im
 doh.kooman.org
@@ -1082,7 +1083,6 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
