@@ -293,6 +293,7 @@ dns.futuredns.me
 dns.gamban.com
 dns.gi.co.id
 dns.ginovs.nl
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -354,6 +355,7 @@ dns.lgprk.com
 dns.linkr.ninja
 dns.lista.my.id
 dns.lobbygod.com
+dns.lsho.top
 dns.lvolland.fr
 dns.mailkyb.co
 dns.maolaohei.xyz
