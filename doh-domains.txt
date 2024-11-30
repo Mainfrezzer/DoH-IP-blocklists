@@ -462,7 +462,6 @@ dns.t53.de
 dns.technicule.info
 dns.technostriker.com
 dns.telekom.de
-dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.theres.one
@@ -666,7 +665,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kescher.at
 doh.killtw.im
 doh.kooman.org
