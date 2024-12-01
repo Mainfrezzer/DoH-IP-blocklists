@@ -447,7 +447,6 @@ dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
 dns.spil.co.id
-dns.spirio.fr
 dns.sriedmueadguard.casa
 dns.sstomp.nl
 dns.startupstack.tech
