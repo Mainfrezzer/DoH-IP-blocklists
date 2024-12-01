@@ -447,6 +447,7 @@ dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
 dns.spil.co.id
+dns.spirio.fr
 dns.sriedmueadguard.casa
 dns.sstomp.nl
 dns.startupstack.tech
@@ -496,8 +497,6 @@ dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
-dns1.au.newpangea.de
-dns1.cl.newpangea.de
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
 dns1.dns-ga.de
@@ -507,7 +506,6 @@ dns1.dnsforge.de
 dns1.doh.pub
 dns1.dot.pub
 dns1.in-berlin.de
-dns1.in.newpangea.de
 dns1.irumatech.com
 dns1.kescher.at
 dns1.klcd.eu
@@ -517,12 +515,10 @@ dns1.pietjacobs.be
 dns1.ryan-palmer.com
 dns1.saferbfc.org
 dns1.sarak.as
-dns1.sg.newpangea.de
 dns1.sitdns.com
 dns1.sriedmueadguard.casa
 dns1.techeasy.org
 dns1.technicule.info
-dns1.us.newpangea.de
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
