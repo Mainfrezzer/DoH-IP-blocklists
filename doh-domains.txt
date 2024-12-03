@@ -43,7 +43,6 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.ender.fr
-adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
@@ -1026,6 +1025,7 @@ safe.dot.dns.yandex.net
 safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
+sdns22.gkonuralp.com
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
