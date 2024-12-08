@@ -40,7 +40,6 @@ adguard.bonis.de
 adguard.bonsirven.eu
 adguard.cloudmini.net
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.haneulo.com
@@ -451,6 +450,7 @@ dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
 dns.strassmair.org
+dns.stvsk.ml
 dns.superstefan.win
 dns.svoi.dev
 dns.swin.pro

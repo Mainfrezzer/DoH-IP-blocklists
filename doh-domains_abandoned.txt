@@ -14,6 +14,7 @@ adguard.aa4.co.uk
 adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.bitteeinbyte.de
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.gbrossi.com.br
@@ -113,13 +114,11 @@ dns.ndo.dev
 dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
 dns.rslvr.eu
 dns.siry.de
-dns.stvsk.ml
 dns.surfshark.com
 dns.tesem.dog
 dns.truong.fi
@@ -244,7 +243,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-oszx.co
 outdoorchair.us
 please.dontsteal.my.id
 quic.lol
