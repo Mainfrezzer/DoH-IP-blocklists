@@ -52,6 +52,7 @@ dfw01.dnscry.pt
 dgca.myds.me
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
+dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-free.link
 dns-nyc.aaflalo.me
@@ -120,7 +121,7 @@ dns.pumplex.com
 dns.rslvr.eu
 dns.siry.de
 dns.surfshark.com
-dns.tesem.dog
+dns.technicule.info
 dns.truong.fi
 dns.tryk.app
 dns.wakgood.net
@@ -138,12 +139,15 @@ dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.sg.newpangea.de
+dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
 dns2.dnscrypt.ca
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
+dns2.technicule.info
 dns3.adblockersite.com
+dns3.technicule.info
 dns4.imkvq.com
 dns8.org
 dnsenc.com
@@ -151,6 +155,7 @@ dnses.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
+doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
@@ -177,6 +182,7 @@ doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.southam.family
+doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
 doh.zln.wtf
@@ -260,6 +266,7 @@ sg.yepdns.com
 snoke.meganerd.nl
 surt.ml
 t2c.240130034.xyz
+technicule.info
 thanos.pleumkungz.com
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
@@ -272,6 +279,7 @@ us-chi-doh.sb
 us-east.adhole.org
 us.rslvr.eu
 vanced.sytes.net
+vpn.technicule.info
 wdns.233py.com
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org

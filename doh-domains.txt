@@ -170,7 +170,6 @@ dns-doh.doh.pub
 dns-doh.dot.pub
 dns-doh.kescher.at
 dns-doh.sriedmueadguard.casa
-dns-doh.technicule.info
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
@@ -458,9 +457,9 @@ dns.swin.pro
 dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
-dns.technicule.info
 dns.technostriker.com
 dns.telekom.de
+dns.tesem.dog
 dns.thebuckners.org
 dns.thegoodsource.net
 dns.theres.one
@@ -517,7 +516,6 @@ dns1.sarak.as
 dns1.sitdns.com
 dns1.sriedmueadguard.casa
 dns1.techeasy.org
-dns1.technicule.info
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -544,7 +542,6 @@ dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
 dns2.sriedmueadguard.casa
-dns2.technicule.info
 dns3.dns-ga.de
 dns3.dns.pub
 dns3.dnsforge.de
@@ -554,7 +551,6 @@ dns3.kescher.at
 dns3.labnekotest.site
 dns3.sitdns.com
 dns3.sriedmueadguard.casa
-dns3.technicule.info
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -592,7 +588,6 @@ doh-dns.dot.pub
 doh-dns.kescher.at
 doh-dns.sitdns.com
 doh-dns.sriedmueadguard.casa
-doh-dns.technicule.info
 doh-ipv6.crypto.sx
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
@@ -702,7 +697,6 @@ doh.sidnlabs.nl
 doh.sitdns.com
 doh.sriedmueadguard.casa
 doh.syshero.org
-doh.technicule.info
 doh.technochat.in
 doh.tiar.app
 doh.tiarap.org
@@ -1066,7 +1060,6 @@ switch.ch
 syd.adfilter.net
 syd01.dnscry.pt
 takhtakh.domyah.net
-technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
@@ -1116,7 +1109,6 @@ vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua
 vm.mytm.cc
-vpn.technicule.info
 vpsus3.pzhg.me
 vtcuong.site
 wantaquddin.com
