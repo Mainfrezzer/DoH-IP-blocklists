@@ -236,7 +236,6 @@ la.ray0512.win
 lion.yazilimatolye.com
 lon-dns.bitdefender.net
 nanopi.cybergroove.net
-nat64.tuxis.nl
 ndns.233py.com
 neatdns.ustclug.org
 nebula.tru.io
