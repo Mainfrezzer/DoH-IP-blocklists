@@ -116,6 +116,7 @@ dns.nixnet.xyz
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
+dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
 dns.pumplex.com
@@ -219,6 +220,7 @@ hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
 i.233py.com.a.bdydns.com
+id.terra.my.id
 inde.ragnvindr.org
 iris.woozeno.eu
 irre.li
