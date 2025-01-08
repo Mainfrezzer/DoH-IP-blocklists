@@ -1970,3 +1970,8 @@ marasov.id
 lsqmbr-hk.kmbr.dev
 hk.mbrjun.cn
 dynamic.melvin2204.nl
+dns.rslvr.eu
+dns1.dns-ga.de
+dns2.dns-ga.de
+dns2.in-berlin.de
+dns3.dns-ga.de
