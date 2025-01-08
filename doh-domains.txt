@@ -45,7 +45,6 @@ adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.gbrossi.com.br
 adguard.haneulo.com
-adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.kiboko.it
 adguard.konikoni428.com
@@ -651,7 +650,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kescher.at
 doh.killtw.im
 doh.kooman.org
@@ -835,7 +833,6 @@ jp.tiarap.org
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 keithchung.hopto.org
 kids.5ososea.com
@@ -938,7 +935,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
