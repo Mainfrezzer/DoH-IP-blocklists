@@ -83,7 +83,6 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
-dns.burgas.pro
 dns.bw.i81.ru
 dns.cfiec.net
 dns.chmc.ml
@@ -130,6 +129,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
