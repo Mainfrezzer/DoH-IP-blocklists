@@ -118,7 +118,6 @@ agh.printk.info
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
-ahoj.email
 al223-a73e-bj-v0.0.dxng.net
 all.dns.mullvad.net
 alleesph.online
@@ -201,7 +200,6 @@ common.dot.dns.yandex.net
 commons.host
 comss.one
 comss.ru
-console.carestyle.org
 cork-oak.christian.moe
 cork-oak.imchristian.de
 cph01.dnscry.pt
