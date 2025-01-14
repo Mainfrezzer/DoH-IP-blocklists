@@ -101,6 +101,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -295,6 +296,7 @@ odoh-target.alekberg.net
 oszx.co
 outdoorchair.us
 please.dontsteal.my.id
+princez.uk
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -338,3 +340,4 @@ www.memorialus.eu.org
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
+zakaria.website
