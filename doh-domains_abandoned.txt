@@ -192,6 +192,7 @@ doh.abmb.win
 doh.adblockersite.com
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.bt.com
 doh.chi.ahadns.net
 doh.doh.my.id
 doh.es.ahadns.net
@@ -246,6 +247,7 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
