@@ -79,6 +79,7 @@ dns.adblockersite.com
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
+dns.auapi.fun
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -100,7 +101,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -220,7 +220,6 @@ doh.velyn.my.id
 doh.zephyrus.id
 doh.zln.wtf
 doh2.abmb.win
-dohdot.coxlab.net
 dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
@@ -247,7 +246,6 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
@@ -295,6 +293,7 @@ odoh-target.alekberg.net
 oszx.co
 outdoorchair.us
 please.dontsteal.my.id
+princez.uk
 quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -338,3 +337,4 @@ www.memorialus.eu.org
 xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
+zakaria.website
