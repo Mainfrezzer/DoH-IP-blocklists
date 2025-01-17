@@ -119,6 +119,7 @@ dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
+dns.janl.eu
 dns.jucker.engineering
 dns.kugoapps.com
 dns.kumoumi.net

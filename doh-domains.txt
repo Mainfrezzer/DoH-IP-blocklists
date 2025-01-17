@@ -483,7 +483,6 @@ dns.ipoac.nl
 dns.is0mino.com
 dns.ishan.pw
 dns.islandnet.com
-dns.janl.eu
 dns.jhangy.us
 dns.jichi.io
 dns.jinwoo.dev
