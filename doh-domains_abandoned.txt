@@ -105,7 +105,6 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -131,6 +130,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -246,7 +246,6 @@ family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
@@ -308,7 +307,6 @@ sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
 snoke.meganerd.nl
-spacedns.org
 surt.ml
 sweden.privacy-dns.pw
 switzerland.privacy-dns.pw
