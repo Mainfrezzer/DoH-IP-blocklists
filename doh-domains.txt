@@ -635,7 +635,6 @@ dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
 dns.ronc.ru
-dns.rootlab.top
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
@@ -863,6 +862,7 @@ doh.belnet.be
 doh.best
 doh.boje8.me
 doh.bortzmeyer.fr
+doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it

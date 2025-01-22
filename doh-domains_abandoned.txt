@@ -100,6 +100,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -130,6 +131,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -139,6 +141,7 @@ dns.oszx.co
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
+dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
@@ -190,7 +193,6 @@ doh.abmb.win
 doh.adblockersite.com
 doh.armadillodns.net
 doh.au.ahadns.net
-doh.bt.com
 doh.chi.ahadns.net
 doh.doh.my.id
 doh.es.ahadns.net
