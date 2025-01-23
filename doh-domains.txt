@@ -64,6 +64,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -142,7 +143,6 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-awan.ftp.sh
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -634,6 +634,7 @@ dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
 dns.ronc.ru
+dns.rootlab.top
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
