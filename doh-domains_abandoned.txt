@@ -103,7 +103,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -140,10 +139,10 @@ dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
-dns.oszx.co
 dns.pnh.my.id
 dns.post-factum.tk
 dns.privilab.net
+dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
@@ -296,7 +295,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-oszx.co
 outdoorchair.us
 please.dontsteal.my.id
 quic.lol
