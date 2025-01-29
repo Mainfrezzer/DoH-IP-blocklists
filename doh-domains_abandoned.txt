@@ -95,7 +95,6 @@ dns.cloudseriousshit.com
 dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
-dns.csa-rz.de
 dns.cybershell.xyz
 dns.dns-over-https.com
 dns.dnsoverhttps.net
