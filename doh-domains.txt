@@ -602,7 +602,6 @@ dns.pizzari.me
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
-dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
