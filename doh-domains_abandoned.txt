@@ -334,6 +334,7 @@ us-east.adhole.org
 us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
+virga.pp.ua
 vm.mytm.cc
 vpn.technicule.info
 vps.robotboard.de
