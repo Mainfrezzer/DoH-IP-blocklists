@@ -1087,6 +1087,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1569,6 +1570,7 @@ v.dnscrypt.uk
 v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
+virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
 vps333.brueggus.de
