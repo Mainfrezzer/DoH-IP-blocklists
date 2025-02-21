@@ -114,6 +114,7 @@ dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
+dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
 dns.ibakerserver.pt
@@ -250,6 +251,7 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+galileo.math.unipd.it
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
