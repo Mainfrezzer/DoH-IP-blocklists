@@ -1309,7 +1309,6 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-obscuro.top
 odin.limetric.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
