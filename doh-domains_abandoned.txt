@@ -9,6 +9,7 @@ ad1.heronet.nl
 adblock.borjalopez.eu
 adfiltro.fun
 adg.rokh.biz
+adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -111,6 +112,7 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -257,6 +259,7 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+gclouddns.com
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
