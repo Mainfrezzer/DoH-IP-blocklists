@@ -141,7 +141,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -158,7 +157,6 @@ dns.siry.de
 dns.surfshark.com
 dns.technicule.info
 dns.truong.fi
-dns.tryk.app
 dns.vip-kingstore.xyz
 dns.wakgood.net
 dns.wevpn.com
@@ -213,6 +211,7 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -259,7 +258,6 @@ externalmobiel.lekdijk.online
 family.dns.doubleangels.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-gclouddns.com
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
@@ -325,6 +323,7 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.yepdns.com
+sin01.dnscry.pt
 snoke.meganerd.nl
 surt.ml
 sweden.privacy-dns.pw

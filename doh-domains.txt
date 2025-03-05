@@ -688,6 +688,7 @@ dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
 dns.trust404.win
+dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
@@ -901,7 +902,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
@@ -1067,6 +1067,7 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -1464,7 +1465,6 @@ sgn01.dnscry.pt
 shalenkov.dev
 shield.afixer.app
 shield1.eranext.net
-sin01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
 sink.nolo.ltd
