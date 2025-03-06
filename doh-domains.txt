@@ -761,7 +761,6 @@ dns2.dns.pub
 dns2.dnsforge.de
 dns2.doh.pub
 dns2.dot.pub
-dns2.enzonix.com
 dns2.guidocioni.it
 dns2.in-berlin.de
 dns2.kescher.at
@@ -837,7 +836,6 @@ doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.almir1904.eu
 doh.angry.im
-doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
@@ -902,6 +900,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
