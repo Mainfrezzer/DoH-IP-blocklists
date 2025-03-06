@@ -112,6 +112,7 @@ dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -140,7 +141,6 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -202,7 +202,6 @@ doh.233py.com
 doh.978159.xyz
 doh.abmb.win
 doh.adblockersite.com
-doh.apad.pro
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.chi.ahadns.net
@@ -312,6 +311,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
+pope.cnblw.me
 quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -336,6 +336,7 @@ timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org

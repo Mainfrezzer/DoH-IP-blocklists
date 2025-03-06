@@ -836,6 +836,7 @@ doh.aaaab3n.moe
 doh.abraservice.xyz
 doh.almir1904.eu
 doh.angry.im
+doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
@@ -1367,7 +1368,6 @@ polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
-pope.cnblw.me
 princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
