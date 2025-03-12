@@ -688,7 +688,6 @@ dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
 dns.trust404.win
-dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
@@ -887,7 +886,6 @@ doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
 doh.eu.dnswarden.com
-doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.funil.de
@@ -1140,6 +1138,7 @@ jichi.hopto.org
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
+johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
