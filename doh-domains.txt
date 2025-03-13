@@ -390,7 +390,6 @@ dns.dotnet.win
 dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.edison42.dev
 dns.editechstudio.com
 dns.efficientdocuments.com
 dns.elemental.software
@@ -476,7 +475,6 @@ dns.is0mino.com
 dns.ishan.pw
 dns.islandnet.com
 dns.jhangy.us
-dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 dns.joaofidelix.com.br
@@ -1104,7 +1102,6 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1134,7 +1131,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 jhb01.dnscry.pt
-jichi.hopto.org
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
@@ -1313,7 +1309,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com

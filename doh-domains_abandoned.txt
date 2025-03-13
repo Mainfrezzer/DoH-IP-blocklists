@@ -107,6 +107,7 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
+dns.edison42.dev
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -127,6 +128,7 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
+dns.jichi.io
 dns.jucker.engineering
 dns.kugoapps.com
 dns.kumoumi.net
@@ -265,6 +267,7 @@ gustamadh.dynv6.net
 ha.o51r15.com
 himedns.com
 hk.rslvr.eu
+home27.duckdns.org
 hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com
@@ -276,6 +279,7 @@ iris.woozeno.eu
 irre.li
 jambi.undo.it
 jcdns.fun
+jichi.hopto.org
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -319,6 +323,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
