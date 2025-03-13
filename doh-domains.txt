@@ -588,7 +588,6 @@ dns.pari.network
 dns.pccoach.nl
 dns.peb-schmidt.de
 dns.pernika.net
-dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
 dns.pierzchlewicz.pl
@@ -1102,6 +1101,7 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1216,6 +1216,7 @@ mask-h2.icloud.com
 mask.icloud.com
 masters-of-cloud.de
 max.rethinkdns.com
+mc-sft.cn
 meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
@@ -1309,6 +1310,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
