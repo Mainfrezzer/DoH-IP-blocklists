@@ -26,6 +26,7 @@ adguard.ihatemy.live
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.konikoni428.com
+adguard.kss.ovh
 adguard.lista.my.id
 adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
@@ -108,7 +109,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.faze.dev
 dns.feldy.my.id
@@ -124,6 +124,7 @@ dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
 dns.ibakerserver.pt
+dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
@@ -163,6 +164,7 @@ dns.theres.one
 dns.truong.fi
 dns.tryk.app
 dns.vip-kingstore.xyz
+dns.vojtat.cz
 dns.wakgood.net
 dns.wevpn.com
 dns.wibenson.cloud

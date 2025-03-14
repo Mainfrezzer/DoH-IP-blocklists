@@ -67,7 +67,6 @@ adguard.hartley.cloud
 adguard.jfchenier.ca
 adguard.johanliebert.top
 adguard.kiboko.it
-adguard.kss.ovh
 adguard.lege.despagne.net
 adguard.maison.gifino.fr
 adguard.marto.si
@@ -466,7 +465,6 @@ dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inclusioproject.com
 dns.indust.me
-dns.indybanipal.com
 dns.inforlogia.com
 dns.interhub.cc
 dns.internal.hosmatic.com
@@ -702,7 +700,6 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vmath.my.id
-dns.vojtat.cz
 dns.w3ctag.org
 dns.wahr.top
 dns.wang.art
