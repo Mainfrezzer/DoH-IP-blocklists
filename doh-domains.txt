@@ -518,7 +518,6 @@ dns.lsho.top
 dns.luma-medien.com
 dns.mailkyb.co
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -784,16 +783,12 @@ dnscache0.ns71.net
 dnsforfamily.com
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
