@@ -246,6 +246,7 @@ dns-doh.sriedmueadguard.casa
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -470,6 +471,7 @@ dns.is0mino.com
 dns.ishan.pw
 dns.islandnet.com
 dns.jhangy.us
+dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 dns.joaofidelix.com.br
@@ -833,7 +835,6 @@ doh.azoris.ovh
 doh.beauty
 doh.belnet.be
 doh.best
-doh.boje8.me
 doh.bortzmeyer.fr
 doh.bt.com
 doh.buzz
@@ -1119,6 +1120,7 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 jhb01.dnscry.pt
+jichi.hopto.org
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
@@ -1363,6 +1365,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt

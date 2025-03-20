@@ -68,7 +68,6 @@ dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.technicule.info
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-public.ibakerserver.pt
@@ -133,7 +132,6 @@ dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
-dns.jichi.io
 dns.jucker.engineering
 dns.kugoapps.com
 dns.kumoumi.net
@@ -147,6 +145,7 @@ dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -217,6 +216,7 @@ doh.abmb.win
 doh.adblockersite.com
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.doh.my.id
@@ -290,7 +290,6 @@ iris.woozeno.eu
 irre.li
 jambi.undo.it
 jcdns.fun
-jichi.hopto.org
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -336,7 +335,6 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-quic.lol
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
