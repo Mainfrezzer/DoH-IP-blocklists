@@ -116,7 +116,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -166,7 +165,6 @@ dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
-dns.tryk.app
 dns.vip-kingstore.xyz
 dns.vojtat.cz
 dns.wakgood.net
