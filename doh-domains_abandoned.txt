@@ -107,6 +107,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
@@ -120,6 +121,7 @@ dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
+dns.hshoe.cn
 dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
@@ -141,6 +143,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
