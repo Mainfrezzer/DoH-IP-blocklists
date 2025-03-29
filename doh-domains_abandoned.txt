@@ -141,6 +141,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -256,7 +257,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 draco.plan9-ns2.com
-drs.rustsword.com
 ecs-doh.dnswarden.com
 edns.233py.com
 elshad-adgh-dns.ru
