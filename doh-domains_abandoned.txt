@@ -143,7 +143,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
@@ -329,6 +328,7 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+princez.uk
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -377,3 +377,4 @@ xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+zakaria.website
