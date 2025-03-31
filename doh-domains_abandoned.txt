@@ -113,7 +113,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -133,7 +132,6 @@ dns.ipv6dns.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
-dns.kugoapps.com
 dns.kumoumi.net
 dns.learningman.top
 dns.lightmaster.pw
@@ -168,7 +166,6 @@ dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
 dns.xiumu.org
-dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -328,7 +325,6 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
-princez.uk
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
@@ -377,4 +373,3 @@ xorbiadns.com
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
-zakaria.website
