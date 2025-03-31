@@ -108,6 +108,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
@@ -142,7 +143,9 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
+dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
@@ -167,7 +170,6 @@ dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
 dns.xiumu.org
-dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -256,7 +258,6 @@ dot.no.ahadns.net
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
-draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 edns.233py.com
 elshad-adgh-dns.ru
