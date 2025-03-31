@@ -1556,7 +1556,6 @@ vps391.brueggus.de
 vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wikimedia-dns.org
