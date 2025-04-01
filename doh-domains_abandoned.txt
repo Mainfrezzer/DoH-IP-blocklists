@@ -108,13 +108,11 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -327,8 +325,10 @@ odoh-target.alekberg.net
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
+pukanuragan.ru
 resolver-eu.lelux.fi
 resolver.noaddns.com
+resolver2.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
@@ -370,6 +370,7 @@ wdns.233py.com
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
+www.pukanuragan.ru
 www.zburger.top
 xbcpb668.com
 xorbiadns.com

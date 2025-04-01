@@ -1393,7 +1393,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
-pukanuragan.ru
 punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
@@ -1604,7 +1603,6 @@ www.masters-of-cloud.de
 www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
-www.pukanuragan.ru
 www.unasw.eu
 wyx.cloud
 xenergy.cc
