@@ -328,7 +328,6 @@ pope.cnblw.me
 pukanuragan.ru
 resolver-eu.lelux.fi
 resolver.noaddns.com
-resolver2.ipv6-sandbox.opendns.com
 sby-doh.limotelu.org
 sdns.233py.com
 secure.onedns.cc
