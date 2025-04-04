@@ -1118,6 +1118,7 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hrk01.dnscry.pt
 hshh.org
@@ -1332,7 +1333,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
