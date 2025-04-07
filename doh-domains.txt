@@ -605,6 +605,7 @@ dns.phillipjberry.net
 dns.pierzchlewicz.pl
 dns.pietjacobs.be
 dns.pizzari.me
+dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
