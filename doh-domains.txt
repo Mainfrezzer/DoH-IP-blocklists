@@ -481,7 +481,6 @@ dns.internal.hosmatic.com
 dns.ipoac.nl
 dns.is0mino.com
 dns.ishan.pw
-dns.islandnet.com
 dns.jhangy.us
 dns.jichi.io
 dns.jinwoo.dev
@@ -1153,7 +1152,6 @@ jichi.hopto.org
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
-johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb

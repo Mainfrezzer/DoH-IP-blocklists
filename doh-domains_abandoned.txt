@@ -107,7 +107,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
@@ -129,6 +128,7 @@ dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
 dns.ipv6dns.com
+dns.islandnet.com
 dns.itdept.pro
 dns.janl.eu
 dns.jucker.engineering
@@ -282,6 +282,7 @@ iris.woozeno.eu
 irre.li
 jambi.undo.it
 jit.ddns.net
+johneldenring.lol
 jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
