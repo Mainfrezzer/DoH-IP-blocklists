@@ -1147,6 +1147,7 @@ iterator.lazada.com
 ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
+jcdns.fun
 jhb01.dnscry.pt
 jichi.hopto.org
 jkdns.me
@@ -1197,6 +1198,7 @@ lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 lis01.dnscry.pt
 listo.click
 llk01.dnscry.pt
@@ -1589,6 +1591,7 @@ vps391.brueggus.de
 vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
+vtcuong.site
 waw01.dnscry.pt
 waw02.dnscry.pt
 wikimedia-dns.org
