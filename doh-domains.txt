@@ -260,6 +260,7 @@ dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
+dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
@@ -812,7 +813,6 @@ dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
-dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -1008,7 +1008,6 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
-drs.rustsword.com
 dtw01.dnscry.pt
 dual.home.daniil.it
 dub01.dnscry.pt
@@ -1109,7 +1108,6 @@ hk.mbrjun.cn
 hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hkvps.hshoe.cn
 hole.elbschloss.xyz
 home-server.store
@@ -1333,7 +1331,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
