@@ -260,7 +260,6 @@ dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.13evl.com
-dns.23-4.cn
 dns.240527.xyz
 dns.354688.xyz
 dns.3wv.de
@@ -911,6 +910,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
