@@ -527,7 +527,6 @@ dns.linkr.ninja
 dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
-dns.lsho.top
 dns.luma-medien.com
 dns.mailkyb.co
 dns.maitrekuc.fr
