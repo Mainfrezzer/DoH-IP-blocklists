@@ -57,6 +57,7 @@ chr.kepegawaiandju.id
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+d.bod.lol
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -88,6 +89,7 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
+dns.brono.cloud
 dns.bw.i81.ru
 dns.carter.me
 dns.cfiec.net
@@ -108,6 +110,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
