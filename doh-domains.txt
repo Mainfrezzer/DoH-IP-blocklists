@@ -849,6 +849,7 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
+doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.att.net
@@ -1100,6 +1101,7 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.mbrjun.cn
@@ -1236,7 +1238,6 @@ mask-h2.icloud.com
 mask.icloud.com
 masters-of-cloud.de
 max.rethinkdns.com
-mc-sft.cn
 meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
@@ -1474,6 +1475,7 @@ sg-sin.doh.sb
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 sg.teradns.org
+sg.yepdns.com
 sg01.dns4me.net
 sg1.dnswarden.com
 sg2.ooroot.com

@@ -114,6 +114,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -210,7 +211,6 @@ doh.233py.com
 doh.978159.xyz
 doh.abmb.win
 doh.adblockersite.com
-doh.armadillodns.net
 doh.au.ahadns.net
 doh.boje8.me
 doh.chi.ahadns.net
@@ -271,7 +271,6 @@ gclouddns.com
 greatideasforlife.lol
 groupy.ga
 ha.o51r15.com
-himedns.com
 hk.rslvr.eu
 hydroxlab.ru.com
 i.233py.com
@@ -296,6 +295,7 @@ lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
+mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
 miniapp.global
@@ -337,7 +337,6 @@ secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
-sg.yepdns.com
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
