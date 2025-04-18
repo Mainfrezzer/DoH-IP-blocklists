@@ -404,7 +404,6 @@ dns.editechstudio.com
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
-dns.ellichua.com
 dns.engineer.web.id
 dns.enzonix.com
 dns.eu-frankfurt-1.oraclecloud.com
@@ -1238,6 +1237,7 @@ mask-h2.icloud.com
 mask.icloud.com
 masters-of-cloud.de
 max.rethinkdns.com
+mc-sft.cn
 meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
