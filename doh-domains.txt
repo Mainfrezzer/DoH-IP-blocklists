@@ -760,7 +760,6 @@ dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
 dns13.quad9.net
-dns2.cbio.top
 dns2.d94.xyz
 dns2.digitale-gesellschaft.ch
 dns2.dns-ga.de
@@ -1526,6 +1525,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org

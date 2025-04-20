@@ -117,7 +117,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -190,6 +189,7 @@ dns1.sg.newpangea.de
 dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
+dns2.cbio.top
 dns2.dnscrypt.ca
 dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
@@ -353,7 +353,6 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-truta.org
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
