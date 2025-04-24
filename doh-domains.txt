@@ -1096,7 +1096,6 @@ han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
-hfgx.shop
 himedns.com
 hitian.me
 hk-hkg.doh.sb
