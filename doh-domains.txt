@@ -671,6 +671,7 @@ dns.strassmair.org
 dns.stvsk.ml
 dns.suhaila.dev
 dns.superstefan.win
+dns.surfshark.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
@@ -1013,7 +1014,6 @@ easyhandshake.com
 echoe1yidzu4ioo5.myfritz.net
 edgy-dns.com
 ee-tll.doh.sb
-eliatofani.ovh
 emby.rasp.tv
 ender.crystalyx.net
 esel.stusta.mhn.de
@@ -1085,6 +1085,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
