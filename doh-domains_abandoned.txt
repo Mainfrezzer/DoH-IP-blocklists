@@ -110,7 +110,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -148,7 +147,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -276,7 +274,6 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -333,7 +330,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 please.dontsteal.my.id
 pope.cnblw.me
