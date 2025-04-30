@@ -111,7 +111,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -310,6 +309,7 @@ michelo.line.pm
 miniapp.global
 mita-is.so-gorgeo.us.kg
 mnrv.trade
+moamao.shop
 myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
