@@ -106,11 +106,11 @@ dns.dnsoverhttps.net
 dns.dnssilo.top
 dns.doh.best
 dns.doh.my.id
+dns.dremaxx.de
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -148,7 +148,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -181,6 +180,7 @@ dns.ypbind.de
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
+dns1.dns-ga.de
 dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
@@ -190,12 +190,14 @@ dns1.sg.newpangea.de
 dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
+dns2.dns-ga.de
 dns2.dnscrypt.ca
 dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns2.technicule.info
 dns3.adblockersite.com
+dns3.dns-ga.de
 dns3.labnekotest.site
 dns3.technicule.info
 dns4.imkvq.com
