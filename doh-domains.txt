@@ -690,6 +690,7 @@ dns.therifleman.name
 dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
+dns.tracker.ink
 dns.trust404.win
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -899,7 +900,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
@@ -1362,7 +1362,6 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
-polisitogel.show
 polisitogel.webcam
 pooblet.co.za
 princez.uk
@@ -1583,7 +1582,6 @@ ww2.hellozhao.com
 www.c-dns.com
 www.chungocoai.name.vn
 www.criena.net
-www.dltuykfgp.top
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
