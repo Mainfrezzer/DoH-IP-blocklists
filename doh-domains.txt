@@ -43,7 +43,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
@@ -900,6 +899,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
