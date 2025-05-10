@@ -101,6 +101,7 @@ dns.comeonjames.club
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
+dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -110,6 +111,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -169,6 +171,7 @@ dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
 dns.tryk.app
+dns.us.futuredns.eu.org
 dns.vip-kingstore.xyz
 dns.vojtat.cz
 dns.wakgood.net
@@ -303,6 +306,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -315,6 +319,7 @@ miniapp.global
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 moamao.shop
+multi.dns.marbledfennec.net
 myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
