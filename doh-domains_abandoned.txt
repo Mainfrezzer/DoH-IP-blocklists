@@ -22,6 +22,7 @@ adguard.bitteeinbyte.de
 adguard.blogssl.com
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -119,7 +120,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -150,7 +150,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
