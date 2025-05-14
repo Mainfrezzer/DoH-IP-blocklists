@@ -64,7 +64,10 @@ d.bod.lol
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
+dns-3.wil.cloud
 dns-asia.wugui.zone
+dns-doh.adblockersite.com
+dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
@@ -80,6 +83,7 @@ dns.52306.org
 dns.5ososea.com
 dns.aaflalo.me
 dns.aaytorr.com
+dns.adblockersite.com
 dns.aerro.in
 dns.anonymous.pw
 dns.apigw.online
@@ -127,6 +131,7 @@ dns.hshoe.cn
 dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
+dns.ibakerserver.pt
 dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
@@ -162,6 +167,7 @@ dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
+dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
 dns.truong.fi
@@ -178,6 +184,7 @@ dns.xiumu.org
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
 dns1.dns-ga.de
@@ -187,12 +194,19 @@ dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.server.my.id
 dns1.sg.newpangea.de
+dns1.technicule.info
 dns1.us.newpangea.de
+dns2.adblockersite.com
 dns2.dns-ga.de
 dns2.dnscrypt.ca
+dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
+dns2.technicule.info
+dns3.adblockersite.com
 dns3.dns-ga.de
+dns3.labnekotest.site
+dns3.technicule.info
 dns4.imkvq.com
 dns8.org
 dnsenc.com
@@ -203,11 +217,14 @@ dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
+doh-dns.adblockersite.com
+doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
 doh.978159.xyz
 doh.abmb.win
+doh.adblockersite.com
 doh.au.ahadns.net
 doh.boje8.me
 doh.chi.ahadns.net
@@ -236,6 +253,7 @@ doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
+doh.technicule.info
 doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
@@ -333,6 +351,7 @@ outdoorchair.us
 please.dontsteal.my.id
 polisitogel.show
 pope.cnblw.me
+pukanuragan.ru
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
