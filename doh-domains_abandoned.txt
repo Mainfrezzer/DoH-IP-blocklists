@@ -57,7 +57,6 @@ chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
-cleanbrowsing.org
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -166,6 +165,7 @@ dns.pumplex.com
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
+dns.skrep.eu
 dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
