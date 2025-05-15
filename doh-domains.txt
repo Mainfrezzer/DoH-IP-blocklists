@@ -415,7 +415,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -650,6 +649,7 @@ dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
+dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
