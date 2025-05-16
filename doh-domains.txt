@@ -843,7 +843,6 @@ doh.beauty
 doh.belnet.be
 doh.best
 doh.bortzmeyer.fr
-doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it

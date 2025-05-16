@@ -228,6 +228,7 @@ doh.abmb.win
 doh.adblockersite.com
 doh.au.ahadns.net
 doh.boje8.me
+doh.bt.com
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.datacore.ch
