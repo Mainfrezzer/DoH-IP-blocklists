@@ -149,7 +149,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -331,6 +330,7 @@ nebula.tru.io
 nenam.eu
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
+nl.dns.privex.io
 nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
