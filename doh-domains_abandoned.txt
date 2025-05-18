@@ -103,6 +103,7 @@ dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
 dns.de.futuredns.eu.org
+dns.digitale-gesellschaft.ch
 dns.dns-over-https.com
 dns.dnsoverhttps.net
 dns.dnssilo.top
@@ -119,7 +120,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -150,7 +150,6 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -188,6 +187,7 @@ dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
+dns1.digitale-gesellschaft.ch
 dns1.dns-ga.de
 dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
@@ -198,6 +198,7 @@ dns1.sg.newpangea.de
 dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
+dns2.digitale-gesellschaft.ch
 dns2.dns-ga.de
 dns2.dnscrypt.ca
 dns2.enzonix.com
@@ -349,6 +350,7 @@ odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 outdoorchair.us
+pi1.node15.com
 please.dontsteal.my.id
 polisitogel.show
 pope.cnblw.me
