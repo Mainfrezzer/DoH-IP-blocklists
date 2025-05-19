@@ -550,7 +550,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1131,6 +1130,7 @@ jichi.hopto.org
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
+johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb

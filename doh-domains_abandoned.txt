@@ -150,6 +150,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -303,7 +304,6 @@ iris.woozeno.eu
 irre.li
 jambi.undo.it
 jit.ddns.net
-johneldenring.lol
 jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
