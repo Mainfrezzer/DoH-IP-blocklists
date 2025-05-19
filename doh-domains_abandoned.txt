@@ -150,6 +150,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -353,6 +354,7 @@ please.dontsteal.my.id
 polisitogel.show
 pope.cnblw.me
 pukanuragan.ru
+qqmcfw.tech
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
