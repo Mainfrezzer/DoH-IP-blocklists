@@ -1,5 +1,6 @@
 052419.xyz
 1.xhr0no.my
+3dns.eu
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -118,6 +119,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -148,6 +150,7 @@ dns.maolaohei.xyz
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -220,6 +223,7 @@ doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
+doh.3dns.eu
 doh.978159.xyz
 doh.abmb.win
 doh.adblockersite.com
