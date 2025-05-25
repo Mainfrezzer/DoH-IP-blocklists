@@ -118,7 +118,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -259,7 +258,9 @@ doh.this.web.id
 doh.velyn.my.id
 doh.zephyrus.id
 doh.zln.wtf
+doh1.blahdns.com
 doh2.abmb.win
+doh2.blahdns.com
 dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
