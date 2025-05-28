@@ -171,6 +171,7 @@ dns.siry.de
 dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
+dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
 dns.tryk.app
