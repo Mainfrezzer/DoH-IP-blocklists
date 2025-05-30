@@ -150,6 +150,7 @@ dns.mandre.dev
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -170,7 +171,6 @@ dns.siry.de
 dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
-dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
 dns.tryk.app
