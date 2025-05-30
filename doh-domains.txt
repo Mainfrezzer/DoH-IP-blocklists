@@ -396,7 +396,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1596,5 +1595,6 @@ zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
+zougloub.eu
 zrh1-ns01.monzoon.net
 zxcvb.pp.ua
