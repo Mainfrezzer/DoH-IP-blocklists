@@ -116,6 +116,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -188,7 +189,6 @@ dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
-dns1.dns-ga.de
 dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
@@ -198,14 +198,12 @@ dns1.sg.newpangea.de
 dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
-dns2.dns-ga.de
 dns2.dnscrypt.ca
 dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns2.technicule.info
 dns3.adblockersite.com
-dns3.dns-ga.de
 dns3.labnekotest.site
 dns3.technicule.info
 dns4.imkvq.com
@@ -233,7 +231,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.cnetwork.cloud
 doh.datacore.ch
-doh.dns-ga.de
 doh.doh.my.id
 doh.es.ahadns.net
 doh.excdn.eu.org
@@ -362,7 +359,6 @@ resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
 sdns.233py.com
-secure-dns.dns-ga.de
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz

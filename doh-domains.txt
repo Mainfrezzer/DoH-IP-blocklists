@@ -395,7 +395,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -727,6 +726,7 @@ dns0.eu
 dns01.flm9.net
 dns1.conne.net
 dns1.digitale-gesellschaft.ch
+dns1.dns-ga.de
 dns1.dns.pub
 dns1.dnscrypt.ca
 dns1.dnsforge.de
@@ -753,6 +753,7 @@ dns13.quad9.net
 dns2.cbio.top
 dns2.d94.xyz
 dns2.digitale-gesellschaft.ch
+dns2.dns-ga.de
 dns2.dns.pub
 dns2.dnsforge.de
 dns2.doh.pub
@@ -770,6 +771,7 @@ dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
 dns2.sriedmueadguard.casa
+dns3.dns-ga.de
 dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
@@ -855,6 +857,7 @@ doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
+doh.dns-ga.de
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.pub
@@ -1431,6 +1434,7 @@ secondary.dns.seia.io
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
 secondary.safe.dns.yandex.ru
+secure-dns.dns-ga.de
 secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
