@@ -61,7 +61,6 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 d.bod.lol
-dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -347,7 +346,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
