@@ -22,6 +22,7 @@ adguard.bitteeinbyte.de
 adguard.blogssl.com
 adguard.dessoi.cloud
 adguard.dtness.com
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -115,7 +116,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -151,7 +151,6 @@ dns.mandre.dev
 dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -239,6 +238,7 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -309,6 +309,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id

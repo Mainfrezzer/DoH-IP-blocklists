@@ -60,7 +60,6 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -396,6 +395,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -549,6 +549,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -892,7 +893,6 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
@@ -1140,7 +1140,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
