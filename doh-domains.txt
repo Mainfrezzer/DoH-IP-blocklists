@@ -892,6 +892,7 @@ doh.infotek.net.id
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
@@ -1097,6 +1098,7 @@ home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
+httpdns-sc.aliyuncs.com
 httpdns.meituan.com
 hungary.privacy-dns.pw
 hydra.plan9-ns1.com
