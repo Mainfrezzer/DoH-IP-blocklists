@@ -122,7 +122,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -135,7 +134,6 @@ dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
 dns.ibakerserver.pt
-dns.imaicool.com
 dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
