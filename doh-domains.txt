@@ -547,7 +547,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -556,7 +555,6 @@ dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
 dns.neowutran.ovh
-dns.netraptor.com.au
 dns.netvpn.net
 dns.neubsi.at
 dns.nextdns.io
