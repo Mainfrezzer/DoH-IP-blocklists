@@ -170,6 +170,8 @@ dns.rafn.is
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
+dns.skrep.eu
+dns.skrep.in
 dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
@@ -313,6 +315,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
