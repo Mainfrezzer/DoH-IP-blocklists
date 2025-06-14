@@ -84,6 +84,7 @@ dns.52306.org
 dns.5ososea.com
 dns.775467.xyz
 dns.8887744.xyz
+dns.9999.sg
 dns.aaflalo.me
 dns.aaytorr.com
 dns.adblockersite.com
@@ -152,6 +153,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.netraptor.com.au
 dns.nightlymoon.us.kg
@@ -222,6 +224,8 @@ doh-dns.adblockersite.com
 doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh-own-recursion.nicolas-dorriere.fr
+doh-random-upstream.nicolas-dorriere.fr
 doh.233py.com
 doh.774445.xyz
 doh.978159.xyz

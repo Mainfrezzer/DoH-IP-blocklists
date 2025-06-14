@@ -265,7 +265,6 @@ dns.7vpn.com
 dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
-dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.abdullahabas.de
@@ -548,7 +547,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -814,11 +812,9 @@ doh-dns.kescher.at
 doh-dns.sitdns.com
 doh-dns.sriedmueadguard.casa
 doh-ipv6.crypto.sx
-doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
-doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.30x.me
 doh.360.cn
