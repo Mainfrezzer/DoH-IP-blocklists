@@ -902,6 +902,7 @@ doh.lacontrevoie.fr
 doh.li
 doh.libredns.gr
 doh.luigi.nexific.it
+doh.lv
 doh.maskab.com
 doh.max.net.id
 doh.micronets.in
