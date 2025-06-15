@@ -152,10 +152,12 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
+dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.ovpn.bond
@@ -240,6 +242,7 @@ doh.gslb2.xfinity.com
 doh.hajekj.net
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -258,7 +261,6 @@ doh.technicule.info
 doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
-doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
@@ -357,6 +359,7 @@ polisitogel.show
 pope.cnblw.me
 pukanuragan.ru
 qqmcfw.tech
+resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
