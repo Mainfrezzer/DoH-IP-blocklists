@@ -105,7 +105,6 @@ dns.cloudseriousshit.com
 dns.comeonjames.club
 dns.containerpi.com
 dns.criena.net
-dns.csa-rz.de
 dns.cybershell.xyz
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
