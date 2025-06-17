@@ -121,7 +121,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -407,3 +406,4 @@ ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
 yuvelirtut.website
+zougloub.eu
