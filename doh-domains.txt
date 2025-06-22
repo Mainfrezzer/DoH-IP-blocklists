@@ -60,6 +60,7 @@ adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -411,7 +412,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -546,7 +546,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1090,6 +1089,7 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1219,6 +1219,7 @@ mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
 mo0on15.com
+montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1302,6 +1303,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1498,6 +1500,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
