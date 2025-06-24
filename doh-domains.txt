@@ -135,7 +135,6 @@ at-wie-w-p-1.nashkan.net
 at.pzhg.me
 ath01.dnscry.pt
 atl01.dnscry.pt
-atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
@@ -547,6 +546,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1065,6 +1065,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
