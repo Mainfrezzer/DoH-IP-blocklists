@@ -156,7 +156,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.mzjtechnology.com
-dns.nas-server.ru
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
