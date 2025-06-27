@@ -61,6 +61,7 @@ chr.kepegawaiandju.id
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -171,7 +172,6 @@ dns.pumplex.com
 dns.rafn.is
 dns.rslvr.eu
 dns.salonia.it
-dns.sev.monster
 dns.siry.de
 dns.technicule.info
 dns.theres.one

@@ -211,7 +211,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -633,6 +632,7 @@ dns.sec511.com
 dns.seia.io
 dns.seiffert.me
 dns.sellan.fr
+dns.sev.monster
 dns.shareworx.net
 dns.shecan.ir
 dns.sheggi.ch
