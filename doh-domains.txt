@@ -1045,7 +1045,6 @@ freedom.mydns.network
 frog.dns.qwer.pw
 fuchur.pentament.de
 fwgw.orangepipc.mywire.org
-galileo.math.unipd.it
 gateway.fomichev.cloud
 gayanalysing.co.uk
 gb-cov-w-f-1.nashkan.net
