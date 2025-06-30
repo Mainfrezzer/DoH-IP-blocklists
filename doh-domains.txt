@@ -219,6 +219,7 @@ de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
+de.dns.privex.io
 de.teradns.org
 de01.dns4me.net
 deep-henchman-excuse.cfd
@@ -403,7 +404,6 @@ dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
-dns.f97.xyz
 dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
@@ -546,6 +546,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1242,6 +1243,7 @@ nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
+nl.dns.privex.io
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
