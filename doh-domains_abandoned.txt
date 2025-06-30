@@ -62,6 +62,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
+de.dns.privex.io
 dfw01.dnscry.pt
 dgca.myds.me
 dns-3.wil.cloud
@@ -153,6 +154,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -337,6 +339,7 @@ nebula.tru.io
 nenam.eu
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
+nl.dns.privex.io
 nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
