@@ -403,6 +403,7 @@ dns.eu-frankfurt-1.oraclecloud.com
 dns.expert
 dns.extrawdw.net
 dns.f4a.fun
+dns.f97.xyz
 dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
@@ -433,7 +434,6 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
-dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -545,6 +545,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
