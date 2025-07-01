@@ -37,6 +37,7 @@ adguardh.ga
 affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
+ahoj.email
 aihe.app
 alleesph.online
 anydoh.sidnlabs.nl
@@ -118,12 +119,14 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -297,6 +300,7 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -358,6 +362,7 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
+princez.uk
 pukanuragan.ru
 qqmcfw.tech
 resolve2.r9x.cc
@@ -409,3 +414,4 @@ ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
 yuvelirtut.website
+zakaria.website
