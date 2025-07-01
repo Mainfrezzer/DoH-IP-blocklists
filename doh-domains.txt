@@ -270,7 +270,6 @@ dns.aa.net.uk
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
-dns.adrianlam.com
 dns.albony.xyz
 dns.alidns.com
 dns.alloxr.info
@@ -411,6 +410,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
