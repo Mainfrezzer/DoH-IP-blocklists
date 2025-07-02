@@ -514,7 +514,6 @@ dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
 dns.luma-medien.com
-dns.mailkyb.co
 dns.maitrekuc.fr
 dns.maolaohei.xyz
 dns.marasov.id
@@ -1060,7 +1059,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1194,7 +1192,6 @@ mabuktogel.solutions
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
-mailkyb.co
 mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
