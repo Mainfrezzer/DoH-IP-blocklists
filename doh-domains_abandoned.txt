@@ -129,6 +129,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.futuredns.me
@@ -161,7 +162,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -302,6 +302,7 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -367,7 +368,6 @@ pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
