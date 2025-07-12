@@ -288,7 +288,6 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
-dns.auapi.fun
 dns.azsopro.net
 dns.b33.space
 dns.b612.me
@@ -1377,7 +1376,6 @@ resolv2.trash.net
 resolv3.trash.net
 resolver-eu.haringstad.com
 resolver.dnsprivacy.org.uk
-resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
 resolver.unstoppable.io
