@@ -12,9 +12,7 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
-adfiltro.fun
 adg.rokh.biz
-adg.rueiliu.space
 adg.tshost.no
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -43,7 +41,6 @@ affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -124,7 +121,6 @@ dns.doh.my.id
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -134,14 +130,12 @@ dns.fgbk.net
 dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
-dns.futuredns.me
 dns.glorydns.com
 dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.ian.rocks
 dns.ibakerserver.pt
@@ -154,7 +148,6 @@ dns.janl.eu
 dns.jucker.engineering
 dns.keke125.com
 dns.kumoumi.net
-dns.labnekotest.site
 dns.learningman.top
 dns.lsho.top
 dns.lvolland.fr
@@ -163,6 +156,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
@@ -198,7 +192,6 @@ dns.yague.me
 dns.youni.win
 dns.ypbind.de
 dns.zfsystem.tech
-dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -217,7 +210,6 @@ dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns2.technicule.info
 dns3.adblockersite.com
-dns3.labnekotest.site
 dns3.technicule.info
 dns4.imkvq.com
 dns8.org
@@ -242,7 +234,6 @@ doh.au.ahadns.net
 doh.battle.christmas
 doh.boje8.me
 doh.chi.ahadns.net
-doh.cnetwork.cloud
 doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
