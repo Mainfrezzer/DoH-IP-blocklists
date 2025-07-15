@@ -641,7 +641,6 @@ dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
-dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
 dns.soldier.terumi.club
@@ -1066,6 +1065,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1221,7 +1221,6 @@ montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
-msr177.com
 muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net

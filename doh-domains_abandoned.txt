@@ -175,6 +175,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
 dns.skrep.eu
+dns.skrep.in
 dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
@@ -293,7 +294,6 @@ fr-gra-w-f-1.nashkan.net
 gclouddns.com
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -331,6 +331,7 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 moamao.shop
+msr177.com
 myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
