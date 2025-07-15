@@ -126,6 +126,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -175,7 +176,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
 dns.skrep.eu
-dns.skrep.in
 dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
@@ -316,6 +316,7 @@ jp.rslvr.eu
 justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -331,7 +332,6 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 moamao.shop
-msr177.com
 myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
