@@ -69,13 +69,11 @@ adguard.lege.despagne.net
 adguard.maison.gifino.fr
 adguard.marto.si
 adguard.meddy94.de
-adguard.neon0404.space
 adguard.oms-ctr.ru
 adguard.onlyfriends.info
 adguard.pangerl.it
 adguard.pggns.de
 adguard.piekacz.pl
-adguard.quydang.name.vn
 adguard.ruby.ci
 adguard.senthil.us
 adguard.shoupperuser.com
