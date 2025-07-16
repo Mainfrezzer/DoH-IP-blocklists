@@ -389,7 +389,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -406,7 +405,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -560,6 +558,7 @@ dns.nguyendn.com
 dns.nhtsky.com
 dns.nick-slowinski.de
 dns.ningkelle.id
+dns.njal.la
 dns.nodoa.me
 dns.novali.date
 dns.novg.net
@@ -639,6 +638,7 @@ dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
+dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
 dns.smartguard.io
@@ -1136,6 +1136,7 @@ jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
 jurre-home.duckdns.org
+justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
 keithchung.hopto.org
