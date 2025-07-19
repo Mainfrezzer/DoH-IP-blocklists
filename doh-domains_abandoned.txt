@@ -123,6 +123,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -385,6 +386,7 @@ tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
