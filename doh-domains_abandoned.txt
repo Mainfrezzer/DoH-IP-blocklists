@@ -3,7 +3,6 @@
 351242444.xyz
 89433332.xyz
 a-bld.sys-adm.in
-a.zpn.me
 aattwwss.duckdns.org
 ad-dns.lista.my.id
 ad1.heronet.nl
@@ -123,7 +122,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -160,7 +158,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -386,7 +383,6 @@ tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
