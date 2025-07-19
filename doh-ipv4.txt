@@ -5,7 +5,7 @@
 1.1.1.2             # security.cloudflare-dns.com
 1.1.1.3             # family.cloudflare-dns.com
 1.12.12.12          # dns.pub
-1.12.34.56          # dns.dot.pub
+1.12.34.56          # dns1.doh.pub
 1.230.209.26        # agh.kyusang.win
 2.58.59.12          # de.teradns.org
 2.59.169.204        # dns.hoody.com
@@ -47,7 +47,6 @@
 5.75.228.192        # ns.data.haus
 5.78.98.38          # us-hil-w-p-1.nashkan.net
 5.78.102.99         # us-hil-w-f-1.nashkan.net
-5.79.68.110         # us-ny-alula.heliumcloud.cc
 5.79.70.195         # dns.ginovs.nl
 5.134.118.198       # mad01.dnscry.pt
 5.161.43.197        # chromium.dns.nextdns.io
@@ -869,7 +868,6 @@
 23.189.248.2        # doh.buzz
 23.191.80.72        # yhz01.dnscry.pt
 23.230.253.98       # dfw02.dnscry.pt
-23.239.10.192       # dns.fizz.studio
 23.251.158.202      # dns4me.net
 24.199.70.134       # qdns02.nymterm.com
 24.240.146.7        # doh-01.spectrum.com
@@ -899,8 +897,6 @@
 36.80.149.105       # dns.velyn.my.id
 36.156.184.156      # pdns.itxe.net
 37.16.18.81         # fly.io
-37.19.207.34        # doh1.b-cdn.net
-37.19.207.37        # doh2.b-cdn.net
 37.27.218.33        # resolver.rferee.dev
 37.59.103.226       # eliatofani.ovh
 37.59.204.160       # dns1.saferbfc.org
@@ -914,8 +910,9 @@
 37.187.158.2        # adguard.ender.fr
 37.228.129.160      # hel01.dnscry.pt
 37.235.49.95        # doh.azoris.ovh
-37.252.231.163      # dns0.eu
+37.252.231.163      # kids.dns0.eu
 38.45.64.117        # rdu01.dnscry.pt
+38.104.169.186      # doh1.b-cdn.net
 38.107.232.115      # ada.openbld.net
 38.186.42.90        # dns.flwagners.com
 38.207.7.71         # mc-sft.cn
@@ -1037,9 +1034,9 @@
 49.13.50.5          # dns1.dns-ga.de
 49.13.60.236        # adguard.kiboko.it
 49.13.95.125        # de-fsn-w-p-1.nashkan.net
-49.212.198.36       # adguard.kantinyoyok.xyz
+49.212.198.36       # axaxa.fun
 49.212.198.71       # timedns.net
-49.212.207.51       # adg.yybyy.wiki
+49.212.207.51       # ads.hunga1k47.com
 50.116.59.251       # adguard.shoupperuser.com
 51.15.75.165        # osefcorp.duckdns.org
 51.15.113.207       # doh.kel.pe
@@ -1129,7 +1126,7 @@
 69.197.141.68       # us-kan-w-f-1.nashkan.net
 70.34.196.140       # korzhov.dev
 70.34.243.158       # dns.interhub.cc
-70.253.80.157       # dns.sarak.as
+70.253.80.157       # dns.sarakas.net
 70.253.80.158       # dns.sarakas.net
 72.18.77.77         # dns.eddi.net
 72.18.215.51        # us-kan-w-p-1.nashkan.net
@@ -1142,9 +1139,9 @@
 76.76.2.11          # family.freedns.controld.com
 76.76.2.22          # dns.controld.com
 76.76.21.21         # arashi.eu.org
-76.76.21.61         # dns.vishalk.com
-76.76.21.98         # arashi.net.eu.org
-76.76.21.164        # arashi.net.eu.org
+76.76.21.22         # arashi.net.eu.org
+76.76.21.93         # dns.vishalk.com
+76.76.21.142        # arashi.net.eu.org
 76.76.21.241        # dns.vishalk.com
 76.223.37.67        # dns.thegoodsource.net
 76.223.54.146       # a.zpn.me
@@ -1152,9 +1149,9 @@
 77.68.88.220        # dns.kuuhaku.moe
 77.68.117.221       # zakaria.website
 77.88.8.1           # common.dot.dns.yandex.net
-77.88.8.2           # secondary.safe.dns.yandex.ru
+77.88.8.2           # safe.dot.dns.yandex.net
 77.88.8.3           # family.dot.dns.yandex.net
-77.88.8.7           # family.dns.yandex.ru
+77.88.8.7           # family.dot.dns.yandex.net
 77.88.8.8           # common.dot.dns.yandex.net
 77.88.8.88          # safe.dns.yandex.ru
 78.46.244.143       # dot-de.blahdns.com
@@ -1235,7 +1232,6 @@
 84.82.15.107        # ipoac.nl
 84.104.237.102      # dns.melvin2204.nl
 84.183.57.251       # echoe1yidzu4ioo5.myfritz.net
-84.191.58.29        # dns.reitmeier.me
 85.90.207.199       # evn01.dnscry.pt
 85.120.84.5         # vps368.brueggus.de
 85.144.16.212       # dns.odinpl.com
@@ -1285,7 +1281,7 @@
 89.233.43.71        # unicast.uncensoreddns.org
 89.233.105.6        # dns.cryptomize.com
 89.234.183.32       # dns.7sec.com.br
-90.58.17.39         # doh-random-upstream.nicolas-dorriere.fr
+90.58.17.39         # doh-own-recursion.nicolas-dorriere.fr
 91.99.4.136         # www.criena.net
 91.99.249.235       # dns.abdullahabas.de
 91.106.133.47       # home.wriedts.de
@@ -1295,7 +1291,7 @@
 91.134.75.146       # nsc.torgues.net
 91.192.102.204      # mailkyb.co
 91.197.1.176        # mickedi.isgood.host
-91.198.156.20       # doh.nic.lv
+91.198.156.20       # doh.lv
 91.204.45.202       # dns.warpnine.de
 91.207.154.1        # doh.domreg.lt
 91.207.155.1        # doh.domreg.lt
@@ -1304,7 +1300,7 @@
 91.233.189.164      # dns.ronc.ru
 91.239.27.199       # testaghome.meshkov.info
 91.239.96.35        # privacydns.go6lab.si
-91.239.100.100      # anycast.uncensoreddns.org
+91.239.100.100      # anycast.censurfridns.dk
 92.63.169.45        # ns3.bit-trail.nl
 92.118.188.53       # sg-sin.doh.sb
 92.176.250.87       # dns.jichi.io
@@ -1313,6 +1309,7 @@
 93.95.115.21        # eyg01.dnscry.pt
 93.177.64.13        # family.5ososea.com
 93.190.126.69       # doh.immerda.ch
+93.231.29.64        # dns.reitmeier.me
 94.16.111.86        # dns.immanuelschaffer.de
 94.16.117.107       # ns2.4netguides.org
 94.23.71.64         # dns.clanto.cloud
@@ -1351,7 +1348,7 @@
 95.229.168.3        # dns.home.daniil.it
 96.9.213.120        # sg-w-f-1.nashkan.net
 96.9.228.27         # hkg01.dnscry.pt
-96.106.7.237        # doh2.gslb2.xfinity.com
+96.106.7.236        # doh.xfinity.com
 96.113.151.145      # dot.xfinity.com
 99.79.182.170       # ca01.dns4me.net
 99.80.192.194       # doh.kidzonet.io
@@ -1365,8 +1362,8 @@
 101.6.6.6           # dns.tuna.tsinghua.edu.cn
 101.34.229.193      # sukidayo.eu.org
 101.101.101.101     # dns.twnic.tw
-101.198.192.33      # doh.360.cn
-101.198.193.29      # doh.360.cn
+101.198.192.33      # dot.360.cn
+101.198.193.29      # dot.360.cn
 101.236.69.43       # httpdns.meituan.com
 102.37.148.2        # ns.nerdytechgeeks.co.za
 102.113.29.100      # dns.yameenassotally.com
@@ -1448,11 +1445,12 @@
 104.21.12.94        # a.passcloud.xyz
 104.21.12.145       # mikezhang.xyz
 104.21.12.153       # affsoft.cc
+104.21.13.111       # dns.rootlab.top
 104.21.13.241       # o1.lt
 104.21.14.34        # mabuktogel.solutions
 104.21.15.169       # dns.240527.xyz
 104.21.15.217       # tecdrive.site
-104.21.16.1         # adg.khon.dev
+104.21.16.1         # blitz-setup.ahadns.com
 104.21.16.52        # mabuktogel.directory
 104.21.16.173       # dns.rayanbab.com
 104.21.17.254       # lifeisa.live
@@ -1461,8 +1459,7 @@
 104.21.25.121       # pihole4.hoerli.net
 104.21.29.23        # dns.cabbage.zone
 104.21.30.42        # dns.olpploiopkuyhiopsfrt.info
-104.21.32.1         # adg.khon.dev
-104.21.32.35        # dns.paesa.es
+104.21.32.1         # blitz-setup.ahadns.com
 104.21.32.104       # dns.princex.net
 104.21.32.168       # dns.rabbitdns.org
 104.21.33.14        # commons.host
@@ -1480,7 +1477,7 @@
 104.21.45.92        # dns.thiz.top
 104.21.46.18        # dns.pari.network
 104.21.46.152       # crypto.sx
-104.21.48.1         # bazooki-infra.dev
+104.21.48.1         # adg.khon.dev
 104.21.48.161       # dns.butterfly87.sbs
 104.21.48.219       # johneldenring.lol
 104.21.48.226       # ahadns.net
@@ -1503,7 +1500,7 @@
 104.21.62.45        # dns.xusqui.com
 104.21.62.158       # dns.silen.org
 104.21.63.217       # regiopolis.cloud
-104.21.64.1         # comss.one
+104.21.64.1         # adg.khon.dev
 104.21.65.52        # doh.disconnect.app
 104.21.65.58        # loadlow.me
 104.21.65.134       # squidmall.vip
@@ -1525,7 +1522,7 @@
 104.21.78.210       # polisitogel.living
 104.21.79.108       # armorrush.eu.org
 104.21.79.215       # droyd.top
-104.21.80.1         # adg.khon.dev
+104.21.80.1         # comss.one
 104.21.80.53        # deep-henchman-excuse.cfd
 104.21.80.66        # dns.688447.xyz
 104.21.82.77        # dns.xuming.studio
@@ -1547,11 +1544,11 @@
 104.21.95.188       # dns.nako.kr
 104.21.95.199       # adguard-dns.com
 104.21.96.1         # adg.khon.dev
-104.21.112.1        # adg.khon.dev
+104.21.112.1        # blitz-setup.ahadns.com
 104.26.6.84         # 0ms.dev
 104.26.7.84         # 0ms.dev
-104.26.12.240       # doh-de.blahdns.com
-104.26.13.240       # doh-de.blahdns.com
+104.26.12.240       # doh-sg.blahdns.com
+104.26.13.240       # doh-sg.blahdns.com
 104.36.86.181       # geg01.dnscry.pt
 104.128.62.173      # doh.dns.sb
 104.156.231.119     # dns.suhaila.dev
@@ -1615,7 +1612,7 @@
 116.121.57.111      # dns.seia.io
 116.202.20.237      # dns.busold.ws
 116.202.98.177      # dns.decky.eu
-116.202.176.26      # dot.libredns.gr
+116.202.176.26      # doh.libredns.gr
 116.202.234.21      # dns.ihaveacloud.com
 116.203.12.0        # dns.shareworx.net
 116.203.32.217      # fdns1.dismail.de
@@ -1644,7 +1641,7 @@
 128.210.6.106       # doh.ersei.net
 128.254.207.50      # mia01.dnscry.pt
 129.80.39.60        # dns.stevenz.net
-129.146.14.174      # dns.us-phoenix-1.oraclecloud.com
+129.146.13.150      # dns.us-phoenix-1.oraclecloud.com
 129.146.238.240     # cloud.samutz.com
 129.151.162.166     # dns.oliviertv.co.za
 129.153.224.48      # dart.kpsn.org
@@ -1657,7 +1654,7 @@
 130.59.31.80        # switch.ch
 130.59.31.248       # dns.switch.ch
 130.59.31.251       # dns.switch.ch
-130.61.4.165        # dns.eu-frankfurt-1.oraclecloud.com
+130.61.2.165        # dns.eu-frankfurt-1.oraclecloud.com
 130.61.24.160       # adguard.meddy94.de
 130.61.51.39        # ad.tzockt.beer
 130.61.121.181      # mainframe.dewed.de
@@ -1668,7 +1665,7 @@
 130.226.161.34      # deic-ore.anycast.censurfridns.dk
 131.186.19.137      # dns.txq.life
 131.186.63.141      # keithchung.hopto.org
-132.145.4.175       # dns.uk-london-1.oraclecloud.com
+132.145.0.172       # dns.uk-london-1.oraclecloud.com
 132.145.55.0        # dns.mateo.ovh
 132.145.83.120      # tiger.dns.qwer.pw
 132.145.97.66       # dns.propheci.xyz
@@ -1778,7 +1775,7 @@
 146.190.28.85       # dns.dekedin.me
 146.190.89.252      # doh.futa.app
 146.190.225.122     # ps1.modr.club
-146.255.56.98       # doh.applied-privacy.net
+146.255.56.98       # doh.appliedprivacy.net
 147.45.159.12       # adguard.oms-ctr.ru
 147.78.0.8          # dotdns.cryptroute.com
 147.78.178.170      # de-fra.doh.sb
@@ -1871,6 +1868,7 @@
 162.159.61.8        # dns.cloudflare.com
 162.159.62.1        # odoh.cloudflare-dns.com
 162.159.62.2        # dooh.cloudflare-dns.com
+162.210.195.122     # us-ny-alula.heliumcloud.cc
 162.218.114.81      # chromium.dns.nextdns.io
 162.220.221.25      # chromium.dns.nextdns.io
 162.221.218.241     # dns.zemows.industries
@@ -1921,7 +1919,7 @@
 172.64.41.8         # dns.cloudflare.com
 172.64.42.1         # odoh.cloudflare-dns.com
 172.64.42.2         # dooh.cloudflare-dns.com
-172.64.80.1         # dns.rootlab.top
+172.64.80.1         # dns.paesa.es
 172.65.132.254      # paranoia.mydns.network
 172.65.133.172      # family.mydns.network
 172.65.135.187      # adblock.mydns.network
@@ -1934,7 +1932,7 @@
 172.66.43.112       # comss.ru
 172.66.43.124       # dns.dallinbryce.com
 172.66.43.167       # ns.mtsoln.com
-172.67.69.133       # doh-de.blahdns.com
+172.67.69.133       # doh-sg.blahdns.com
 172.67.70.227       # 0ms.dev
 172.67.128.122      # mabuktogel.creditcard
 172.67.129.145      # www.maxfong.cc
@@ -1975,6 +1973,7 @@
 172.67.153.19       # dns.rabbitdns.org
 172.67.154.85       # dns.butterfly87.sbs
 172.67.154.236      # dns.warma.me
+172.67.155.224      # dns.rootlab.top
 172.67.156.175      # johneldenring.lol
 172.67.157.54       # paulo.nom.za
 172.67.157.175      # mabuktogel.solutions
@@ -1998,7 +1997,6 @@
 172.67.177.65       # guard.sntrk.ru
 172.67.178.246      # lifeisa.live
 172.67.181.168      # dns.dotnet.win
-172.67.182.154      # dns.paesa.es
 172.67.183.213      # polisitogel.green
 172.67.184.76       # dns.kosan.moe
 172.67.185.141      # dns.princex.net
@@ -2205,7 +2203,7 @@
 173.249.208.251     # us-saj-w-f-1.nashkan.net
 173.255.201.254     # us1.blissdns.net
 174.68.248.77       # dohdot.coxlab.net
-174.138.29.175      # doh.tiar.app
+174.138.29.175      # dot.tiar.app
 175.24.154.66       # dns.rubyfish.cn
 176.9.1.117         # dnsforge.de
 176.9.25.158        # dns.svoi.dev
@@ -2287,7 +2285,7 @@
 185.217.197.172     # ntwrkh.pro
 185.219.130.2       # lis01.dnscry.pt
 185.222.153.70      # n5.lsasss.com
-185.222.222.222     # doh.sb
+185.222.222.222     # dns.sb
 185.226.181.19      # opennic2.i2pd.xyz
 185.228.168.9       # security-filter-dns.cleanbrowsing.org
 185.228.168.10      # adult-filter-dns.cleanbrowsing.org
@@ -2336,6 +2334,7 @@
 192.3.85.97         # dns.wahr.top
 192.9.137.151       # doh.totoro.pub
 192.46.232.110      # dns.hypercute.eu
+192.71.249.67       # dns0.eu
 192.99.125.157      # mailer.amlegion.org
 192.99.139.168      # dns.islandnet.com
 192.109.42.41       # dns1.in-berlin.de
@@ -2397,7 +2396,7 @@
 194.233.65.49       # doh.cippapp.com
 194.233.68.184      # kilabit.info
 194.242.2.2         # dns.mullvad.net
-194.242.2.3         # adblock.doh.mullvad.net
+194.242.2.3         # adblock.dns.mullvad.net
 194.242.2.4         # base.dns.mullvad.net
 194.242.2.5         # extended.dns.mullvad.net
 194.242.2.6         # family.dns.mullvad.net
@@ -2476,10 +2475,10 @@
 211.95.16.131       # www.c-dns.com
 212.18.0.5          # dns.mnet-online.de
 212.18.3.5          # dns.mnet-online.de
-212.60.61.246       # dot.quickline.ch
-212.60.63.246       # dot.quickline.ch
+212.60.61.246       # doh.quickline.ch
+212.60.63.246       # doh.quickline.ch
 212.109.195.93      # dns.comss.one
-212.126.59.63       # dns0.eu
+212.126.59.63       # kids.dns0.eu
 212.132.117.52      # dns.peb-schmidt.de
 212.185.200.25      # dns1.conne.net
 212.227.237.22      # dns.mo0on15.com
@@ -2510,11 +2509,12 @@
 216.230.232.29      # chromium.dns.nextdns.io
 216.238.80.219      # helios.plan9-dns.com
 216.238.107.112     # br.servers.legat.ml
-217.0.43.2          # dns.telekom.de
-217.0.43.66         # dns.telekom.de
+217.0.43.50         # dns.telekom.de
+217.0.43.146        # dns.telekom.de
 217.11.58.196       # dnscache0.ns71.net
 217.61.98.63        # nsec.arnor.org
 217.91.179.72       # doh.kekew.info
+217.156.17.129      # dns0.eu
 217.160.70.42       # ns1.opennameserver.org
 217.160.191.192     # doh.phdns2.lonet.org
 217.160.213.186     # testguard.meexx.de
