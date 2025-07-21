@@ -111,6 +111,7 @@ agh.printk.info
 agh.workfordemo.co.in
 agh.xinfeng16m.top
 ahadns.net
+ahoj.email
 al223-a73e-bj-v0.0.dxng.net
 all.dns.mullvad.net
 alleesph.online
@@ -383,6 +384,7 @@ dns.dooks.uk
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgy.network
@@ -404,6 +406,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -540,6 +543,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1063,6 +1067,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1345,6 +1350,7 @@ polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
+princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
@@ -1582,6 +1588,7 @@ yunyun.is.my.waifu.cz
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
+zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
