@@ -389,6 +389,7 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgy.network
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1241,7 +1242,6 @@ nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
-nl.dns.privex.io
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
