@@ -6,6 +6,7 @@ a-bld.sys-adm.in
 a.zpn.me
 aattwwss.duckdns.org
 ad-dns.lista.my.id
+ad.anym0re.ru
 ad1.heronet.nl
 adblock.any.dns.nixnet.xyz
 adblock.borjalopez.eu
@@ -124,6 +125,7 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
