@@ -69,6 +69,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
+de.dns.privex.io
 dfw01.dnscry.pt
 dgca.myds.me
 dns-3.wil.cloud
@@ -132,7 +133,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -162,7 +162,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -302,6 +301,7 @@ ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
 hkname.freecdn.one
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -319,7 +319,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -345,7 +344,6 @@ nenam.eu
 net01.youcef.io
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
-nl.dns.privex.io
 nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
@@ -366,6 +364,7 @@ pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 pukanuragan.ru
+punono.duckdns.org
 qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
