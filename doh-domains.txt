@@ -1476,7 +1476,6 @@ tecdrive.site
 technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
-tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
 timmes.nl
