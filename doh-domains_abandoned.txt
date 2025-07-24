@@ -133,7 +133,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -384,6 +383,7 @@ switzerland.privacy-dns.pw
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
+tienpham.id.vn
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
