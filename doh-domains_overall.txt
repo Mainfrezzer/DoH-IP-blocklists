@@ -2014,3 +2014,9 @@ yyc01.dnscry.pt
 yhz01.dnscry.pt
 dns.dynx.pro
 xmr.land
+dns.caliph.dev
+dns.surfsharkdns.com
+dnsguard.pub
+frd4wvnobp.cloudflare-gateway.com
+router.comss.one
+v.recipes
