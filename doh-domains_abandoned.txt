@@ -27,6 +27,7 @@ adguard.blogssl.com
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -319,6 +320,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -334,6 +336,7 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 moamao.shop
+montmorot.duckdns.org
 myrra-is.so-gorgeo.us.kg
 nana-is.so-gorgeo.us.kg
 nanopi.cybergroove.net
@@ -359,6 +362,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
