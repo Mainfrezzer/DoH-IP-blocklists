@@ -313,6 +313,7 @@ dns.busold.ws
 dns.butterfly87.sbs
 dns.cabbage.zone
 dns.cahlen.com
+dns.caliph.dev
 dns.carson-family.com
 dns.caspervk.net
 dns.cctld.kg
@@ -385,6 +386,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -650,6 +652,7 @@ dns.stvsk.ml
 dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
+dns.surfsharkdns.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
@@ -775,6 +778,7 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsforfamily.com
 dnsforge.de
+dnsguard.pub
 dnslow.me
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
@@ -1032,6 +1036,7 @@ fra-dns.bitdefender.net
 fra01.dnscry.pt
 fra02.dnscry.pt
 fra1.eyecay.xyz
+frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
 free.shecan.ir
 freedns.controld.com
@@ -1406,6 +1411,7 @@ ro-buc-w-p-1.nashkan.net
 rocket.hakim.one
 rockwell.website
 romania.privacy-dns.pw
+router.comss.one
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
 rumpelsepp.org
@@ -1531,6 +1537,7 @@ us1.dns.lavate.ch
 use-application-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
+v.recipes
 v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
