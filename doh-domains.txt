@@ -202,6 +202,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -374,7 +375,6 @@ dns.dns.pub
 dns.dnsforge.de
 dns.dnshome.de
 dns.dnswarden.com
-dns.doh.best
 dns.doh.pub
 dns.dooks.uk
 dns.dot.pub
@@ -384,6 +384,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
