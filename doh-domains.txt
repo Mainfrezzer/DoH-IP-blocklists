@@ -205,6 +205,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -585,6 +586,7 @@ dns.pnh.my.id
 dns.porteii.com
 dns.pragmasec.nl
 dns.princex.net
+dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
