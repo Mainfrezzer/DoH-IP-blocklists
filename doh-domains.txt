@@ -388,6 +388,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -404,6 +405,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -540,6 +542,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1252,7 +1255,6 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
-ns.trcnet.fi
 ns0.fdn.fr
 ns1.dotls.org
 ns1.fdn.fr
@@ -1379,9 +1381,6 @@ res-acst2.absolight.net
 res-acst3.absolight.net
 resolv.flokinet.net
 resolv01.ffnw.de
-resolv1.trash.net
-resolv2.trash.net
-resolv3.trash.net
 resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.dnsprivacy.org.uk
