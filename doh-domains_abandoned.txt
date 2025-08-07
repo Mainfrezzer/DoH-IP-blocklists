@@ -123,14 +123,12 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -160,7 +158,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -364,9 +361,6 @@ please.dontsteal.my.id
 pope.cnblw.me
 pukanuragan.ru
 qqmcfw.tech
-resolv1.trash.net
-resolv2.trash.net
-resolv3.trash.net
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
