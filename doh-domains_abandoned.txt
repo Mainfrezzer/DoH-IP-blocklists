@@ -1,6 +1,7 @@
 052419.xyz
 1.xhr0no.my
 351242444.xyz
+3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -31,6 +32,7 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
+adguard.londonwebnerd.cloud
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.neon0404.space
@@ -68,6 +70,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
+deep-henchman-excuse.cfd
 dfw01.dnscry.pt
 dgca.myds.me
 dns-3.wil.cloud
@@ -160,7 +163,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
