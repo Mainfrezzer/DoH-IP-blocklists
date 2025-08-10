@@ -542,6 +542,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -933,7 +934,6 @@ doh.sidnlabs.nl
 doh.sitdns.com
 doh.sriedmueadguard.casa
 doh.suche.org
-doh.sunoaki.net
 doh.syshero.org
 doh.technochat.in
 doh.thio.me

@@ -159,7 +159,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -260,6 +259,7 @@ doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
+doh.sunoaki.net
 doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
