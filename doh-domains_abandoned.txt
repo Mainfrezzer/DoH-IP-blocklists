@@ -159,6 +159,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -383,7 +384,6 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
 tundranet.hec.to
-tuskythehusky.tech
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
