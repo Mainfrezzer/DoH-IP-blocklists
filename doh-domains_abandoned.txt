@@ -12,7 +12,6 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
-addns1.m-it.ro
 adg.rokh.biz
 adg.tshost.no
 adguard-dns.rouga.ch
@@ -125,6 +124,7 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -160,6 +160,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
