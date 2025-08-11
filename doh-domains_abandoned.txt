@@ -95,6 +95,7 @@ dns.adblockersite.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
 dns.aerro.in
+dns.ambiya.net
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
@@ -124,7 +125,6 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -160,7 +160,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
