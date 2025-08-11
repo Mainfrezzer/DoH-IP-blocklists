@@ -125,6 +125,7 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -135,7 +136,6 @@ dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
-dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
