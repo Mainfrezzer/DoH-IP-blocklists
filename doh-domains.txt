@@ -386,7 +386,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1231,7 +1230,6 @@ naganohara-yoimiya.momokko.moe
 najiakeji.top
 nat64.tuxis.nl
 naw01.dnscry.pt
-net01.youcef.io
 netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
