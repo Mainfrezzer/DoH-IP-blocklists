@@ -56,6 +56,7 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -385,7 +386,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -539,7 +539,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1134,6 +1133,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1151,6 +1151,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 l337.site
@@ -1212,6 +1213,7 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mil01.dnscry.pt
 mo0on15.com
+montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
