@@ -127,7 +127,6 @@ dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -179,7 +178,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
-dns.repressoh.it
 dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
@@ -370,13 +368,11 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 qqmcfw.tech
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -398,9 +394,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
