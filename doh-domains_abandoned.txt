@@ -145,6 +145,7 @@ dns.hshoe.cn
 dns.hugo0.moe
 dns.ian.rocks
 dns.ibakerserver.pt
+dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
 dns.invisv.com
@@ -163,6 +164,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
