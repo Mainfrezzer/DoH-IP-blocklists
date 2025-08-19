@@ -2,6 +2,7 @@
 1.xhr0no.my
 351242444.xyz
 3dcosas.xyz
+3dns.eu
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -165,6 +166,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -237,6 +239,7 @@ doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
+doh.3dns.eu
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
