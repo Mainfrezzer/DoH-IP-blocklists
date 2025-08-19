@@ -2,7 +2,6 @@
 1.xhr0no.my
 351242444.xyz
 3dcosas.xyz
-3dns.eu
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -136,6 +135,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -239,7 +239,6 @@ doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.233py.com
-doh.3dns.eu
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
