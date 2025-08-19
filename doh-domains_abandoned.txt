@@ -165,7 +165,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -187,6 +186,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.siry.de
 dns.stvsk.ml
+dns.swin.pro
 dns.technicule.info
 dns.theres.one
 dns.tierradeayala.com
