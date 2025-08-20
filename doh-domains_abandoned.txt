@@ -129,7 +129,6 @@ dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -181,7 +180,6 @@ dns.pesaventofilippo.com
 dns.post-factum.tk
 dns.princex.net
 dns.privilab.net
-dns.propheci.xyz
 dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
@@ -258,7 +256,6 @@ doh.hajekj.net
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
