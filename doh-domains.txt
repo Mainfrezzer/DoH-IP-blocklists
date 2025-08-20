@@ -380,6 +380,7 @@ dns.dnswarden.com
 dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.elemental.software
@@ -875,7 +876,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
