@@ -26,7 +26,9 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.ihatemy.live
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -68,6 +70,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -134,7 +137,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -308,6 +310,7 @@ ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
 hkname.freecdn.one
+home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com
@@ -322,8 +325,10 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -374,6 +379,7 @@ pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 pukanuragan.ru
+punono.duckdns.org
 qqmcfw.tech
 resolver-eu.lelux.fi
 resolver.noaddns.com
