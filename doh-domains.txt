@@ -147,7 +147,6 @@ blackhole.myon.lu
 blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
-blocker.thethorsens.org
 blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
@@ -196,6 +195,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.bod.lol
@@ -383,7 +383,6 @@ dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1491,7 +1490,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tw2.ooroot.com
 tyo01.dnscry.pt
 tyo02.dnscry.pt
