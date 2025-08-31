@@ -114,6 +114,7 @@ dns.cloudseriousshit.com
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
+dns.cybertonic.tech
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -164,7 +165,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -328,6 +328,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -399,6 +400,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlz.asia
+tuandns.duckdns.org
 tundranet.hec.to
 tuskythehusky.tech
 tx.teradns.org
