@@ -385,6 +385,7 @@ dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
+dns.edgeburnmedia.com
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
@@ -537,7 +538,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1476,6 +1476,7 @@ tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlv01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
