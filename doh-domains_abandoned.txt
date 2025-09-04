@@ -26,7 +26,6 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.ihatemy.live
 adguard.johanliebert.top
 adguard.k0rap.com
@@ -69,6 +68,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -163,7 +163,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -325,7 +324,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -374,14 +372,12 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 pashagame456.com
 pi1.node15.com
 please.dontsteal.my.id
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 qqmcfw.tech
 resolver-eu.lelux.fi
 resolver.noaddns.com
