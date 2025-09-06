@@ -173,7 +173,6 @@ chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
-cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
@@ -403,7 +402,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
