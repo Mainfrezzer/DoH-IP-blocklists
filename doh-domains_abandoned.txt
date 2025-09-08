@@ -101,7 +101,6 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.auapi.fun
-dns.b612.me
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -132,7 +131,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -303,6 +301,7 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu

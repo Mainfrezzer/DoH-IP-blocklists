@@ -289,6 +289,7 @@ dns.asterimoon.com
 dns.asysec.com
 dns.azsopro.net
 dns.b33.space
+dns.b612.me
 dns.b72.com
 dns.baishiyuan.cn
 dns.beardic.cn
@@ -403,6 +404,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1060,7 +1062,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
