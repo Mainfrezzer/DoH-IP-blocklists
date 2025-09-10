@@ -387,6 +387,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -868,7 +869,6 @@ doh.eu.dnswarden.com
 doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
-doh.funil.de
 doh.funtopia.tv
 doh.futa.app
 doh.futa.gg

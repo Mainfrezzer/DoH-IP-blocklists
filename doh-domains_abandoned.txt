@@ -125,7 +125,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -249,6 +248,7 @@ doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
 doh.es.ahadns.net
+doh.funil.de
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
