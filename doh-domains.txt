@@ -55,6 +55,7 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -385,7 +386,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -538,7 +538,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1061,6 +1060,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1149,6 +1149,7 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 l337.site
@@ -1209,6 +1210,7 @@ mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
 mo0on15.com
+montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1489,6 +1491,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tyo01.dnscry.pt
 tyo02.dnscry.pt
