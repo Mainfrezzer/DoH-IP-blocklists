@@ -2,7 +2,6 @@
 1.xhr0no.my
 351242444.xyz
 3dcosas.xyz
-3dns.eu
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -70,6 +69,7 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -114,6 +114,7 @@ dns.chocolatezz.xyz
 dns.cloudseriousshit.com
 dns.criena.net
 dns.cybershell.xyz
+dns.cybertonic.tech
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -163,7 +164,6 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -239,7 +239,6 @@ doh-dns.adblockersite.com
 doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
-doh.3dns.eu
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -304,6 +303,7 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
