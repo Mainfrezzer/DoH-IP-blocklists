@@ -380,6 +380,7 @@ qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
+rpz-public-resolver1.rrdns.pch.net
 sby-doh.limotelu.org
 secure.onedns.cc
 sg.adhole.org

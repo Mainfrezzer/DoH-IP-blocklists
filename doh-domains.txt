@@ -1400,7 +1400,6 @@ rocket.hakim.one
 rockwell.website
 romania.privacy-dns.pw
 router.comss.one
-rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
 rumpelsepp.org
 rx.techomespace.com
