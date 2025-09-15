@@ -115,7 +115,6 @@ dns.chocolatezz.xyz
 dns.cloudseriousshit.com
 dns.criena.net
 dns.cybershell.xyz
-dns.cybertonic.tech
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -165,6 +164,7 @@ dns.melalandia.tk
 dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -216,6 +216,7 @@ dns1.in.newpangea.de
 dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
+dns1.pietjacobs.be
 dns1.server.my.id
 dns1.sg.newpangea.de
 dns1.technicule.info
@@ -304,6 +305,7 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
