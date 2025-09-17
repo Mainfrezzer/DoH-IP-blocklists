@@ -115,7 +115,6 @@ dns.chocolatezz.xyz
 dns.cloudseriousshit.com
 dns.criena.net
 dns.cybershell.xyz
-dns.cybertonic.tech
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -128,6 +127,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -308,7 +308,6 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -328,7 +327,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-justhost.bedro.cloud
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
