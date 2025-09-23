@@ -126,13 +126,13 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -253,7 +253,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
-doh.eastau.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -288,7 +287,6 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
-dot.eastau.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
@@ -309,7 +307,6 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -320,7 +317,6 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 inde.ragnvindr.org
-india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
@@ -332,9 +328,7 @@ jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
-kx-97795-tr.xyz
 la.ray0512.win
-las-vegas.privacy-dns.pw
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
@@ -342,7 +336,6 @@ lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
-luxembourg.privacy-dns.pw
 lv1.nixnet.xyz
 mecca-is.so-gorgeo.us.kg
 mendozasdelivery.com
