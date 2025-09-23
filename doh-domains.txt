@@ -166,6 +166,7 @@ cahlen.com
 callies-online.site
 catchen121299.top
 catdns.org
+cdn.0ms.dev
 cfdjb.org
 chaos-system.de
 chrome.cloudflare-dns.com
@@ -401,7 +402,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1284,6 +1284,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
