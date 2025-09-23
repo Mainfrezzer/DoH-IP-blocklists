@@ -386,6 +386,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -536,7 +537,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -855,7 +855,6 @@ doh.domreg.lt
 doh.dot.pub
 doh.dscloud.me
 doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
@@ -951,7 +950,6 @@ dot.360.cn
 dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
-dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
@@ -1098,7 +1096,6 @@ iij.jp
 ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
-india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
@@ -1146,10 +1143,8 @@ kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
-kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 l337.site
-las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1169,7 +1164,6 @@ loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
 lukscasino-542-tr.xyz
-luxembourg.privacy-dns.pw
 mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
