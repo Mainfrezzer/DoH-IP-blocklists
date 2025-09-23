@@ -126,7 +126,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -188,7 +187,6 @@ dns.rafn.is
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
-dns.scapetical.com
 dns.siry.de
 dns.stvsk.ml
 dns.surobe.com
@@ -316,7 +314,6 @@ hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
 hrk01.dnscry.pt
-hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -387,7 +384,6 @@ qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
-romania.privacy-dns.pw
 sby-doh.limotelu.org
 secure.onedns.cc
 sg.adhole.org

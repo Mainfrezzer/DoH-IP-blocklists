@@ -386,6 +386,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -608,6 +609,7 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
+dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -1083,6 +1085,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hungary.privacy-dns.pw
 hydra.plan9-ns1.com
 i.233py.com
 i.passcloud.xyz
@@ -1391,6 +1394,7 @@ ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rocket.hakim.one
 rockwell.website
+romania.privacy-dns.pw
 router.comss.one
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
