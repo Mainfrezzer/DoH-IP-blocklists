@@ -237,7 +237,6 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
-do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.technicule.info
@@ -253,7 +252,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
-doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -269,9 +267,7 @@ doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
-doh.northeu.pi-dns.com
 doh.ny.ahadns.net
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
@@ -290,13 +286,11 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
-dot.eastau.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.libredns.gr.com
 dot.no.ahadns.net
-dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
@@ -312,6 +306,7 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -398,8 +393,6 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
-sweden.privacy-dns.pw
-switzerland.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tecdrive.site
@@ -416,7 +409,6 @@ uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
 uncensored.ny1.dns.nixnet.xyz
-united-arab-emirates.privacy-dns.pw
 uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
