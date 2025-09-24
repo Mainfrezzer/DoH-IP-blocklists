@@ -50,7 +50,6 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
-atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
@@ -133,6 +132,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -164,6 +164,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -237,7 +238,6 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
-do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.technicule.info
@@ -253,7 +253,6 @@ doh.boje8.me
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
-doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -288,8 +287,6 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
-dot.eastas.pi-dns.com
-dot.eastus.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
@@ -317,12 +314,10 @@ hkname.freecdn.one
 hkvps.hshoe.cn
 home27.duckdns.org
 hrk01.dnscry.pt
-hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 inde.ragnvindr.org
-india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
@@ -342,7 +337,6 @@ lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
-luxembourg.privacy-dns.pw
 lv1.nixnet.xyz
 mecca-is.so-gorgeo.us.kg
 mendozasdelivery.com
@@ -399,7 +393,6 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
-sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tecdrive.site
