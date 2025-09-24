@@ -146,7 +146,6 @@ blackhole.myon.lu
 blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
-blocker.thethorsens.org
 blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
@@ -1056,6 +1055,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
