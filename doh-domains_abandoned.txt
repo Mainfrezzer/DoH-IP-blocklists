@@ -128,6 +128,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -188,6 +189,7 @@ dns.rafn.is
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.scapetical.com
 dns.siry.de
 dns.stvsk.ml
 dns.surobe.com
@@ -239,6 +241,7 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
+do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.technicule.info
@@ -251,9 +254,11 @@ doh.adblockersite.com
 doh.au.ahadns.net
 doh.battle.christmas
 doh.boje8.me
+doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
 doh.doh.my.id
+doh.eastas.pi-dns.com
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -270,6 +275,7 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net
+doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
@@ -277,6 +283,7 @@ doh.southam.family
 doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
+doh.westus.pi-dns.com
 doh.zephyrus.id
 doh.zln.wtf
 doh1.blahdns.com
@@ -287,7 +294,9 @@ dot-ch.blahdns.com
 dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
+dot.centraleu.pi-dns.com
 dot.chi.ahadns.net
+dot.eastas.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
@@ -308,16 +317,19 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
 hkname.freecdn.one
 home27.duckdns.org
 hrk01.dnscry.pt
+hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 inde.ragnvindr.org
+india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
@@ -329,7 +341,9 @@ jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
 kswro.web.id
+kx-97795-tr.xyz
 la.ray0512.win
+las-vegas.privacy-dns.pw
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
@@ -393,6 +407,7 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
+switzerland.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tecdrive.site
