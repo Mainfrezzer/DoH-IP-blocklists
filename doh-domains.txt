@@ -953,7 +953,6 @@ dot.360.cn
 dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
-dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
