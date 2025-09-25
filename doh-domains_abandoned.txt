@@ -132,6 +132,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -236,7 +237,6 @@ dnsnl-noads.alekberg.net
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
-do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.technicule.info
@@ -268,7 +268,6 @@ doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
 doh.ny.ahadns.net
-doh.pi-dns.com
 doh.pl.ahadns.net
 doh.post-factum.tk
 doh.serverhost.no
