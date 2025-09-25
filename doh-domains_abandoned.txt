@@ -185,6 +185,7 @@ dns.rafn.is
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.scapetical.com
 dns.siry.de
 dns.stvsk.ml
 dns.surobe.com
