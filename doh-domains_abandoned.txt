@@ -133,6 +133,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -164,6 +165,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nightlymoon.us.kg
@@ -424,6 +426,7 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xbcpb668.com
+xholgm.top
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
