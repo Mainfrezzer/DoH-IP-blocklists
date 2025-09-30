@@ -251,6 +251,7 @@ dns.354688.xyz
 dns.3wv.de
 dns.4-the.win
 dns.688447.xyz
+dns.7sec.com.br
 dns.7vpn.com
 dns.853852.xyz
 dns.886886886.xyz
@@ -384,7 +385,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -402,6 +402,7 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1318,7 +1319,6 @@ pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
-polisitogel.accountant
 polisitogel.beauty
 polisitogel.builders
 polisitogel.contractors

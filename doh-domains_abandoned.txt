@@ -92,7 +92,6 @@ dns.444723.xyz
 dns.52306.org
 dns.5ososea.com
 dns.775467.xyz
-dns.7sec.com.br
 dns.8887744.xyz
 dns.aaflalo.me
 dns.adblockersite.com
@@ -128,12 +127,12 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
@@ -377,6 +376,7 @@ outdoorchair.us
 pashagame456.com
 pi1.node15.com
 please.dontsteal.my.id
+polisitogel.accountant
 pope.cnblw.me
 pukanuragan.ru
 qqmcfw.tech
