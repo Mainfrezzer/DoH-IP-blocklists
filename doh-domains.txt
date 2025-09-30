@@ -385,6 +385,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -645,6 +646,7 @@ dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.surfsharkdns.com
+dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
 dns.switch.ch
@@ -1218,6 +1220,7 @@ myatris.sbs
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
+nanopi.cybergroove.net
 nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
