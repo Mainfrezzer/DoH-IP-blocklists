@@ -127,6 +127,7 @@ at-wie-w-p-1.nashkan.net
 at.pzhg.me
 ath01.dnscry.pt
 atl01.dnscry.pt
+atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
@@ -402,6 +403,7 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -609,6 +611,7 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
+dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -779,6 +782,7 @@ dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
+do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -827,6 +831,7 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
+doh.centraleu.pi-dns.com
 doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
@@ -852,6 +857,9 @@ doh.doh.pub
 doh.domreg.lt
 doh.dot.pub
 doh.dscloud.me
+doh.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
 doh.eu.dnswarden.com
@@ -889,6 +897,7 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
+doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
@@ -897,6 +906,7 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
+doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -925,6 +935,7 @@ doh.us.dnswarden.com
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
+doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -940,16 +951,22 @@ dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
+dot.centraleu.pi-dns.com
 dot.cox.net
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
+dot.northeu.pi-dns.com
 dot.pub
 dot.quickline.ch
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -1042,6 +1059,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1070,6 +1088,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hungary.privacy-dns.pw
 hydra.plan9-ns1.com
 i.233py.com
 i.passcloud.xyz
@@ -1082,6 +1101,7 @@ iij.jp
 ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
+india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
@@ -1131,6 +1151,7 @@ kronos.plan9-dns.com
 krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 l337.site
+las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1150,6 +1171,7 @@ loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
 lukscasino-542-tr.xyz
+luxembourg.privacy-dns.pw
 mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
@@ -1171,6 +1193,7 @@ mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
 man01.dnscry.pt
+maqgie.xyz
 marasov.id
 mask-api.icloud.com
 mask-h2.icloud.com
@@ -1374,6 +1397,7 @@ ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rocket.hakim.one
 rockwell.website
+romania.privacy-dns.pw
 router.comss.one
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
@@ -1435,7 +1459,9 @@ sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 svc2.diarbagus.id
+sweden.privacy-dns.pw
 switch.ch
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
@@ -1477,6 +1503,7 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
@@ -1526,6 +1553,7 @@ ww2.hellozhao.com
 www.c-dns.com
 www.chungocoai.name.vn
 www.criena.net
+www.dnsadguard.co.uk
 www.inpssh.online
 www.jabber-germany.de
 www.masters-of-cloud.de
