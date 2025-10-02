@@ -112,7 +112,6 @@ dns.carter.me
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
-dns.christerwaren.fi
 dns.cloudseriousshit.com
 dns.criena.net
 dns.cybershell.xyz
@@ -134,6 +133,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -381,7 +381,6 @@ pope.cnblw.me
 pukanuragan.ru
 qqmcfw.tech
 resolve2.r9x.cc
-resolver-eu.haringstad.com
 resolver-eu.lelux.fi
 resolver.noaddns.com
 sby-doh.limotelu.org
