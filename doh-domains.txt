@@ -129,6 +129,7 @@ ath01.dnscry.pt
 atl01.dnscry.pt
 atris.cyou
 au-syd-w-f-1.nashkan.net
+au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
 axaxa.fun
@@ -157,6 +158,7 @@ bravedns.com
 bru01.dnscry.pt
 bts01.dnscry.pt
 c.cicitt.ch
+ca-yyc.doh.sb
 ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
@@ -204,7 +206,9 @@ dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
+de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
+de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de.teradns.org
@@ -381,7 +385,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -417,6 +420,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -605,6 +609,7 @@ dns.rubyfish.cn
 dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
+dns.sb
 dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
@@ -840,6 +845,7 @@ doh.dns-ga.de
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
 doh.dns.pub
+doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnscrypt.uk
@@ -1052,6 +1058,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
