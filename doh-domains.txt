@@ -127,7 +127,6 @@ at-wie-w-p-1.nashkan.net
 at.pzhg.me
 ath01.dnscry.pt
 atl01.dnscry.pt
-atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
@@ -202,7 +201,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -385,6 +383,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -402,6 +401,7 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -537,6 +537,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -609,7 +610,6 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -780,7 +780,6 @@ dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
-do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -855,8 +854,6 @@ doh.doh.pub
 doh.domreg.lt
 doh.dot.pub
 doh.dscloud.me
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
@@ -904,7 +901,6 @@ doh.phdns2.lonet.org
 doh.phdns3.lonet.org
 doh.phdns4.lonet.org
 doh.phdns5.lonet.org
-doh.pi-dns.com
 doh.port53.dk
 doh.powerdns.org
 doh.pub
@@ -949,7 +945,6 @@ dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
-dot.centraleu.pi-dns.com
 dot.cox.net
 dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
@@ -1099,7 +1094,6 @@ iij.jp
 ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
-india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
@@ -1149,7 +1143,6 @@ kronos.plan9-dns.com
 krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 l337.site
-las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1169,7 +1162,6 @@ loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
 lukscasino-542-tr.xyz
-luxembourg.privacy-dns.pw
 mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
@@ -1457,9 +1449,7 @@ sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 svc2.diarbagus.id
-sweden.privacy-dns.pw
 switch.ch
-switzerland.privacy-dns.pw
 syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
@@ -1501,7 +1491,6 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
-united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
