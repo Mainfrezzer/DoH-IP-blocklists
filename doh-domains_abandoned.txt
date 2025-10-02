@@ -50,6 +50,7 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
+au-syd.doh.sb
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
@@ -60,6 +61,7 @@ bestwon203.com
 bigora2.vuhai.de
 bld.sys-adm.in
 buc-m2.illmods.com
+ca-yyc.doh.sb
 canadianshield.cira.ca
 chandr1000.net
 chaos.altendorfme.com
@@ -70,6 +72,8 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
+de-dus.doh.sb
+de-fra.doh.sb
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -134,6 +138,7 @@ dns.faze.dev
 dns.feldy.my.id
 dns.foximao.cn
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.haoxuan.xyz
@@ -162,7 +167,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -186,6 +190,7 @@ dns.rafn.is
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.sb
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -250,6 +255,7 @@ doh.battle.christmas
 doh.boje8.me
 doh.chi.ahadns.net
 doh.datacore.ch
+doh.dns.sb
 doh.doh.my.id
 doh.es.ahadns.net
 doh.gcp.pathofgrace.com
