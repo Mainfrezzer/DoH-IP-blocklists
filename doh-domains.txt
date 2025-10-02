@@ -202,6 +202,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -1456,6 +1457,7 @@ sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 svc2.diarbagus.id
+sweden.privacy-dns.pw
 switch.ch
 switzerland.privacy-dns.pw
 syd.adfilter.net
@@ -1499,6 +1501,7 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
