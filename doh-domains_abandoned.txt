@@ -129,6 +129,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -190,6 +191,7 @@ dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
