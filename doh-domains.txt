@@ -383,6 +383,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -400,7 +401,6 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1197,7 +1197,6 @@ megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
 mil01.dnscry.pt
-miniapp.global
 mo0on15.com
 montmorot.duckdns.org
 morbitzer.de
