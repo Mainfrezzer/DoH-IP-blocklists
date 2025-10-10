@@ -129,12 +129,12 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -164,7 +164,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -272,7 +271,6 @@ doh.nala.ru
 doh.neowutran.ovh
 doh.netweaver.uk
 doh.no.ahadns.net
-doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.pl.ahadns.net
 doh.post-factum.tk
@@ -292,11 +290,13 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
+dot.eastau.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.libredns.gr.com
 dot.no.ahadns.net
+dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
@@ -319,7 +319,6 @@ hkname.freecdn.one
 hkvps.hshoe.cn
 home27.duckdns.org
 hrk01.dnscry.pt
-hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -380,6 +379,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 pashagame456.com
 pi1.node15.com
@@ -400,6 +400,7 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
+sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
