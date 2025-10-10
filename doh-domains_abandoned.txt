@@ -290,13 +290,11 @@ dot-fi.blahdns.com
 dot-jp.blahdns.com
 dot.au.ahadns.net
 dot.chi.ahadns.net
-dot.eastau.pi-dns.com
 dot.es.ahadns.net
 dot.in.ahadns.net
 dot.it.ahadns.net
 dot.libredns.gr.com
 dot.no.ahadns.net
-dot.northeu.pi-dns.com
 dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
@@ -311,7 +309,6 @@ fr-gra-w-f-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hfgx.shop
 hk.rslvr.eu
@@ -379,7 +376,6 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
-osefcorp.duckdns.org
 outdoorchair.us
 pashagame456.com
 pi1.node15.com
@@ -400,7 +396,6 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
-sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
