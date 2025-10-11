@@ -400,7 +400,6 @@ dns.fehlsprache.de
 dns.ffnw.de
 dns.fgbk.net
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -431,7 +430,6 @@ dns.ha-dvin.pp.ua
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
-dns.hakutakucn.com
 dns.hanahira.dev
 dns.hanmey.de
 dns.hannielzhang.com
@@ -1053,7 +1051,6 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
