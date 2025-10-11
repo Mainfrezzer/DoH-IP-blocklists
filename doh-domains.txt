@@ -308,7 +308,6 @@ dns.brono.cloud
 dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
-dns.cabbage.zone
 dns.cahlen.com
 dns.caliph.dev
 dns.carson-family.com
@@ -535,7 +534,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1051,6 +1049,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
