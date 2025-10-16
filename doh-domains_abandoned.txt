@@ -338,6 +338,7 @@ hfgx.shop
 hk.rslvr.eu
 hkname.freecdn.one
 hkvps.hshoe.cn
+home-server.store
 home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com

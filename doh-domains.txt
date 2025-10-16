@@ -1048,7 +1048,6 @@ hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hole.elbschloss.xyz
-home-server.store
 home.chilimac.net
 home.daniil.it
 home.enjoymylife.net
