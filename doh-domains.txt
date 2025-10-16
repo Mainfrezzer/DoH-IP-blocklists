@@ -1140,6 +1140,7 @@ lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mabuktogel.builders
 mabuktogel.business
