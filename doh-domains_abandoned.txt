@@ -138,7 +138,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -424,7 +423,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
