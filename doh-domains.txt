@@ -528,6 +528,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -598,6 +599,7 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
+dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -1057,6 +1059,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hungary.privacy-dns.pw
 hydra.plan9-ns1.com
 i.233py.com
 i.passcloud.xyz
@@ -1069,6 +1072,7 @@ iij.jp
 ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
+india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
@@ -1139,6 +1143,7 @@ lsqmbr-hk.kmbr.dev
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
+luxembourg.privacy-dns.pw
 mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
@@ -1160,6 +1165,7 @@ mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
 man01.dnscry.pt
+maqgie.xyz
 marasov.id
 mask-api.icloud.com
 mask-h2.icloud.com
@@ -1470,6 +1476,7 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
