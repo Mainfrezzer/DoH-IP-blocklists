@@ -27,6 +27,7 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.ihatemy.live
 adguard.k0rap.com
 adguard.konikoni428.com
@@ -131,13 +132,13 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -172,7 +173,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -354,6 +354,7 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 kx-97795-tr.xyz
 la.ray0512.win
@@ -398,6 +399,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+osefcorp.duckdns.org
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
@@ -423,6 +425,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
