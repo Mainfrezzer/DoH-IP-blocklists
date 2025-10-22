@@ -382,6 +382,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1071,7 +1072,6 @@ iij.jp
 ikarosalpha.xyz
 imperio.top
 in-blr.doh.sb
-india.privacy-dns.pw
 ines.zfn.uni-bremen.de
 inpssh.online
 internetsehat.bebasid.com
@@ -1121,7 +1121,6 @@ kronos.plan9-dns.com
 krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 l337.site
-las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1142,7 +1141,6 @@ lsqmbr-hk.kmbr.dev
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
-luxembourg.privacy-dns.pw
 mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
@@ -1164,7 +1162,6 @@ mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
 man01.dnscry.pt
-maqgie.xyz
 marasov.id
 mask-api.icloud.com
 mask-h2.icloud.com
@@ -1431,7 +1428,6 @@ sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 svc2.diarbagus.id
-sweden.privacy-dns.pw
 switch.ch
 switzerland.privacy-dns.pw
 syd.adfilter.net
@@ -1477,7 +1473,6 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
-united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
