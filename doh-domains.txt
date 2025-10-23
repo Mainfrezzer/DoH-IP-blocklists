@@ -381,6 +381,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -912,7 +913,6 @@ doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
 doh.wewitro.net
-doh.xcom.pro
 doh.xfinity.com
 doh.xyz
 doh.zknt.org
