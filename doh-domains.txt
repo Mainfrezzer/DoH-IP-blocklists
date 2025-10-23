@@ -381,6 +381,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1121,6 +1122,7 @@ kronos.plan9-dns.com
 krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 l337.site
+las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1201,7 +1203,6 @@ nl-ams.doh.sb
 nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
-nl.dns.privex.io
 noads.imbuffering.com
 ns.00dani.me
 ns.data.haus
