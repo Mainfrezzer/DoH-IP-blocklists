@@ -464,7 +464,6 @@ dns.jiyi.eu
 dns.joey01245.nl
 dns.jstockley.com
 dns.jundev.org
-dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
@@ -1055,6 +1054,7 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com

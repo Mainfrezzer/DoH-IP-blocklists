@@ -159,6 +159,7 @@ dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.jupitrdns.com
 dns.keke125.com
 dns.kumoumi.net
 dns.lashes-brow.ru
@@ -337,7 +338,6 @@ hfgx.shop
 hk.rslvr.eu
 hkvps.hshoe.cn
 home-server.store
-home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
