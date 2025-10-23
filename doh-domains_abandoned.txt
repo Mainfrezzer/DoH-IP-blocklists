@@ -337,7 +337,6 @@ hfgx.shop
 hk.rslvr.eu
 hkvps.hshoe.cn
 home-server.store
-home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
