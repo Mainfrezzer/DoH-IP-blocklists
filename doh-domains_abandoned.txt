@@ -257,8 +257,6 @@ doh-dns.adblockersite.com
 doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
-doh-own-recursion.nicolas-dorriere.fr
-doh-random-upstream.nicolas-dorriere.fr
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -340,7 +338,6 @@ hfgx.shop
 hk.rslvr.eu
 hkvps.hshoe.cn
 home-server.store
-home27.duckdns.org
 hrk01.dnscry.pt
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
