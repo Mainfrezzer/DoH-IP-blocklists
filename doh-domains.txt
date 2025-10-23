@@ -381,7 +381,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -783,11 +782,9 @@ doh-dns.kescher.at
 doh-dns.sitdns.com
 doh-dns.sriedmueadguard.casa
 doh-ipv6.crypto.sx
-doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
-doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.233py.com
 doh.30x.me
@@ -1055,7 +1052,6 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
