@@ -138,7 +138,6 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -173,7 +172,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -343,6 +341,7 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 inde.ragnvindr.org
+india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
@@ -415,6 +414,7 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 surt.ml
+sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
@@ -429,6 +429,7 @@ uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
 uncensored.ny1.dns.nixnet.xyz
+united-arab-emirates.privacy-dns.pw
 uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
