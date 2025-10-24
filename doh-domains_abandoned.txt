@@ -343,7 +343,6 @@ hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
 inde.ragnvindr.org
-india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
