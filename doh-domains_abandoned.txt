@@ -175,6 +175,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -200,7 +201,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -333,7 +333,6 @@ everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-free.shecan.ir
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
@@ -405,7 +404,6 @@ pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
 pope.cnblw.me
-pro.shecan.ir
 pukanuragan.ru
 qqmcfw.tech
 resolve2.r9x.cc
