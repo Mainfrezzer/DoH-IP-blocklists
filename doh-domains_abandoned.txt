@@ -192,7 +192,6 @@ dns.pietjacobs.be
 dns.post-factum.tk
 dns.princex.net
 dns.privilab.net
-dns.propheci.xyz
 dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
