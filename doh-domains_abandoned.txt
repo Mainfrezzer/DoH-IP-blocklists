@@ -133,12 +133,14 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -289,6 +291,7 @@ doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.pi-dns.com
 doh.pl.ahadns.net
+doh.port53.dk
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
