@@ -394,7 +394,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -580,6 +579,7 @@ dns.quiet.rocks
 dns.rabbitdns.org
 dns.rayanbab.com
 dns.rbn.gr
+dns.reckoningslug.name
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me

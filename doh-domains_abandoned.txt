@@ -141,6 +141,7 @@ dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -195,7 +196,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
-dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
