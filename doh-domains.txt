@@ -350,7 +350,6 @@ dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
 dns.d94.xyz
-dns.daarrk.tech
 dns.daemon.za.net
 dns.dallinbryce.com
 dns.datenquark.de
@@ -1325,6 +1324,7 @@ punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
+qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
 quic.lol

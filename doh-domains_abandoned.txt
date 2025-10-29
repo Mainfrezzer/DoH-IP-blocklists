@@ -120,6 +120,7 @@ dns.criena.net
 dns.cybershell.xyz
 dns.cybertonic.tech
 dns.d96.info
+dns.daarrk.tech
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -403,7 +404,6 @@ please.dontsteal.my.id
 polisitogel.accountant
 pope.cnblw.me
 pukanuragan.ru
-qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
