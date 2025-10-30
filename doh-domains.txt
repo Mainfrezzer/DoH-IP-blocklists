@@ -599,6 +599,7 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
+dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -1059,6 +1060,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hungary.privacy-dns.pw
 hydra.plan9-ns1.com
 i.233py.com
 i.passcloud.xyz
