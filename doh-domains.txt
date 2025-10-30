@@ -5,6 +5,7 @@
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
 3dcosas.xyz
+3dns.eu
 3jjxxl.tech
 5g.o0o.re
 8888.google
@@ -378,6 +379,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -525,7 +527,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -791,6 +792,7 @@ doh-sg.blahdns.com
 doh.233py.com
 doh.30x.me
 doh.360.cn
+doh.3dns.eu
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
