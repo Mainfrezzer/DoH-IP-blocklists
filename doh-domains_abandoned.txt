@@ -133,13 +133,13 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -197,6 +197,7 @@ dns.rafn.is
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.scapetical.com
 dns.seiffert.me
 dns.siry.de
 dns.stvsk.ml
@@ -339,6 +340,7 @@ hk.rslvr.eu
 hkvps.hshoe.cn
 home-server.store
 hrk01.dnscry.pt
+hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
