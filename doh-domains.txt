@@ -379,7 +379,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1162,7 +1161,6 @@ mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
 man01.dnscry.pt
-maqgie.xyz
 marasov.id
 mask-api.icloud.com
 mask-h2.icloud.com
