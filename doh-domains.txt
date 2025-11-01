@@ -142,7 +142,6 @@ basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
-bl.eq.md
 blackhole.myon.lu
 blitz-setup.ahadns.com
 blitz.ahadns.com
@@ -379,7 +378,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -396,6 +394,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -1259,6 +1258,7 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
+osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
