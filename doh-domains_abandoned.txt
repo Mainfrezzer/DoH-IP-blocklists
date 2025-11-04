@@ -210,7 +210,6 @@ dns.trust404.win
 dns.tryk.app
 dns.uplenk.com
 dns.us.futuredns.eu.org
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
@@ -275,6 +274,7 @@ doh.es.ahadns.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
+doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
@@ -356,7 +356,6 @@ jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 kx-97795-tr.xyz
 la.ray0512.win
@@ -408,7 +407,6 @@ please.dontsteal.my.id
 polisitogel.accountant
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
