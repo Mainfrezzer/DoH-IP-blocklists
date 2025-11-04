@@ -112,7 +112,6 @@ dns.bravoc.one
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
-dns.cctld.kg
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
@@ -175,7 +174,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
