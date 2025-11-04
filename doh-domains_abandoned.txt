@@ -87,7 +87,6 @@ dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
-dns.13evl.com
 dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.444723.xyz
@@ -134,6 +133,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
