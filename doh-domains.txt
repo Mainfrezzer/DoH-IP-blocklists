@@ -177,7 +177,6 @@ cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
 cloud1.server.busold.ws
-cloudbenders.fun
 cloudflare-dns.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
@@ -1100,6 +1099,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1117,7 +1117,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kz-pav-w-p-1.nashkan.net
 l337.site
 las01.dnscry.pt
