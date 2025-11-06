@@ -135,6 +135,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -142,6 +143,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -410,8 +412,6 @@ please.dontsteal.my.id
 polisitogel.accountant
 polisitogel.limo
 pope.cnblw.me
-princez.uk
-pro.shecan.ir
 pukanuragan.ru
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -463,4 +463,3 @@ xholgm.top
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
-zakaria.website
