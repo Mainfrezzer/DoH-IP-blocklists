@@ -525,6 +525,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1299,12 +1300,10 @@ polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
-princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
@@ -1543,7 +1542,6 @@ yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
-zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
