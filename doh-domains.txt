@@ -1,4 +1,5 @@
 003153.xyz
+0ms.dev
 1.dns.noridev.moe
 123000123.xyz
 1a.ns.ozer.im
@@ -167,6 +168,7 @@ ca02.dns4me.net
 cahlen.com
 callies-online.site
 catdns.org
+cdn.0ms.dev
 cfdjb.org
 chaos-system.de
 chrome.cloudflare-dns.com
@@ -377,6 +379,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -523,7 +526,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
