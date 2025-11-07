@@ -136,6 +136,7 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -156,7 +157,6 @@ dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
 dns.ibakerserver.pt
-dns.immanuelschaffer.de
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz
@@ -178,6 +178,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -413,8 +414,8 @@ please.dontsteal.my.id
 polisitogel.accountant
 polisitogel.limo
 pope.cnblw.me
-pro.shecan.ir
 pukanuragan.ru
+punono.duckdns.org
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
