@@ -376,6 +376,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -441,7 +442,6 @@ dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
 dns.imchristian.de
-dns.immanuelschaffer.de
 dns.inclusioproject.com
 dns.inforlogia.com
 dns.interhub.cc
@@ -485,6 +485,7 @@ dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
+dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
 dns.lightmaster.pw
@@ -1301,7 +1302,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
