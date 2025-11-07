@@ -56,7 +56,6 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
-blocker.thethorsens.org
 buc-m2.illmods.com
 canadianshield.cira.ca
 catchen121299.top
@@ -134,7 +133,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -177,6 +175,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
