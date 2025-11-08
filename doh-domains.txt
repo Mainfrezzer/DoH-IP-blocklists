@@ -31,7 +31,6 @@ adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
-addns1.m-it.ro
 adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
@@ -1086,7 +1085,6 @@ jichi.hopto.org
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
-johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
