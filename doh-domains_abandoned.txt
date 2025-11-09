@@ -13,7 +13,6 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
-addns1.m-it.ro
 adg.rokh.biz
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -176,6 +175,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -200,6 +200,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.scapetical.com
 dns.seiffert.me
+dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
