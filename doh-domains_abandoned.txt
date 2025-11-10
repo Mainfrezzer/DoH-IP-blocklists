@@ -69,7 +69,6 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
-dandelionsprout.asuscomm.com
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -176,6 +175,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -200,11 +200,11 @@ dns.rslvr.eu
 dns.salonia.it
 dns.scapetical.com
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
 dns.technicule.info
+dns.tesem.dog
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
@@ -334,7 +334,6 @@ everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-free.shecan.ir
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
