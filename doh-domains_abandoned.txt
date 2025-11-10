@@ -69,6 +69,7 @@ console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 cynntex.fun
+dandelionsprout.asuscomm.com
 de.adhole.org
 deep-henchman-excuse.cfd
 dfw01.dnscry.pt
@@ -203,7 +204,6 @@ dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
 dns.technicule.info
-dns.tesem.dog
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
