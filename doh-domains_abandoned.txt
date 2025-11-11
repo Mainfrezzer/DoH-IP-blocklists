@@ -94,7 +94,6 @@ dns.688447.xyz
 dns.775467.xyz
 dns.7sec.com.br
 dns.8887744.xyz
-dns.9999.sg
 dns.aaflalo.me
 dns.adblockersite.com
 dns.adrianlam.com
@@ -141,6 +140,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -176,6 +176,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
