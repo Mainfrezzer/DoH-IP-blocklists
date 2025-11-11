@@ -379,6 +379,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1185,7 +1186,6 @@ muxyuji.ru
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
-nanopi.cybergroove.net
 nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
