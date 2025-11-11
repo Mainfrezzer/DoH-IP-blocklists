@@ -379,6 +379,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -607,7 +608,6 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -1001,7 +1001,6 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
-free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
@@ -1096,7 +1095,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1253,7 +1251,6 @@ ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
 orpi.privado.ovh
-osefcorp.duckdns.org
 oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
@@ -1302,7 +1299,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
