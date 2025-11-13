@@ -85,6 +85,7 @@ dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
 dns.0x55.net
+dns.13evl.com
 dns.23-4.cn
 dns.233py.com.cdn.cloudflare.net
 dns.444723.xyz
@@ -199,6 +200,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.scapetical.com
 dns.seiffert.me
+dns.shecan.ir
 dns.siry.de
 dns.stvsk.ml
 dns.swin.pro
@@ -332,6 +334,7 @@ everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+free.shecan.ir
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
