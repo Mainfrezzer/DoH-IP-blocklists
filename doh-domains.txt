@@ -548,6 +548,7 @@ dns.novg.net
 dns.npe.bz
 dns.nullgate.net
 dns.numerus.com
+dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
@@ -562,6 +563,7 @@ dns.pccoach.nl
 dns.peb-schmidt.de
 dns.pernika.net
 dns.petqa.ru
+dns.phillipjberry.net
 dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
@@ -606,7 +608,6 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -1000,7 +1001,6 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
-free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
@@ -1301,7 +1301,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 ps1.modr.club
