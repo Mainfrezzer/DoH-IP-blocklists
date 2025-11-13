@@ -198,6 +198,7 @@ crypto.sx
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.bod.lol
@@ -348,6 +349,7 @@ dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
 dns.cwlys.com
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -570,7 +572,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.pragmasec.nl
 dns.privado.ovh
 dns.propheci.xyz
 dns.psociety.de
@@ -1528,6 +1529,7 @@ www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
+xholgm.top
 xmr.land
 xn--durhre-yxa.de
 xorbiadns.com
