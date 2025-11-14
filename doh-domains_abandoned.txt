@@ -116,6 +116,7 @@ dns.criena.net
 dns.cybershell.xyz
 dns.d96.info
 dns.daarrk.tech
+dns.david888.com
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -128,7 +129,6 @@ dns.east.comss.one
 dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -136,7 +136,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
@@ -172,7 +171,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -408,6 +406,7 @@ please.dontsteal.my.id
 polisitogel.accountant
 polisitogel.limo
 pope.cnblw.me
+pro.shecan.ir
 pukanuragan.ru
 resolve2.r9x.cc
 resolver-eu.lelux.fi
