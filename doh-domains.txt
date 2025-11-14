@@ -463,7 +463,6 @@ dns.jiyi.eu
 dns.joey01245.nl
 dns.jstockley.com
 dns.jundev.org
-dns.jupitrdns.com
 dns.justinnetworkingsolutions.com
 dns.k3nny.fr
 dns.kamilszczepanski.com
@@ -529,6 +528,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -609,7 +609,6 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -1003,7 +1002,6 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
-free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
