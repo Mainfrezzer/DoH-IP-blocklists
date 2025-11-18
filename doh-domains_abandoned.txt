@@ -90,7 +90,6 @@ dns.52306.org
 dns.5ososea.com
 dns.688447.xyz
 dns.775467.xyz
-dns.7sec.com.br
 dns.8887744.xyz
 dns.aaflalo.me
 dns.adblockersite.com
@@ -136,6 +135,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flightspace.net
 dns.foximao.cn
 dns.frank-ruan.com
