@@ -383,7 +383,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -611,6 +610,7 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
+dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
@@ -1227,6 +1227,7 @@ ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
+ns3.opennameserver.org
 ns3.wuyouss.com
 ns4.opennameserver.org
 nsc.torgues.net
