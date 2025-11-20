@@ -400,7 +400,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.floriantinney.de
 dns.flwagners.com
@@ -532,6 +531,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -585,7 +585,6 @@ dns.quiet.rocks
 dns.rabbitdns.org
 dns.rayanbab.com
 dns.rbn.gr
-dns.reckoningslug.name
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
@@ -612,7 +611,6 @@ dns.seia.io
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
