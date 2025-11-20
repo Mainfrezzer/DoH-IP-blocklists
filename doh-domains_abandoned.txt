@@ -128,7 +128,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -191,7 +190,6 @@ dns.privilab.net
 dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
-dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
@@ -327,6 +325,7 @@ everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+free.shecan.ir
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
