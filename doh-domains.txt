@@ -152,7 +152,6 @@ blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
-blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
@@ -178,7 +177,6 @@ clean.dnsforge.de
 cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
-cloud.samutz.com
 cloud.tezoi.com
 cloud1.server.busold.ws
 cloudflare-dns.com
@@ -379,7 +377,6 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -532,7 +529,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -831,7 +827,6 @@ doh.cox.net
 doh.crypto.sx
 doh.datahata.by
 doh.defaultroutes.de
-doh.denypradana.com
 doh.disconnect.app
 doh.dns-ga.de
 doh.dns.apple.com
