@@ -105,6 +105,7 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
+dns.brembeck.cloud
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
@@ -169,7 +170,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
