@@ -341,6 +341,7 @@ dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.controld.com
 dns.cooluc.com
 dns.cryptomize.com
@@ -399,8 +400,8 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
+dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -531,6 +532,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -584,6 +586,7 @@ dns.quiet.rocks
 dns.rabbitdns.org
 dns.rayanbab.com
 dns.rbn.gr
+dns.reckoningslug.name
 dns.redhosting.com.ar
 dns.redvau.lt
 dns.reitmeier.me
