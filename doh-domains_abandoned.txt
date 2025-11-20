@@ -70,6 +70,7 @@ cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 d2.shabi.icu
 de.adhole.org
+de.dns.privex.io
 dfw01.dnscry.pt
 dgca.myds.me
 dns-3.wil.cloud
@@ -170,7 +171,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -191,6 +191,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
+dns.reckoningslug.name
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
@@ -380,6 +381,7 @@ nenam.eu
 net01.youcef.io
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
+nl.dns.privex.io
 nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
