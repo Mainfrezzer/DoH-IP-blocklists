@@ -105,7 +105,6 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
-dns.brembeck.cloud
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
@@ -129,6 +128,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -349,6 +349,7 @@ jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
 kaitain.restena.lu
+kavkaz.monster
 kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
