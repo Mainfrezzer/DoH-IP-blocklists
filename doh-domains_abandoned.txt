@@ -134,7 +134,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -398,6 +397,7 @@ please.dontsteal.my.id
 polisitogel.accountant
 polisitogel.limo
 pope.cnblw.me
+pro.shecan.ir
 pukanuragan.ru
 resolve2.r9x.cc
 resolver-eu.lelux.fi
