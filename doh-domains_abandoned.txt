@@ -134,6 +134,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -167,6 +168,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -187,6 +189,7 @@ dns.privilab.net
 dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
+dns.repinger.my.id
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
@@ -327,7 +330,6 @@ gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
-home-server.store
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
