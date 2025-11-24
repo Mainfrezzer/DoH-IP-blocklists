@@ -6,6 +6,7 @@
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
 3dcosas.xyz
+3dns.eu
 3jjxxl.tech
 5g.o0o.re
 8888.google
@@ -400,7 +401,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -801,6 +801,7 @@ doh-sg.blahdns.com
 doh.233py.com
 doh.30x.me
 doh.360.cn
+doh.3dns.eu
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -863,7 +864,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
