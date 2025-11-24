@@ -6,7 +6,6 @@
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
 3dcosas.xyz
-3dns.eu
 3jjxxl.tech
 5g.o0o.re
 8888.google
@@ -27,6 +26,7 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -533,7 +533,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -802,7 +801,6 @@ doh-sg.blahdns.com
 doh.233py.com
 doh.30x.me
 doh.360.cn
-doh.3dns.eu
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz

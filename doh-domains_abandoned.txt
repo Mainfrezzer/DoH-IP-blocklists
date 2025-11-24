@@ -1,6 +1,7 @@
 052419.xyz
 1.xhr0no.my
 351242444.xyz
+3dns.eu
 89433332.xyz
 a-bld.sys-adm.in
 a.zpn.me
@@ -10,7 +11,6 @@ ad.anym0re.ru
 ad1.heronet.nl
 adblock.any.dns.nixnet.xyz
 adblock.borjalopez.eu
-adblock.krctech.dev
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
@@ -168,6 +168,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -246,6 +247,7 @@ doh-dns.adblockersite.com
 doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh.3dns.eu
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
