@@ -128,7 +128,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -324,6 +323,7 @@ everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+free.shecan.ir
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
@@ -400,7 +400,6 @@ polisitogel.accountant
 polisitogel.limo
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
