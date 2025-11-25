@@ -54,7 +54,6 @@ bcandrade.ml
 berd.moe
 bigora2.vuhai.de
 bld.sys-adm.in
-blockerads.multimediaconcept.fr
 buc-m2.illmods.com
 callies-online.site
 canadianshield.cira.ca
@@ -64,7 +63,6 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 clearweb.woodbridge.club
-cloud.samutz.com
 cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
@@ -137,6 +135,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id

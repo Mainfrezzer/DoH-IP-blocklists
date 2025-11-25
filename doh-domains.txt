@@ -152,6 +152,7 @@ blitz-setup.ahadns.com
 blitz.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
+blockerads.multimediaconcept.fr
 blog.kimiblock.top
 bluemood.me
 bne01.dnscry.pt
@@ -177,6 +178,7 @@ clean.dnsforge.de
 cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
+cloud.samutz.com
 cloud.tezoi.com
 cloud1.server.busold.ws
 cloudflare-dns.com
@@ -398,7 +400,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
