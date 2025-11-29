@@ -136,6 +136,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -326,6 +327,7 @@ everovpn.co
 example.doh.blockerdns.com
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+free.shecan.ir
 greatideasforlife.lol
 groupy.ga
 gustamadh.dynv6.net
