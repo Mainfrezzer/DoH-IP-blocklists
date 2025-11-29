@@ -63,7 +63,6 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 clearweb.woodbridge.club
-cloud.samutz.com
 cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
@@ -259,7 +258,6 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.datacore.ch
-doh.denypradana.com
 doh.doh.my.id
 doh.dscloud.me
 doh.eastas.pi-dns.com
@@ -273,7 +271,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org

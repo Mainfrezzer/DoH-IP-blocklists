@@ -178,6 +178,7 @@ clean.dnsforge.de
 cleanbrowsing.org
 clientdns3.softcom.net
 cloud.198.games
+cloud.samutz.com
 cloud.tezoi.com
 cloud1.server.busold.ws
 cloudflare-dns.com
@@ -830,6 +831,7 @@ doh.cox.net
 doh.crypto.sx
 doh.datahata.by
 doh.defaultroutes.de
+doh.denypradana.com
 doh.disconnect.app
 doh.dns-ga.de
 doh.dns.apple.com
@@ -861,6 +863,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
