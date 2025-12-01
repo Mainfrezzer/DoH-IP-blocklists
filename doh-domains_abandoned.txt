@@ -171,6 +171,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -401,7 +402,14 @@ outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
+polisitogel.builders
+polisitogel.contractors
+polisitogel.cruises
+polisitogel.diy
+polisitogel.green
 polisitogel.limo
+polisitogel.living
+polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
 resolve2.r9x.cc
