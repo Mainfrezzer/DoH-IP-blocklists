@@ -762,10 +762,6 @@ dnsguard.pub
 dnslow.me
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
-dnsovertls.sinodun.com
-dnsovertls1.sinodun.com
-dnsovertls2.sinodun.com
-dnsovertls3.sinodun.com
 dnspub.restena.lu
 dnssilo.top
 dnstls.mobik.com
