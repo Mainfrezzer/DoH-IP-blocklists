@@ -128,7 +128,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -340,9 +339,7 @@ hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
-ibksturm.synology.me
 id.terra.my.id
-ihctw.synology.me
 inde.ragnvindr.org
 india.privacy-dns.pw
 iris.woozeno.eu
