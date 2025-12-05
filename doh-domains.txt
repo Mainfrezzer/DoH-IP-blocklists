@@ -383,7 +383,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -399,7 +398,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -531,6 +529,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -607,7 +606,6 @@ dns.scott-smith.us
 dns.scuola.org
 dns.sec511.com
 dns.seia.io
-dns.seiffert.me
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
@@ -1520,7 +1518,6 @@ www.morbitzer.de
 www.muxyuji.ru
 www.unasw.eu
 wyx.cloud
-xbcpb668.com
 xenergy.cc
 xholgm.top
 xmr.land
