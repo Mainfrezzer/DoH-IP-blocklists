@@ -766,7 +766,6 @@ dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnssilo.top
-dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
 do-39574-tr.xyz
