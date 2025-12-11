@@ -63,6 +63,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 clearweb.woodbridge.club
+cloud.samutz.com
 cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
@@ -172,7 +173,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
