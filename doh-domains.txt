@@ -353,6 +353,7 @@ dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
 dns.d94.xyz
+dns.daarrk.tech
 dns.daemon.za.net
 dns.dallinbryce.com
 dns.datenquark.de
@@ -557,7 +558,6 @@ dns.ofdoom.net
 dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
-dns.ours.luxe
 dns.ourvau.lt
 dns.paesa.es
 dns.panszelescik.pl
