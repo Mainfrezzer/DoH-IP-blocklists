@@ -171,7 +171,6 @@ catchen121299.top
 catdns.org
 cdn.0ms.dev
 cfdjb.org
-chaos-system.de
 chrome.cloudflare-dns.com
 chromium.dns.nextdns.io
 clean.dnsforge.de
@@ -259,7 +258,6 @@ dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
 dns.9999.sg
-dns.a47.me
 dns.aa.net.uk
 dns.aaytorr.com
 dns.abdullahabas.de
@@ -332,7 +330,6 @@ dns.clanto.cloud
 dns.cloud88.com.au
 dns.cloudfiction.eu
 dns.cloudflare.com
-dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
@@ -382,8 +379,6 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -396,7 +391,6 @@ dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
-dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
 dns.fizz.studio
@@ -502,9 +496,7 @@ dns.listo.click
 dns.lobbygod.com
 dns.lsho.top
 dns.luma-medien.com
-dns.mailkyb.co
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -549,9 +541,7 @@ dns.njal.la
 dns.nodoa.me
 dns.novali.date
 dns.novg.net
-dns.npe.bz
 dns.nullgate.net
-dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -616,7 +606,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.simplylinux.ch
 dns.sindominio.net
-dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
@@ -668,7 +657,6 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
@@ -711,7 +699,6 @@ dns1.saferbfc.org
 dns1.sarak.as
 dns1.serdcebolit.ru
 dns1.server.my.id
-dns1.sitdns.com
 dns1.sriedmueadguard.casa
 dns1.techeasy.org
 dns10.quad9.net
@@ -736,7 +723,6 @@ dns2.nordvpn.com
 dns2.ryan-palmer.com
 dns2.saferbfc.org
 dns2.sarak.as
-dns2.sitdns.com
 dns2.slinkyman.net
 dns2.sriedmueadguard.casa
 dns3.dns-ga.de
@@ -746,7 +732,6 @@ dns3.doh.pub
 dns3.dot.pub
 dns3.kescher.at
 dns3.labnekotest.site
-dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns4me.net
 dns64.cloudflare-dns.com
@@ -768,7 +753,6 @@ dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
 do-39574-tr.xyz
-do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
 doh-01.spectrum.com
@@ -781,7 +765,6 @@ doh-dns.dnsforge.de
 doh-dns.doh.pub
 doh-dns.dot.pub
 doh-dns.kescher.at
-doh-dns.sitdns.com
 doh-dns.sriedmueadguard.casa
 doh-ipv6.crypto.sx
 doh-own-recursion.nicolas-dorriere.fr
@@ -833,7 +816,6 @@ doh.dns.pub
 doh.dns.sb
 doh.dns1.lonet.org
 doh.dns4all.eu
-doh.dnscrypt.uk
 doh.dnsforge.de
 doh.dnshome.de
 doh.dnslify.com
@@ -895,7 +877,6 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
-doh.sitdns.com
 doh.sriedmueadguard.casa
 doh.suche.org
 doh.sunoaki.net
@@ -1129,7 +1110,6 @@ lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
 lesuo.top
-lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
@@ -1159,7 +1139,6 @@ mabuktogel.solutions
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
-mailkyb.co
 mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
@@ -1176,7 +1155,6 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 mo0on15.com
 montmorot.duckdns.org
@@ -1399,7 +1377,6 @@ shield1.eranext.net
 sin02.dnscry.pt
 sin03.dnscry.pt
 sink.nolo.ltd
-sitdns.com
 sjc01.dnscry.pt
 sky.rethinkdns.com
 skydragoness.com
@@ -1480,7 +1457,6 @@ us1.blissdns.net
 us1.dns.lavate.ch
 use-application-dns.net
 uw-dns.rubyfish.cn
-v.dnscrypt.uk
 v.recipes
 v2.xx3210766.live
 vd.i81.ru
@@ -1516,7 +1492,6 @@ www.masters-of-cloud.de
 www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
-www.unasw.eu
 wyx.cloud
 xenergy.cc
 xholgm.top
@@ -1529,7 +1504,6 @@ ychen.cf
 ychen.gq
 yhz01.dnscry.pt
 your-dns.run
-yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
 yuvelirtut.website
