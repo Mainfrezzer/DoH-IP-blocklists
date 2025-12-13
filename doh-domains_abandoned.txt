@@ -194,6 +194,7 @@ dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
 dns.reckoningslug.name
+dns.repinger.my.id
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
