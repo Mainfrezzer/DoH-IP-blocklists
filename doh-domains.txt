@@ -383,7 +383,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -805,7 +804,6 @@ doh.archuser.org
 doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
-doh.att.net
 doh.azoris.ovh
 doh.beauty
 doh.belnet.be
