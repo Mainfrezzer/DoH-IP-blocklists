@@ -129,7 +129,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -172,7 +171,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -261,7 +259,6 @@ doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
 doh.adblockersite.com
-doh.att.net
 doh.au.ahadns.net
 doh.battle.christmas
 doh.boje8.me
