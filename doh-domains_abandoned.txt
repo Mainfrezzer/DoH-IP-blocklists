@@ -128,7 +128,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -136,7 +135,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
@@ -365,6 +363,7 @@ local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
+luxembourg.privacy-dns.pw
 lv1.nixnet.xyz
 maqgie.xyz
 mecca-is.so-gorgeo.us.kg
@@ -423,6 +422,7 @@ qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
+romania.privacy-dns.pw
 sby-doh.limotelu.org
 secure.onedns.cc
 sg.adhole.org
