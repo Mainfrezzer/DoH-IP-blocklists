@@ -170,7 +170,6 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -336,7 +335,6 @@ groupy.ga
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
-hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 id.terra.my.id
@@ -449,7 +447,6 @@ uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
 uncensored.ny1.dns.nixnet.xyz
-united-arab-emirates.privacy-dns.pw
 uradoori.org
 us-central.adhole.org
 us-chi-doh.sb
