@@ -385,7 +385,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -1093,6 +1092,7 @@ jichi.hopto.org
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
+johneldenring.lol
 jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
@@ -1124,6 +1124,7 @@ krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 l337.site
+las-vegas.privacy-dns.pw
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -1144,6 +1145,7 @@ lsqmbr-hk.kmbr.dev
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
+luxembourg.privacy-dns.pw
 mabuktogel.builders
 mabuktogel.business
 mabuktogel.cards
@@ -1165,6 +1167,7 @@ mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
 man01.dnscry.pt
+maqgie.xyz
 marasov.id
 mask-api.icloud.com
 mask-h2.icloud.com
@@ -1357,6 +1360,7 @@ ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rocket.hakim.one
 rockwell.website
+romania.privacy-dns.pw
 router.comss.one
 rpz-public-resolver1.rrdns.pch.net
 ru-mow.doh.sb
@@ -1419,6 +1423,7 @@ sundalandia.pp.ua
 sunnygyl.com
 svc2.diarbagus.id
 switch.ch
+switzerland.privacy-dns.pw
 syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
@@ -1462,6 +1467,7 @@ uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
+united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
