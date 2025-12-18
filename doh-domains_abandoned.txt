@@ -125,6 +125,7 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
+dns.edgy.network
 dns.edison42.dev
 dns.editechstudio.com
 dns.ellichua.com
@@ -132,6 +133,7 @@ dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
 dns.faze.dev
+dns.fehlsprache.de
 dns.feldy.my.id
 dns.fgbk.net
 dns.flatuslifir.is
@@ -168,6 +170,7 @@ dns.mipauns.com
 dns.moog.sh
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -206,6 +209,7 @@ dns.truong.fi
 dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
+dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
@@ -233,6 +237,7 @@ dns2.dnscrypt.ca
 dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
+dns2.sitdns.com
 dns2.technicule.info
 dns3.adblockersite.com
 dns3.technicule.info
@@ -454,6 +459,7 @@ www.dltuykfgp.top
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
+www.unasw.eu
 www.zburger.top
 xbcpb668.com
 ycg01.dnscry.pt
