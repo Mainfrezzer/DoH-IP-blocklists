@@ -384,6 +384,7 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
+dns.edgy.network
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
@@ -397,9 +398,9 @@ dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
+dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -668,6 +669,7 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
@@ -735,6 +737,7 @@ dns2.nordvpn.com
 dns2.ryan-palmer.com
 dns2.saferbfc.org
 dns2.sarak.as
+dns2.sitdns.com
 dns2.slinkyman.net
 dns2.sriedmueadguard.casa
 dns3.dns-ga.de
