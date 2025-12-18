@@ -90,6 +90,7 @@ dns.5ososea.com
 dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
+dns.a47.me
 dns.aaflalo.me
 dns.adblockersite.com
 dns.adrianlam.com
@@ -191,6 +192,7 @@ dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
 dns.reckoningslug.name
+dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
@@ -348,6 +350,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 korzhov.dev
 kracon.anycast.censurfridns.dk
@@ -454,6 +457,7 @@ www.dltuykfgp.top
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
+www.unasw.eu
 www.zburger.top
 xbcpb668.com
 ycg01.dnscry.pt
