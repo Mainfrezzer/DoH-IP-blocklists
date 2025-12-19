@@ -286,6 +286,9 @@ doh.netweaver.uk
 doh.no.ahadns.net
 doh.northeu.pi-dns.com
 doh.ny.ahadns.net
+doh.phdns3.lonet.org
+doh.phdns4.lonet.org
+doh.phdns5.lonet.org
 doh.pi-dns.com
 doh.pl.ahadns.net
 doh.port53.dk
