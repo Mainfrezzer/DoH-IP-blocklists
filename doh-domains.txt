@@ -532,7 +532,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -977,7 +976,6 @@ family.dns.yandex.ru
 family.dot.dns.yandex.net
 family.freedns.controld.com
 family.mydns.network
-family.puredns.org
 family.rabbitdns.org
 familyshield.opendns.com
 farewellkou.click
