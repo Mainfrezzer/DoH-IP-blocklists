@@ -57,6 +57,7 @@ buc-m2.illmods.com
 callies-online.site
 canadianshield.cira.ca
 chandr1000.net
+chaos-system.de
 chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
@@ -111,6 +112,7 @@ dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
+dns.cloudtrust.solutions
 dns.containerpi.com
 dns.criena.net
 dns.cybershell.xyz
@@ -133,6 +135,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
@@ -175,6 +178,7 @@ dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
 dns.npsolution.it
+dns.numerus.com
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -196,6 +200,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
 dns.siry.de
+dns.sitdns.com
 dns.stvsk.ml
 dns.swin.pro
 dns.technicule.info
@@ -247,6 +252,7 @@ dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
+do.dnscrypt.uk
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.technicule.info
@@ -368,6 +374,7 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
