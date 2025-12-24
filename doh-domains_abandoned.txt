@@ -45,7 +45,6 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
-asia.tri-dns.net
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
@@ -456,7 +455,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tri-dns.net
 tundranet.hec.to
 tx.teradns.org
 uf-dns.lista.my.id
