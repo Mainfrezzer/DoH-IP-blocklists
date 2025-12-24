@@ -127,7 +127,6 @@ arashi.eu.org
 arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
-asia.tri-dns.net
 at-wie-w-p-1.nashkan.net
 at.pzhg.me
 ath01.dnscry.pt
@@ -206,6 +205,7 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
+d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -381,11 +381,11 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -401,7 +401,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -1425,7 +1424,6 @@ tor.vasi.li
 tpa01.dnscry.pt
 tpe01.dnscry.pt
 trf01.dnscry.pt
-tri-dns.net
 tributh.net
 truta.org
 tsm01.dnscry.pt
