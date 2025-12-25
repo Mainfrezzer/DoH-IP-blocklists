@@ -206,7 +206,6 @@ d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
-d2.shabi.icu
 dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -843,7 +842,6 @@ doh.dot.pub
 doh.eddi.net
 doh.ersei.net
 doh.eu.dnswarden.com
-doh.excdn.eu.org
 doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.funil.de
@@ -1023,6 +1021,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1508,7 +1507,6 @@ xholgm.top
 xmr.land
 xn--durhre-yxa.de
 xorbiadns.com
-xray.krnl.eu
 yarp.lefolgoc.net
 ychen.cf
 ychen.gq

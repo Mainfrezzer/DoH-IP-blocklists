@@ -65,6 +65,7 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -271,6 +272,7 @@ doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.es.ahadns.net
+doh.excdn.eu.org
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.hajekj.net
@@ -340,7 +342,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
@@ -481,6 +482,7 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xbcpb668.com
+xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
