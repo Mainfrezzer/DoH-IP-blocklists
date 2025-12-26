@@ -402,7 +402,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
@@ -454,7 +453,6 @@ dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inclusioproject.com
 dns.inforlogia.com
-dns.interhub.cc
 dns.internal.hosmatic.com
 dns.ipoac.nl
 dns.is0mino.com
@@ -533,7 +531,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1023,6 +1020,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
