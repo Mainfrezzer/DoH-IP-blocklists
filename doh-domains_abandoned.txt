@@ -65,6 +65,7 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -133,7 +134,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.flatuslifir.is
 dns.foximao.cn
 dns.frank-ruan.com
@@ -367,6 +367,7 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lewsha.lol
+lifeisa.live
 lim01.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
