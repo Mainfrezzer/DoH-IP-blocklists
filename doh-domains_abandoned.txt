@@ -75,7 +75,6 @@ dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
-dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-weblock.wevpn.com
 dns.0rz.ing
@@ -146,7 +145,6 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.ibakerserver.pt
 dns.indust.me
 dns.indybanipal.com
 dns.infosec.xyz

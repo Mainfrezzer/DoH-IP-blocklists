@@ -247,6 +247,7 @@ dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
+dns-public.ibakerserver.pt
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
@@ -446,6 +447,7 @@ dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
 dns.iamninja.ru
+dns.ibakerserver.pt
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
