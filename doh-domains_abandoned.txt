@@ -65,12 +65,14 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
 dns-3.wil.cloud
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
+dns-doh.sriedmueadguard.casa
 dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
@@ -124,6 +126,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -131,7 +134,6 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.furrydns.de
@@ -197,6 +199,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
 dns.siry.de
+dns.sriedmueadguard.casa
 dns.stvsk.ml
 dns.swin.pro
 dns.technicule.info
@@ -228,6 +231,7 @@ dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
+dns1.sriedmueadguard.casa
 dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
@@ -235,8 +239,10 @@ dns2.dnscrypt.ca
 dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
+dns2.sriedmueadguard.casa
 dns2.technicule.info
 dns3.adblockersite.com
+dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
 dns8.org
@@ -251,6 +257,7 @@ dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
+doh-dns.sriedmueadguard.casa
 doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
@@ -300,6 +307,7 @@ doh.port53.dk
 doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
+doh.sriedmueadguard.casa
 doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
@@ -452,6 +460,7 @@ sg.rslvr.eu
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
