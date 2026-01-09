@@ -4,6 +4,7 @@
 3jjxxl.tech
 89433332.xyz
 a-bld.sys-adm.in
+a.passcloud.xyz
 a.zpn.me
 aattwwss.duckdns.org
 ad-dns.lista.my.id
@@ -65,6 +66,7 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -355,6 +357,7 @@ hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
+i.passcloud.xyz
 id.terra.my.id
 inde.ragnvindr.org
 india.privacy-dns.pw
