@@ -37,7 +37,6 @@ adguard.neon0404.space
 adguard.nielsvoorn.nl
 adguard.quydang.name.vn
 adguard.taxiora.tn
-adguard1.leadmon.net
 adguardh.ga
 aerodrorne.vip
 affsoft.cc
@@ -67,7 +66,6 @@ cloudbenders.fun
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-d2.shabi.icu
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
@@ -137,6 +135,7 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -375,6 +374,7 @@ kavkaz.monster
 kids.5ososea.com
 korzhov.dev
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lewsha.lol
