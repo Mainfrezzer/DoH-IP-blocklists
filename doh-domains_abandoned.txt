@@ -171,7 +171,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -351,6 +350,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
@@ -374,7 +374,6 @@ kavkaz.monster
 kids.5ososea.com
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lewsha.lol
