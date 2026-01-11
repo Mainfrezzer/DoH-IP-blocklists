@@ -27,7 +27,6 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -196,7 +195,6 @@ dns.r1bnc.com
 dns.rafn.is
 dns.reckoningslug.name
 dns.repinger.my.id
-dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
@@ -406,7 +404,6 @@ mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
 moamao.shop
-montmorot.duckdns.org
 myrra-is.so-gorgeo.us.kg
 n0.eu
 najiakeji.top
