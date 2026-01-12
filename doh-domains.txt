@@ -1015,6 +1015,7 @@ google-public-dns-b.google.com
 goose.buckyfan.net
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1262,6 +1263,7 @@ pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
 polisitogel.beauty
+polisitogel.hair
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za
@@ -1282,6 +1284,7 @@ punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
+qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
 quic.lol

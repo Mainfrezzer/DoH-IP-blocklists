@@ -348,7 +348,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
@@ -440,13 +439,11 @@ polisitogel.contractors
 polisitogel.cruises
 polisitogel.diy
 polisitogel.green
-polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
-qqmcfw.tech
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
