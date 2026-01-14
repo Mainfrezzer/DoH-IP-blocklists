@@ -134,7 +134,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -170,7 +169,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -223,6 +221,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns0.eu
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -371,6 +370,7 @@ jp.rslvr.eu
 kaitain.restena.lu
 kavkaz.monster
 kids.5ososea.com
+kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
@@ -430,6 +430,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+open.dns0.eu
 orpi.privado.ovh
 outdoorchair.us
 paradise-human.shop
@@ -493,3 +494,4 @@ xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+zero.dns0.eu
