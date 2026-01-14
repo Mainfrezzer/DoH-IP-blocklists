@@ -434,7 +434,6 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 orpi.privado.ovh
-osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
 pi1.node15.com
