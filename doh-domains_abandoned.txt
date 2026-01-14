@@ -190,6 +190,7 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
+dns.propheci.xyz
 dns.pumplex.com
 dns.r1bnc.com
 dns.rafn.is
@@ -350,6 +351,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
