@@ -26,6 +26,7 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -125,7 +126,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -134,7 +134,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -170,7 +169,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -406,6 +404,7 @@ mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
 moamao.shop
+montmorot.duckdns.org
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
@@ -434,6 +433,7 @@ odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 open.dns0.eu
 orpi.privado.ovh
+osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
 pi1.node15.com
@@ -449,6 +449,7 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
+punono.duckdns.org
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -469,6 +470,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
