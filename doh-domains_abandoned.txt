@@ -169,6 +169,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -349,6 +350,7 @@ family.puredns.org
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+free.shecan.ir
 greatideasforlife.lol
 groupy.ga
 hk.rslvr.eu
@@ -406,6 +408,7 @@ mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
 moamao.shop
+msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
@@ -448,6 +451,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+pro.shecan.ir
 pukanuragan.ru
 resolve2.r9x.cc
 resolver-eu.lelux.fi
