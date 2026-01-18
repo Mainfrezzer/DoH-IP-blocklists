@@ -125,6 +125,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -353,6 +354,7 @@ fr-gra-w-f-1.nashkan.net
 free.shecan.ir
 greatideasforlife.lol
 groupy.ga
+gustamadh.dynv6.net
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
