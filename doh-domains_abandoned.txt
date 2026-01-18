@@ -169,6 +169,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -352,7 +353,6 @@ fr-gra-w-f-1.nashkan.net
 free.shecan.ir
 greatideasforlife.lol
 groupy.ga
-gustamadh.dynv6.net
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
