@@ -531,6 +531,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -575,6 +576,7 @@ dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
+dns.pumplex.com
 dns.puregeni.us
 dns.qrtz.club
 dns.quad9.net
