@@ -87,6 +87,7 @@ dns.5ososea.com
 dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
+dns.9999.sg
 dns.aaflalo.me
 dns.adblockersite.com
 dns.adrianlam.com
@@ -168,6 +169,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
