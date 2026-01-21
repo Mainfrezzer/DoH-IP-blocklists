@@ -125,6 +125,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -133,6 +134,7 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -350,7 +352,6 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 free.shecan.ir
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -448,6 +449,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+pro.shecan.ir
 pukanuragan.ru
 resolver-eu.lelux.fi
 resolver.noaddns.com
