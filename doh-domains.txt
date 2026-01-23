@@ -590,7 +590,6 @@ dns.redvau.lt
 dns.reitmeier.me
 dns.renardyre.com
 dns.repinger.com
-dns.repressoh.it
 dns.retakecs.com
 dns.rin.sh
 dns.roedel.cloud
