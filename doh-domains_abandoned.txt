@@ -125,6 +125,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -495,3 +496,4 @@ ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
 zero.dns0.eu
+zougloub.eu
