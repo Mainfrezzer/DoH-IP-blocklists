@@ -86,6 +86,7 @@ adguard.twotigers.xyz
 adguard.wirimij.nl
 adguard.zachitect.com
 adguard1.jsanagustin.net
+adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
 ads.hunga1k47.com
@@ -1016,6 +1017,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1238,6 +1240,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pd2004.jlsoftware.fr
 pdns.faelix.net
