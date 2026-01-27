@@ -132,7 +132,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -145,6 +144,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -152,7 +152,6 @@ dns.infosec.xyz
 dns.interhub.cc
 dns.invisv.com
 dns.ipv6dns.com
-dns.ishan.pw
 dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
@@ -169,6 +168,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -211,7 +211,6 @@ dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
-dns.vod11.xyz
 dns.vojtat.cz
 dns.wahr.top
 dns.wakgood.net
@@ -349,6 +348,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -458,7 +458,6 @@ sg.rslvr.eu
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
-solaxy.live
 sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
@@ -491,7 +490,6 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
-xmr.land
 xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
