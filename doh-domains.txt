@@ -388,7 +388,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -743,7 +742,6 @@ dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
 dns3.dot.pub
-dns3.kescher.at
 dns3.labnekotest.site
 dns3.sitdns.com
 dns4me.net
@@ -1017,7 +1015,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
