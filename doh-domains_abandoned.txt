@@ -11,7 +11,6 @@ ad.anym0re.ru
 ad1.heronet.nl
 adblock.any.dns.nixnet.xyz
 adblock.borjalopez.eu
-adblock.krctech.dev
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
@@ -27,6 +26,7 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -122,11 +122,9 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -368,6 +366,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
@@ -469,7 +468,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
