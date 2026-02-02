@@ -747,6 +747,7 @@ dns3.sitdns.com
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
+dns8.org
 dns9.quad9.net
 dnsblock.grisumedia.de
 dnscache.e-utp.net
@@ -1015,6 +1016,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
