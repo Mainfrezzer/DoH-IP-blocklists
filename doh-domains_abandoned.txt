@@ -132,6 +132,7 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -447,6 +448,7 @@ polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
 resolver-eu.lelux.fi
+resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
 secure.onedns.cc
