@@ -26,7 +26,6 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -43,7 +42,6 @@ aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
 ag.ssrahul96.xyz
-ahoj.email
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
@@ -126,7 +124,6 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -171,6 +168,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -350,7 +348,6 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -404,7 +401,6 @@ mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
 moamao.shop
-montmorot.duckdns.org
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -450,7 +446,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-princez.uk
 pukanuragan.ru
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -501,5 +496,4 @@ xray.krnl.eu
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
-zakaria.website
 zero.dns0.eu
