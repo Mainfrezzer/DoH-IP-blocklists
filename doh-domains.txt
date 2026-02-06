@@ -380,6 +380,7 @@ dns.dnsforge.de
 dns.dnshome.de
 dns.dnswarden.com
 dns.doh.pub
+dns.dooks.uk
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
@@ -533,7 +534,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1016,6 +1016,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
