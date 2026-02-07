@@ -164,6 +164,7 @@ dns.lsho.top
 dns.lvolland.fr
 dns.mandre.dev
 dns.melalandia.tk
+dns.mikrotikrumahan.my.id
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -200,6 +201,7 @@ dns.seiffert.me
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
+dns.suhaila.dev
 dns.swin.pro
 dns.technicule.info
 dns.theres.one
@@ -269,6 +271,7 @@ doh.battle.christmas
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
+doh.cleanbrowsing.org
 doh.datacore.ch
 doh.dns1.lonet.org
 doh.doh.my.id
@@ -342,6 +345,7 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
+family-filter-dns.cleanbrowsing.org
 family.5ososea.com
 family.puredns.org
 fet01.dnscry.pt
@@ -452,6 +456,7 @@ resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
 secure.onedns.cc
+security-filter-dns.cleanbrowsing.org
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
