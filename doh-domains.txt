@@ -449,9 +449,7 @@ dns.iamanuragh.in
 dns.iamninja.ru
 dns.ibakerserver.pt
 dns.ihaveacloud.com
-dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -533,7 +531,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
