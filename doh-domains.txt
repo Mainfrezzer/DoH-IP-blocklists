@@ -388,7 +388,6 @@ dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -403,6 +402,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -522,6 +522,7 @@ dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
+dns.mikrotikrumahan.my.id
 dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
@@ -532,6 +533,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -630,6 +632,7 @@ dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
 dns.strassmair.org
+dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.surfsharkdns.com
@@ -810,6 +813,7 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cippapp.com
+doh.cleanbrowsing.org
 doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
@@ -951,6 +955,7 @@ extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
 faked.org
+family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
@@ -1349,6 +1354,7 @@ secure.anudeep.me
 secure.avastdns.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
+security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
 sg-dns1.bancuh.com
