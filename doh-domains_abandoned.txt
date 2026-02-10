@@ -194,7 +194,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
