@@ -404,6 +404,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -452,6 +453,7 @@ dns.ibakerserver.pt
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -1104,7 +1106,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 l337.site
