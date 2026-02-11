@@ -123,6 +123,7 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -444,7 +445,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-pro.shecan.ir
 pukanuragan.ru
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
