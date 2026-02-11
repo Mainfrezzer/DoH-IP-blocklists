@@ -194,7 +194,6 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
-dns.shecan.ir
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -445,7 +444,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-pro.shecan.ir
 pukanuragan.ru
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
