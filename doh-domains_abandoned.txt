@@ -123,6 +123,7 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -194,6 +195,7 @@ dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
 dns.seiffert.me
+dns.shecan.ir
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
