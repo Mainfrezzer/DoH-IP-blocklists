@@ -143,6 +143,7 @@ dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
+dns.imaicool.com
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
@@ -347,7 +348,6 @@ groupy.ga
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -363,7 +363,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
@@ -445,7 +444,6 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
@@ -483,6 +481,7 @@ us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 v.qdev.cc
+v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
 vps.robotboard.de
