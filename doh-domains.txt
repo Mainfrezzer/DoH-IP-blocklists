@@ -387,8 +387,8 @@ dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
-dns.edgy.network
 dns.edison42.dev
+dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -447,7 +447,6 @@ dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
-dns.iamninja.ru
 dns.ibakerserver.pt
 dns.ihaveacloud.com
 dns.ikataruto.com
@@ -497,7 +496,6 @@ dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
-dns.lgprk.com
 dns.liberador.net
 dns.lightmaster.pw
 dns.lihj.me
@@ -508,7 +506,6 @@ dns.lobbygod.com
 dns.luma-medien.com
 dns.mailkyb.co
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -668,7 +665,6 @@ dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.w3ctag.org
 dns.wang.art
@@ -1151,7 +1147,6 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 montmorot.duckdns.org
 morbitzer.de
