@@ -26,7 +26,6 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -167,7 +166,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -445,7 +443,6 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
