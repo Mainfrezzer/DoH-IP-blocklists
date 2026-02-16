@@ -453,6 +453,7 @@ dns.ibakerserver.pt
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
+dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -968,7 +969,6 @@ family.freedns.controld.com
 family.mydns.network
 family.rabbitdns.org
 familyshield.opendns.com
-farewellkou.click
 farshidhakimy.de
 fdns1.dismail.de
 fdns2.dismail.de
