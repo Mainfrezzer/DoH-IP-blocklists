@@ -23,7 +23,6 @@ adguard.ambiya.net
 adguard.beliefanx.cn
 adguard.blogssl.com
 adguard.cloudmini.net
-adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
@@ -168,6 +167,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
