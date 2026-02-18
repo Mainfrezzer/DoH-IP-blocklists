@@ -124,7 +124,6 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -133,7 +132,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
@@ -169,7 +167,6 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
-dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -415,7 +412,6 @@ net01.youcef.io
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
 nl.rslvr.eu
-noads.imbuffering.com
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 ns.lov.host
