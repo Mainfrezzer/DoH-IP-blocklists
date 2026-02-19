@@ -47,6 +47,7 @@ adguard.abd.ong
 adguard.ajinga.net
 adguard.alu.dog
 adguard.avdkishore.dev
+adguard.bitteeinbyte.de
 adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dantynes.cyou
@@ -655,6 +656,7 @@ dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
 dns.uk-london-1.oraclecloud.com
+dns.umbrella.com
 dns.unerror.network
 dns.unx.io
 dns.us-ashburn-1.oraclecloud.com
@@ -810,6 +812,7 @@ doh.ccb-net.it
 doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
+doh.cornes.me
 doh.cox.net
 doh.crypto.sx
 doh.datahata.by
@@ -1300,9 +1303,11 @@ resolver.r0cket.net
 resolver.rferee.dev
 resolver.sunet.se
 resolver.unstoppable.io
+resolver1-fs.opendns.com
 resolver1.absolight.net
 resolver1.ipv6-sandbox.opendns.com
 resolver1.opendns.com
+resolver2-fs.opendns.com
 resolver2.absolight.net
 resolver2.ipv6-sandbox.opendns.com
 resolver2.opendns.com
