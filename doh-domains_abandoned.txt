@@ -21,6 +21,7 @@ adguard-ironhide.ultima-thule.ru
 adguard-server.cf
 adguard.ambiya.net
 adguard.beliefanx.cn
+adguard.bitteeinbyte.de
 adguard.blogssl.com
 adguard.cloudmini.net
 adguard.dessoi.cloud
@@ -124,6 +125,7 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
+dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -208,6 +210,7 @@ dns.tierradeayala.com
 dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
+dns.umbrella.com
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
@@ -270,6 +273,7 @@ doh.battle.christmas
 doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
+doh.cornes.me
 doh.datacore.ch
 doh.dns1.lonet.org
 doh.doh.my.id
@@ -452,6 +456,8 @@ pukanuragan.ru
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
+resolver1-fs.opendns.com
+resolver2-fs.opendns.com
 sby-doh.limotelu.org
 secure.onedns.cc
 sg.adhole.org
