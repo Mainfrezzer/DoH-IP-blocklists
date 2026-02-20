@@ -527,7 +527,6 @@ dns.mikrotikrumahan.my.id
 dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
-dns.momou.ch
 dns.moog.sh
 dns.moonssif.com
 dns.mtoo.vip
