@@ -680,6 +680,7 @@ dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
 dns.xwdmw.xyz
+dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net

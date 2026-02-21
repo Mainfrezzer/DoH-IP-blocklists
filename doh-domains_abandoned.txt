@@ -220,7 +220,6 @@ dns.wevpn.com
 dns.wugui.zone
 dns.xusqui.com
 dns.yague.me
-dns.yameenassotally.com
 dns.youni.win
 dns.ypbind.de
 dns1.adblockersite.com
