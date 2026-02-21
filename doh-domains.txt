@@ -458,7 +458,6 @@ dns.inforlogia.com
 dns.internal.hosmatic.com
 dns.ipoac.nl
 dns.is0mino.com
-dns.ishan.pw
 dns.islandnet.com
 dns.jhangy.us
 dns.jichi.io

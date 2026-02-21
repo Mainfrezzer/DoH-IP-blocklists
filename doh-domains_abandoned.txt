@@ -152,6 +152,7 @@ dns.infosec.xyz
 dns.interhub.cc
 dns.invisv.com
 dns.ipv6dns.com
+dns.ishan.pw
 dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
