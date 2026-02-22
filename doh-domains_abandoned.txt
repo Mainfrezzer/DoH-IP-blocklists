@@ -67,7 +67,6 @@ cvt-ic-us-adns-001.clearviewtechnology.net
 de.adhole.org
 dfw01.dnscry.pt
 dgca.myds.me
-dns-3.wil.cloud
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
@@ -133,7 +132,6 @@ dns.f97.xyz
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
-dns.fizz.studio
 dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id

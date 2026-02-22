@@ -229,6 +229,7 @@ den01.dnscry.pt
 dfw02.dnscry.pt
 dns-1.wil.cloud
 dns-2.wil.cloud
+dns-3.wil.cloud
 dns-53.com
 dns-53.uk
 dns-53.us
@@ -402,6 +403,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
