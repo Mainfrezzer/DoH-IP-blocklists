@@ -52,6 +52,7 @@ adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dantynes.cyou
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -401,7 +402,6 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
-dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1146,7 +1146,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
-michelo.line.pm
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
