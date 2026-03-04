@@ -125,7 +125,6 @@ dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.editechstudio.com
-dns.efficientdocuments.com
 dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
@@ -168,6 +167,7 @@ dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -423,7 +423,6 @@ ns2-doh.iriseden.fr
 ns2.dnsprivacy.at
 ns3.cx
 ns3.link
-ns4.opennameserver.org
 nue2.moderateinfra.net
 ny1.nixnet.xyz
 obscuro.top
