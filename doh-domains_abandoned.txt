@@ -195,6 +195,7 @@ dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.seia.io
 dns.seiffert.me
 dns.siry.de
 dns.sriedmueadguard.casa
@@ -452,6 +453,7 @@ resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
+secondary.dns.seia.io
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
