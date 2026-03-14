@@ -452,7 +452,6 @@ dns.ibakerserver.pt
 dns.ihaveacloud.com
 dns.ikataruto.com
 dns.iki.my.id
-dns.imaicool.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 dns.inforlogia.com
@@ -1109,7 +1108,6 @@ las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
-lelux.fi
 lesuo.top
 lewsha.lol
 lifeisa.live
