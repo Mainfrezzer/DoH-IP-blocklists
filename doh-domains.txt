@@ -30,6 +30,7 @@ adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
+addns1.m-it.ro
 adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
@@ -386,7 +387,6 @@ dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
-dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -402,6 +402,7 @@ dns.farshidhakimy.de
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
+dns.fizz.studio
 dns.flatuslifir.is
 dns.flightspace.net
 dns.floriantinney.de
@@ -1186,12 +1187,10 @@ ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
 ns1.qquack.org
-ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns2.4netguides.org
 ns2.flodns.net
 ns2.opennameserver.org
-ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
