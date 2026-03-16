@@ -534,6 +534,7 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -1483,6 +1484,7 @@ www.masters-of-cloud.de
 www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
+www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
