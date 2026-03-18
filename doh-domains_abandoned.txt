@@ -162,6 +162,7 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.lvolland.fr
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.mo0on15.com
@@ -429,6 +430,7 @@ odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
+okado.online
 open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org

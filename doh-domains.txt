@@ -512,7 +512,6 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
-dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -1215,7 +1214,6 @@ odin.limetric.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
-okado.online
 omr01.dnscry.pt
 one.one.one.one
 opencdn.jomodns.com
