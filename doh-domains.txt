@@ -251,7 +251,6 @@ dns-public.ibakerserver.pt
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
-dns.13evl.com
 dns.233py.com
 dns.240527.xyz
 dns.354688.xyz
@@ -1215,7 +1214,6 @@ odin.limetric.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
-okado.online
 omr01.dnscry.pt
 one.one.one.one
 opencdn.jomodns.com
