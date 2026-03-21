@@ -39,7 +39,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-ads.hunga1k47.com
 aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
@@ -74,6 +73,7 @@ dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
 dns-doh.technicule.info
 dns-east.tylerwahl.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -163,7 +163,9 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.lvolland.fr
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
+dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
