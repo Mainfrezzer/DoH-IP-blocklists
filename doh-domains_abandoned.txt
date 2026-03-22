@@ -39,6 +39,7 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
+ads.hunga1k47.com
 aerodrorne.vip
 affsoft.cc
 ag.hostme.co.il
@@ -73,7 +74,6 @@ dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
 dns-doh.technicule.info
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
