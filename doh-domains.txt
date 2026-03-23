@@ -381,6 +381,7 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -1072,6 +1073,7 @@ jackyes.ovh
 jcdns.fun
 jhb01.dnscry.pt
 jichi.hopto.org
+jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
 jnb01.dnscry.pt
