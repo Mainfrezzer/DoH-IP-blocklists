@@ -207,7 +207,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -1416,11 +1415,13 @@ tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
+tx.teradns.org
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
+uk.teradns.org
 uk01.dns4me.net
 uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
