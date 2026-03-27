@@ -240,6 +240,7 @@ dns-doh.dnsforge.de
 dns-doh.doh.pub
 dns-doh.dot.pub
 dns-doh.kescher.at
+dns-doh.technicule.info
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
@@ -646,6 +647,7 @@ dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de
+dns.technicule.info
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
@@ -713,6 +715,7 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
+dns1.technicule.info
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -736,6 +739,7 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
+dns2.technicule.info
 dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
@@ -743,6 +747,7 @@ dns3.dot.pub
 dns3.kescher.at
 dns3.labnekotest.site
 dns3.sitdns.com
+dns3.technicule.info
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -778,6 +783,7 @@ doh-dns.doh.pub
 doh-dns.dot.pub
 doh-dns.kescher.at
 doh-dns.sitdns.com
+doh-dns.technicule.info
 doh-ipv6.crypto.sx
 doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
@@ -887,6 +893,7 @@ doh.sitdns.com
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
+doh.technicule.info
 doh.technochat.in
 doh.thio.me
 doh.tiar.app
