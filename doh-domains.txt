@@ -741,6 +741,7 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
+dns2.technicule.info
 dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
@@ -894,6 +895,7 @@ doh.sitdns.com
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
+doh.technicule.info
 doh.technochat.in
 doh.thio.me
 doh.tiar.app
