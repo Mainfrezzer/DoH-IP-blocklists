@@ -411,6 +411,7 @@ dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
+dns.foximao.cn
 dns.freopc.fr
 dns.freyja.pw
 dns.froth.zone
@@ -716,6 +717,7 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
+dns1.technicule.info
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -783,6 +785,7 @@ doh-dns.doh.pub
 doh-dns.dot.pub
 doh-dns.kescher.at
 doh-dns.sitdns.com
+doh-dns.technicule.info
 doh-ipv6.crypto.sx
 doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
@@ -1287,6 +1290,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
