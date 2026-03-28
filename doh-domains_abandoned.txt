@@ -15,6 +15,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -72,6 +73,7 @@ dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
 dns-east.tylerwahl.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -195,6 +197,7 @@ dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
 dns.swin.pro
+dns.technicule.info
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
@@ -234,6 +237,7 @@ dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns2.sriedmueadguard.casa
+dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
@@ -333,6 +337,7 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
+externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 farewellkou.click
