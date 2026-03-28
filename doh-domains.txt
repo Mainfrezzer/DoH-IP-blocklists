@@ -39,7 +39,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
-adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -648,7 +647,6 @@ dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de
-dns.technicule.info
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
@@ -748,6 +746,7 @@ dns3.dot.pub
 dns3.kescher.at
 dns3.labnekotest.site
 dns3.sitdns.com
+dns3.technicule.info
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -893,6 +892,7 @@ doh.sitdns.com
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
+doh.technicule.info
 doh.technochat.in
 doh.thio.me
 doh.tiar.app
@@ -1396,6 +1396,7 @@ syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
+technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
