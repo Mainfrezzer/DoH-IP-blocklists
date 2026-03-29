@@ -72,7 +72,6 @@ dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
 dns-east.tylerwahl.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -213,6 +212,7 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
+dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
 dns.yague.me
@@ -229,7 +229,6 @@ dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
-dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
 dns2.dns-ga.de

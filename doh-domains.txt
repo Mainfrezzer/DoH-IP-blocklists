@@ -244,6 +244,7 @@ dns-doh.technicule.info
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -679,7 +680,6 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
-dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
@@ -714,6 +714,7 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
+dns1.technicule.info
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
