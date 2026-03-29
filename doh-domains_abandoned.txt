@@ -27,6 +27,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
+adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -106,7 +107,6 @@ dns.bravoc.one
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
-dns.cctld.kg
 dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
@@ -114,7 +114,6 @@ dns.cloudseriousshit.com
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
-dns.csa-rz.de
 dns.cybershell.xyz
 dns.d96.info
 dns.de.futuredns.eu.org
@@ -241,7 +240,6 @@ dns2.sriedmueadguard.casa
 dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
-dns3.technicule.info
 dns4.imkvq.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
@@ -338,7 +336,6 @@ elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
-externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 farewellkou.click
@@ -365,7 +362,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-justhost.bedro.cloud
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
