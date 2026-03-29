@@ -27,7 +27,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -40,7 +39,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-ads.hunga1k47.com
 aerodrorne.vip
 ag.hostme.co.il
 ag.ssrahul96.xyz
@@ -240,7 +238,6 @@ dns2.sriedmueadguard.casa
 dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
-dns3.technicule.info
 dns4.imkvq.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
@@ -254,7 +251,6 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.sriedmueadguard.casa
-doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.774445.xyz
@@ -305,6 +301,7 @@ doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
+doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -465,7 +462,6 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-technicule.info
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net

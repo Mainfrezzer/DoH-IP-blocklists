@@ -63,6 +63,7 @@ adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
+adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -87,6 +88,7 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
+ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -746,6 +748,7 @@ dns3.dot.pub
 dns3.kescher.at
 dns3.labnekotest.site
 dns3.sitdns.com
+dns3.technicule.info
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -781,6 +784,7 @@ doh-dns.doh.pub
 doh-dns.dot.pub
 doh-dns.kescher.at
 doh-dns.sitdns.com
+doh-dns.technicule.info
 doh-ipv6.crypto.sx
 doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
@@ -890,7 +894,6 @@ doh.sitdns.com
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
-doh.technicule.info
 doh.technochat.in
 doh.thio.me
 doh.tiar.app
@@ -1394,6 +1397,7 @@ syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
+technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
