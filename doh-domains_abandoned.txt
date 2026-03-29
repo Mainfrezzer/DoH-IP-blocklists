@@ -27,7 +27,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -40,7 +39,6 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
-ads.hunga1k47.com
 aerodrorne.vip
 ag.hostme.co.il
 ag.ssrahul96.xyz
@@ -72,6 +70,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
+dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
@@ -161,7 +160,6 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -303,7 +301,6 @@ doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
-doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
