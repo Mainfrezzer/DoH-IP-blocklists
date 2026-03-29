@@ -27,7 +27,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -253,7 +252,6 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.sriedmueadguard.casa
-doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.774445.xyz
@@ -450,7 +448,6 @@ resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
-sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc

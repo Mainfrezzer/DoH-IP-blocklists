@@ -63,6 +63,7 @@ adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
+adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -782,6 +783,7 @@ doh-dns.doh.pub
 doh-dns.dot.pub
 doh-dns.kescher.at
 doh-dns.sitdns.com
+doh-dns.technicule.info
 doh-ipv6.crypto.sx
 doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
@@ -1342,6 +1344,7 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
