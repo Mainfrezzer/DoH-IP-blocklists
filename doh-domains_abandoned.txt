@@ -15,6 +15,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -155,13 +156,11 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
-dns.kugoapps.com
 dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
 dns.melalandia.tk
-dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
@@ -198,6 +197,7 @@ dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
 dns.swin.pro
+dns.technicule.info
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
@@ -229,7 +229,6 @@ dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
-dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
 dns2.dns-ga.de
@@ -254,6 +253,7 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.sriedmueadguard.casa
+doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.774445.xyz
@@ -304,6 +304,7 @@ doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
+doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -445,6 +446,7 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
+quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -485,6 +487,7 @@ v.qdev.cc
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
+vpn.technicule.info
 vps.robotboard.de
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
