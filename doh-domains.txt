@@ -39,6 +39,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -97,6 +98,7 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
+ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -515,6 +517,7 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
+dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -714,6 +717,7 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
+dns1.technicule.info
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -1462,6 +1466,7 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
+vpn.technicule.info
 vps333.brueggus.de
 vps362.brueggus.de
 vps365.brueggus.de
