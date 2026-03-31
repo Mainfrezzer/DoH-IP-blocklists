@@ -28,7 +28,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -74,6 +73,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
+dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-free.link
 dns-nyc.aaflalo.me
@@ -159,16 +159,18 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
-dns.kugoapps.com
 dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
+dns.milkpie.one
 dns.mipauns.com
 dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
+dns.mzjtechnology.com
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -219,6 +221,7 @@ dns.wevpn.com
 dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
+dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -242,7 +245,6 @@ dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns2.sriedmueadguard.casa
-dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
@@ -452,12 +454,12 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
-quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
+sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc
@@ -494,7 +496,6 @@ v.qdev.cc
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
-vpn.technicule.info
 vps.robotboard.de
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru

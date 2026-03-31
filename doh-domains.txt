@@ -62,6 +62,7 @@ adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
 adguard.johanliebert.top
+adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
@@ -237,7 +238,6 @@ dns-doh.dnsforge.de
 dns-doh.doh.pub
 dns-doh.dot.pub
 dns-doh.kescher.at
-dns-doh.technicule.info
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-fr-psv1.cloudsides.com
@@ -483,6 +483,7 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
+dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -510,7 +511,6 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
-dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -522,7 +522,6 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -532,7 +531,6 @@ dns.mtoo.vip
 dns.mullvad.net
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 dns.nako.kr
@@ -679,7 +677,6 @@ dns.weixin.qq.com.cn
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -733,6 +730,7 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
+dns2.technicule.info
 dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
@@ -1279,6 +1277,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
@@ -1334,7 +1333,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1453,6 +1451,7 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
+vpn.technicule.info
 vps333.brueggus.de
 vps362.brueggus.de
 vps365.brueggus.de
