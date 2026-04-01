@@ -96,7 +96,6 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
-ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -485,7 +484,6 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
-dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -525,6 +523,7 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
+dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -646,7 +645,6 @@ dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de
-dns.technicule.info
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
@@ -714,6 +712,7 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
+dns1.technicule.info
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -737,7 +736,6 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
-dns2.technicule.info
 dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
@@ -745,7 +743,6 @@ dns3.dot.pub
 dns3.kescher.at
 dns3.labnekotest.site
 dns3.sitdns.com
-dns3.technicule.info
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
@@ -781,6 +778,7 @@ doh-dns.doh.pub
 doh-dns.dot.pub
 doh-dns.kescher.at
 doh-dns.sitdns.com
+doh-dns.technicule.info
 doh-ipv6.crypto.sx
 doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
@@ -889,7 +887,6 @@ doh.sitdns.com
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
-doh.technicule.info
 doh.technochat.in
 doh.thio.me
 doh.tiar.app
@@ -930,6 +927,7 @@ dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
+draco.plan9-ns2.com
 droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
@@ -1283,6 +1281,7 @@ qlf-doh.inria.fr
 qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
+quic.lol
 r1bnc.com
 rayneau.fr
 rdd01.dnscry.pt
