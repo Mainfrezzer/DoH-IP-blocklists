@@ -73,6 +73,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
+dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
@@ -134,6 +135,7 @@ dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
+dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -161,7 +163,6 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -199,6 +200,7 @@ dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
 dns.swin.pro
+dns.technicule.info
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
@@ -214,10 +216,8 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
-dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
-dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -232,6 +232,7 @@ dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
+dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
 dns2.dns-ga.de
@@ -244,7 +245,6 @@ dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
-dns3.technicule.info
 dns4.imkvq.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
@@ -258,6 +258,7 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.sriedmueadguard.casa
+doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.774445.xyz
@@ -337,12 +338,12 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
-externalmobiel.lekdijk.online
 family.5ososea.com
 family.puredns.org
 farewellkou.click
@@ -456,6 +457,7 @@ resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
 sby-doh.limotelu.org
+sdns22.gkonuralp.com
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc
