@@ -243,6 +243,7 @@ dns-doh.kescher.at
 dns-doh.technicule.info
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -486,6 +487,7 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
+dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -513,6 +515,7 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
+dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -679,6 +682,7 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
+dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
@@ -713,6 +717,7 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
+dns1.technicule.info
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -736,7 +741,6 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
-dns2.technicule.info
 dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
@@ -930,7 +934,6 @@ dot1.applied-privacy.net
 dot1.appliedprivacy.net
 dotdns.cryptroute.com
 doth.huque.com
-draco.plan9-ns2.com
 droyd.top
 drs.rustsword.com
 dtw01.dnscry.pt
@@ -1339,6 +1342,7 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
+sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1391,7 +1395,6 @@ syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
-technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
