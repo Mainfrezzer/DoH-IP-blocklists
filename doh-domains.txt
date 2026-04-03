@@ -97,6 +97,7 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
+ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -239,9 +240,9 @@ dns-doh.dnsforge.de
 dns-doh.doh.pub
 dns-doh.dot.pub
 dns-doh.kescher.at
+dns-doh.technicule.info
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
-dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -684,7 +685,6 @@ dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -1187,6 +1187,7 @@ ns.nerdytechgeeks.co.za
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.dotls.org
 ns1.fdn.fr
@@ -1462,7 +1463,6 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
-vpn.technicule.info
 vps333.brueggus.de
 vps362.brueggus.de
 vps365.brueggus.de
