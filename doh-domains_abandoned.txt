@@ -72,8 +72,10 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
+dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -160,7 +162,6 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.mo0on15.com
@@ -213,6 +214,7 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
+dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
 dns.xwdmw.xyz
@@ -230,6 +232,7 @@ dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
+dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
 dns2.dns-ga.de
@@ -465,6 +468,7 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
+technicule.info
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
@@ -486,6 +490,7 @@ v.qdev.cc
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
+vpn.technicule.info
 vps.robotboard.de
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
