@@ -39,6 +39,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -241,6 +242,7 @@ dns-doh.dot.pub
 dns-doh.kescher.at
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -524,7 +526,6 @@ dns.michelo.cl
 dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
-dns.milkpie.one
 dns.mnet-online.de
 dns.molinero.dev
 dns.momou.ch
@@ -646,6 +647,7 @@ dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de
+dns.technicule.info
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
@@ -678,9 +680,11 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
+dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
+dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -711,6 +715,7 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
+dns1.technicule.info
 dns10.quad9.net
 dns11.quad9.net
 dns12.quad9.net
@@ -734,7 +739,6 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
-dns2.technicule.info
 dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
@@ -888,7 +892,6 @@ doh.sitdns.com
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
-doh.technicule.info
 doh.technochat.in
 doh.thio.me
 doh.tiar.app
@@ -953,7 +956,6 @@ eu.tri-dns.net
 eu1.dns.lavate.ch
 evn01.dnscry.pt
 extended.dns.mullvad.net
-externalmobiel.lekdijk.online
 eyg01.dnscry.pt
 faked.org
 family-filter-dns.cleanbrowsing.org
@@ -1391,6 +1393,7 @@ syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
+technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
