@@ -39,6 +39,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -86,6 +87,7 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
+ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -95,6 +97,7 @@ affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 ag.apollohct.com
+ag.brianlee.fun
 ag.ff0x.ca
 ag.marschi.de
 agh-yz.russel053.com
@@ -484,7 +487,6 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
-dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -738,6 +740,7 @@ dns2.saferbfc.org
 dns2.sarak.as
 dns2.sitdns.com
 dns2.slinkyman.net
+dns2.technicule.info
 dns3.dns.pub
 dns3.dnsforge.de
 dns3.doh.pub
@@ -1090,6 +1093,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 kaiwu.xyz
 kavkaz.monster
@@ -1340,7 +1344,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1393,7 +1396,6 @@ syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
-technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
