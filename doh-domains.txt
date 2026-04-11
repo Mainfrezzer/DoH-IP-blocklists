@@ -521,6 +521,7 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
+dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -865,7 +866,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
@@ -1137,6 +1137,7 @@ lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 lis01.dnscry.pt
 listo.click
 llk01.dnscry.pt

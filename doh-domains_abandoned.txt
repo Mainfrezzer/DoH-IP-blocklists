@@ -163,7 +163,6 @@ dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
-dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.mo0on15.com
@@ -284,6 +283,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -375,7 +375,6 @@ kswro.web.id
 la.ray0512.win
 lelux.fi
 lim01.dnscry.pt
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
