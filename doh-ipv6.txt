@@ -127,8 +127,8 @@
 2001:df7:5300:18::64f                   # puredns.org
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:716::10                   # dns.surobe.com
-2003:180:2:7000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:1000:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:36f:4f00::1                      # dns.faked.org, faked.org
@@ -245,14 +245,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:21d4:2200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:4c00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:6400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:8400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:9e00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:1600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:200:f:5c7a:55c0:93a1     # eth.link
+2600:9000:21d4:2400:f:5c7a:55c0:93a1    # eth.link
 2600:9000:21d4:a000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:a800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:c00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:21d4:b000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:ec00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:f400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:f800:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -323,7 +323,7 @@
 2606:2040:1800:bb::2                    # ada.openbld.net
 2606:4700:10::6814:1f1b                 # arashi.eu.org, ns.net.kg
 2606:4700:10::ac42:acae                 # arashi.eu.org, ns.net.kg
-2606:4700:130:436c:6f75:6466:6c61:7265  # darya.persiannit.net, imperio.top, ns1.dotls.org
+2606:4700:130:436c:6f75:6466:6c61:7265  # commons.host, gztech.me, pm1239-bd.xyz
 2606:4700:20::681a:1f1                  # v.recipes
 2606:4700:20::681a:289                  # blitz-setup.ahadns.com
 2606:4700:20::681a:389                  # blitz-setup.ahadns.com
@@ -373,7 +373,6 @@
 2606:4700:3031::6815:ebe                # dns.7sec.com.br
 2606:4700:3031::6815:fa9                # dns.240527.xyz
 2606:4700:3031::ac43:8582               # o1.lt
-2606:4700:3031::ac43:8939               # pm1239-bd.xyz
 2606:4700:3031::ac43:9d36               # dns.paulo.nom.za, paulo.nom.za
 2606:4700:3031::ac43:cf99               # bazooki-infra.dev
 2606:4700:3031::ac43:d938               # dns.bmwhocking.com
@@ -389,8 +388,11 @@
 2606:4700:3032::ac43:93b2               # adguard-dns.com
 2606:4700:3032::ac43:99db               # 0ms.dev, cdn.0ms.dev
 2606:4700:3032::ac43:a02a               # dns.7sec.com.br
+2606:4700:3032::ac43:a3aa               # darya.persiannit.net
 2606:4700:3032::ac43:aafa               # dns.nako.kr
+2606:4700:3032::ac43:bdc4               # ns1.dotls.org
 2606:4700:3032::ac43:c394               # basic.bravedns.com, bravedns.com, free.bravedns.com
+2606:4700:3032::ac43:c7e7               # imperio.top
 2606:4700:3032::ac43:c8fe               # glacius.top
 2606:4700:3032::ac43:cb8f               # ko-18948-tr.xyz
 2606:4700:3032::ac43:d16b               # pm9352-bd.xyz
@@ -412,7 +414,6 @@
 2606:4700:3033::6815:5e7e               # dnsforfamily.com
 2606:4700:3033::ac43:8608               # doh.syshero.org
 2606:4700:3033::ac43:8982               # dns.chriswservers.com
-2606:4700:3033::ac43:9522               # gztech.me
 2606:4700:3033::ac43:9913               # dns.rabbitdns.org, family.rabbitdns.org, security.rabbitdns.org
 2606:4700:3033::ac43:a495               # doh.tiarap.org, jp.tiarap.org
 2606:4700:3033::ac43:a76a               # adguard.dekonix.ru
@@ -438,7 +439,6 @@
 2606:4700:3034::6815:5970               # lewsha.lol
 2606:4700:3034::6815:899                # lukscasino-542-tr.xyz
 2606:4700:3034::6815:a3f                # doh.asagiri.moe
-2606:4700:3034::ac43:8ba4               # commons.host
 2606:4700:3034::ac43:8d85               # virga.pp.ua
 2606:4700:3034::ac43:a60e               # lindung.pp.ua
 2606:4700:3034::ac43:a6d4               # doh.angry.im
@@ -446,12 +446,13 @@
 2606:4700:3034::ac43:aed2               # dns.hanahira.dev
 2606:4700:3034::ac43:ca32               # netcup.mismat.ch
 2606:4700:3034::ac43:d977               # dns.mayx.eu.org
+2606:4700:3035::6815:2942               # ns1.dotls.org
 2606:4700:3035::6815:2fb7               # doh.xyz
 2606:4700:3035::6815:4523               # dns.jstockley.com
 2606:4700:3035::6815:4868               # dns.dotnet.win
+2606:4700:3035::6815:54fb               # imperio.top
 2606:4700:3035::6815:5734               # virga.pp.ua
 2606:4700:3035::6815:5ddd               # adguard.twotigers.xyz
-2606:4700:3035::6815:5e95               # pm1239-bd.xyz
 2606:4700:3035::6815:5fbc               # dns.nako.kr
 2606:4700:3035::ac43:8c5e               # crypto.sx, doh-ipv6.crypto.sx, doh.crypto.sx, odoh.crypto.sx
 2606:4700:3035::ac43:8d26               # doh.runsel.id
@@ -462,7 +463,6 @@
 2606:4700:3035::ac43:d6e3               # dns.rayanbab.com
 2606:4700:3035::ac43:d84d               # adguard.twotigers.xyz
 2606:4700:3035::ac43:de7e               # takhtakh.domyah.net
-2606:4700:3036::6815:210e               # commons.host
 2606:4700:3036::6815:2945               # home-server.store
 2606:4700:3036::6815:36aa               # dns.xlion.tw
 2606:4700:3036::6815:3dbc               # dns.iki.my.id
@@ -478,9 +478,9 @@
 2606:4700:3037::6815:1568               # adguard.kasbot.net
 2606:4700:3037::6815:2023               # dns.paesa.es
 2606:4700:3037::6815:30e2               # ahadns.net
+2606:4700:3037::6815:3191               # darya.persiannit.net
 2606:4700:3037::6815:334c               # guard.sntrk.ru
 2606:4700:3037::6815:3640               # polisitogel.webcam
-2606:4700:3037::6815:3790               # gztech.me
 2606:4700:3037::6815:39ed               # r1bnc.com
 2606:4700:3037::6815:4663               # takhtakh.domyah.net
 2606:4700:3037::6815:491e               # dns.paulo.nom.za, paulo.nom.za
