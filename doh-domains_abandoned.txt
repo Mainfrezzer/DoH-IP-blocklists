@@ -195,7 +195,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -434,6 +433,7 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
+pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
