@@ -195,6 +195,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -282,6 +283,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -304,7 +306,6 @@ doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
-doh.sublime9.xyz
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -433,7 +434,6 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
-pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
