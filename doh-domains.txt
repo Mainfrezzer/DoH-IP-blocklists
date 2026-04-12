@@ -51,6 +51,7 @@ adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dantynes.cyou
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -483,7 +484,6 @@ dns.kapite.in
 dns.karadag.me
 dns.karl.one
 dns.kastner-online.de
-dns.kawa.tf
 dns.kebree.fr
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -626,6 +626,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -653,7 +654,6 @@ dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de
-dns.technicule.info
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
@@ -1262,6 +1262,7 @@ pd2004.jlsoftware.fr
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
+pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phl01.dnscry.pt
