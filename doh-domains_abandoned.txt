@@ -308,7 +308,6 @@ doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
 doh.sublime9.xyz
-doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -364,7 +363,6 @@ india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
-jcdns.fun
 jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
@@ -379,7 +377,6 @@ kswro.web.id
 la.ray0512.win
 lelux.fi
 lim01.dnscry.pt
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
