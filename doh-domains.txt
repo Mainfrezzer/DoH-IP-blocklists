@@ -589,7 +589,6 @@ dns.porteii.com
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
-dns.pumpkinvrar.com
 dns.pumplex.com
 dns.puregeni.us
 dns.qrtz.club
@@ -682,6 +681,7 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vmath.my.id
+dns.vod11.xyz
 dns.w3ctag.org
 dns.wang.art
 dns.wargan.io
@@ -902,7 +902,6 @@ doh.sb
 doh.seby.io
 doh.sidnlabs.nl
 doh.sitdns.com
-doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
@@ -1265,6 +1264,7 @@ pd2004.jlsoftware.fr
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
+pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phl01.dnscry.pt
