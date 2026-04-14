@@ -724,6 +724,7 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
+dns1.technicule.info
 dns1.techniverse.net
 dns10.quad9.net
 dns11.quad9.net
@@ -1109,7 +1110,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 juuri.hagezi.org
 kaiwu.xyz

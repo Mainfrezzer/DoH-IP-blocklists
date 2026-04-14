@@ -229,7 +229,6 @@ dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
-dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
 dns2.dns-ga.de
@@ -363,6 +362,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
