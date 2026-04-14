@@ -135,6 +135,7 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
+axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -490,6 +491,7 @@ dns.kernel-error.de
 dns.kescher.at
 dns.keviland.com
 dns.keweon.center
+dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dns.kugoapps.com
@@ -900,6 +902,7 @@ doh.sb
 doh.seby.io
 doh.sidnlabs.nl
 doh.sitdns.com
+doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
@@ -1262,6 +1265,7 @@ pd2004.jlsoftware.fr
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
+pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phl01.dnscry.pt
