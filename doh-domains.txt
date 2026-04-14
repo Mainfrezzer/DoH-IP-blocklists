@@ -87,7 +87,6 @@ adguard1.jsanagustin.net
 adguard1.leadmon.net
 adguardhome.atakorah.com
 adl.adfilter.net
-ads.hunga1k47.com
 adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
@@ -244,7 +243,6 @@ dns-doh.dnsforge.de
 dns-doh.doh.pub
 dns-doh.dot.pub
 dns-doh.kescher.at
-dns-doh.technicule.info
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
 dns-free.link
@@ -627,6 +625,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1264,7 +1263,6 @@ pd2004.jlsoftware.fr
 pdns.faelix.net
 pdns.itxe.net
 pdx01.dnscry.pt
-pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phl01.dnscry.pt
@@ -1488,7 +1486,6 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
-vpn.technicule.info
 vps333.brueggus.de
 vps362.brueggus.de
 vps365.brueggus.de

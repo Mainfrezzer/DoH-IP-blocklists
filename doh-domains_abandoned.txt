@@ -40,6 +40,7 @@ adguard.quydang.name.vn
 adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
+ads.hunga1k47.com
 aerodrorne.vip
 ag.hostme.co.il
 ag.ssrahul96.xyz
@@ -73,6 +74,7 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
+dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
 dns-nyc.aaflalo.me
@@ -195,7 +197,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -434,6 +435,7 @@ orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
 paradise-human.shop
+pepetio.xyz
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -487,6 +489,7 @@ v.qdev.cc
 v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
+vpn.technicule.info
 vps.robotboard.de
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
