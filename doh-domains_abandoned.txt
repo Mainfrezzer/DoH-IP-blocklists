@@ -49,6 +49,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
+axaxa.fun
 b-ii.com
 bahopir188.dnshome.de
 bcandrade.ml
@@ -158,6 +159,7 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
+dns.koala.us.to
 dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
@@ -208,6 +210,7 @@ dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
+dns.vod11.xyz
 dns.vojtat.cz
 dns.wahr.top
 dns.wakgood.net

@@ -135,7 +135,6 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -491,7 +490,6 @@ dns.kernel-error.de
 dns.kescher.at
 dns.keviland.com
 dns.keweon.center
-dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
 dns.kugoapps.com
@@ -682,7 +680,6 @@ dns.vinnyp.xyz
 dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vmath.my.id
-dns.vod11.xyz
 dns.w3ctag.org
 dns.wang.art
 dns.wargan.io
