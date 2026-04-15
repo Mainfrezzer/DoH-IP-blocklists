@@ -26,7 +26,6 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
-adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -296,6 +295,7 @@ dns.artikel10.org
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
+dns.auapi.fun
 dns.b33.space
 dns.b612.me
 dns.b72.com
@@ -627,6 +627,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1483,6 +1484,7 @@ use-application-dns.net
 uw-dns.rubyfish.cn
 v.dnscrypt.uk
 v.recipes
+v2.xx3210766.live
 vd.i81.ru
 vie01.dnscry.pt
 virga.pp.ua

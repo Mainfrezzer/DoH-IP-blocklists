@@ -11,6 +11,7 @@ ad.anym0re.ru
 ad1.heronet.nl
 adblock.any.dns.nixnet.xyz
 adblock.borjalopez.eu
+adblock.krctech.dev
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
@@ -98,7 +99,6 @@ dns.ambiya.net
 dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
-dns.auapi.fun
 dns.azsopro.net
 dns.baishiyuan.cn
 dns.bayas.dev
@@ -195,7 +195,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -484,7 +483,6 @@ us-east.adhole.org
 us-ny-alula.heliumcloud.cc
 us.rslvr.eu
 v.qdev.cc
-v2.xx3210766.live
 vanced.sytes.net
 vm.mytm.cc
 vps.robotboard.de
