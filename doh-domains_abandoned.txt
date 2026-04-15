@@ -242,7 +242,6 @@ dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
 dns4.imkvq.com
-dnsblock.grisumedia.de
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
@@ -284,6 +283,7 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
+doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
