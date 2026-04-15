@@ -15,6 +15,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -194,7 +195,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
