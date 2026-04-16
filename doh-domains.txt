@@ -39,7 +39,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
-adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -877,6 +876,7 @@ doh.lacontrevoie.fr
 doh.li
 doh.libredns.gr
 doh.luigi.nexific.it
+doh.lv
 doh.maskab.com
 doh.max.net.id
 doh.mmmalia.com
@@ -1439,6 +1439,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
