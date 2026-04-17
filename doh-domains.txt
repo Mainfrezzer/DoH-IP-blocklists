@@ -39,6 +39,7 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
+adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -627,7 +628,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -722,7 +722,6 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
-dns1.technicule.info
 dns1.techniverse.net
 dns10.quad9.net
 dns11.quad9.net
