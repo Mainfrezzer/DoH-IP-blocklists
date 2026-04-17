@@ -146,7 +146,6 @@ dns.ian.rocks
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com
-dns.infosec.xyz
 dns.interhub.cc
 dns.invisv.com
 dns.ipv6dns.com
@@ -193,7 +192,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
