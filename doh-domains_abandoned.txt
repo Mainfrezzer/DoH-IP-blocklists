@@ -41,6 +41,7 @@ adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
 aerodrorne.vip
+ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -192,7 +193,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -361,7 +361,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -467,6 +466,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
+truta.org
 tundranet.hec.to
 tw2.ooroot.com
 uf-dns.lista.my.id
