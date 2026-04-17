@@ -66,7 +66,6 @@ clearweb.woodbridge.club
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de-d2.foxyfy.net
 de.adhole.org
 dfw01.dnscry.pt
@@ -194,7 +193,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -208,7 +206,6 @@ dns.truong.fi
 dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
-dns.velyn.my.id
 dns.vishalk.com
 dns.vojtat.cz
 dns.wahr.top
@@ -231,7 +228,6 @@ dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
-dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
 dns2.dns-ga.de
@@ -348,6 +344,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
 ha.o51r15.com
+himedns.com
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
