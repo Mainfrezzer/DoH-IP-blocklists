@@ -41,6 +41,7 @@ adguard.sparshbajaj.me
 adguard.taxiora.tn
 adguardh.ga
 aerodrorne.vip
+ag.brianlee.fun
 ag.hostme.co.il
 ag.ssrahul96.xyz
 aihe.app
@@ -75,6 +76,7 @@ dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
+dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -192,7 +194,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
