@@ -497,6 +497,7 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
+dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -694,6 +695,7 @@ dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
+dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -724,7 +726,6 @@ dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techeasy.org
-dns1.technicule.info
 dns1.techniverse.net
 dns10.quad9.net
 dns11.quad9.net
@@ -757,7 +758,6 @@ dns3.dot.pub
 dns3.kescher.at
 dns3.labnekotest.site
 dns3.sitdns.com
-dns3.technicule.info
 dns4eu.online
 dns4me.net
 dns64.cloudflare-dns.com
@@ -974,7 +974,6 @@ eu.tri-dns.net
 eu1.dns.lavate.ch
 evn01.dnscry.pt
 extended.dns.mullvad.net
-externalmobiel.lekdijk.online
 eyg01.dnscry.pt
 faked.org
 family-filter-dns.cleanbrowsing.org
