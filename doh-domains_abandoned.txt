@@ -49,6 +49,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
+axaxa.fun
 b-ii.com
 bahopir188.dnshome.de
 bcandrade.ml
@@ -133,7 +134,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -156,10 +156,12 @@ dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
 dns.keke125.com
+dns.kugoapps.com
 dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
 dns.mandre.dev
+dns.mathewakhil.online
 dns.melalandia.tk
 dns.mipauns.com
 dns.mo0on15.com
@@ -303,6 +305,7 @@ doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
+doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
