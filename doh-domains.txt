@@ -205,10 +205,12 @@ cubedns.com
 cvt01.dnscry.pt
 cynntex.fun
 d.adguard-dns.com
+d.apemlegit.my.id
 d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -429,6 +431,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
