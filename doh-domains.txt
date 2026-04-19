@@ -658,6 +658,7 @@ dns.sy.st
 dns.syaifullah.com
 dns.szpadel.ovh
 dns.t53.de
+dns.technicule.info
 dns.technologycage.com
 dns.technostriker.com
 dns.telekom.de
@@ -694,7 +695,6 @@ dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
-dns.xwdmw.xyz
 dns.yameenassotally.com
 dns.yandex.ru
 dns.yatima.tv
@@ -1231,6 +1231,7 @@ nsec.arnor.org
 ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
+ny.teradns.org
 nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
