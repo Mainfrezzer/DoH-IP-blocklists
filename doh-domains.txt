@@ -629,6 +629,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -689,7 +690,6 @@ dns.wargan.io
 dns.warpnine.de
 dns.watch
 dns.weixin.qq.com.cn
-dns.wibenson.cloud
 dns.xiumu.org
 dns.xlion.tw
 dns.xuming.studio
@@ -817,7 +817,6 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
-doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.att.net
@@ -1375,7 +1374,6 @@ secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
 secure.hafnova.com
-securedns.vendorvista.xyz
 securenet.mhsystems.net
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
