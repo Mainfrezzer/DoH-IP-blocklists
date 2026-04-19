@@ -135,6 +135,7 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
+axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -430,7 +431,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -496,6 +496,7 @@ dns.keweon.center
 dns.koala.us.to
 dns.korzhyk.pp.ua
 dns.kosan.moe
+dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -523,6 +524,7 @@ dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
+dns.mathewakhil.online
 dns.maybe.icu
 dns.mayx.eu.org
 dns.mbrjun.cn
@@ -763,7 +765,6 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
-dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
@@ -794,7 +795,6 @@ doh-dns.doh.pub
 doh-dns.dot.pub
 doh-dns.kescher.at
 doh-dns.sitdns.com
-doh-dns.technicule.info
 doh-ipv6.crypto.sx
 doh-own-recursion.nicolas-dorriere.fr
 doh-primary-pool.detoxifypornblocker.com
@@ -907,6 +907,7 @@ doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
+doh.technicule.info
 doh.technochat.in
 doh.thio.me
 doh.tiar.app
