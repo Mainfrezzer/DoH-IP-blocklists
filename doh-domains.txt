@@ -55,7 +55,6 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -364,7 +363,6 @@ dns.daarrk.tech
 dns.daemon.za.net
 dns.dallinbryce.com
 dns.datenquark.de
-dns.david888.com
 dns.daw.dev
 dns.deadsec.net
 dns.decky.eu
@@ -1173,7 +1171,6 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
-montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
