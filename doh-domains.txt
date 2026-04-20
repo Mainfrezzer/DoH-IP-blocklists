@@ -591,7 +591,6 @@ dns.porteii.com
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
-dns.pumpkinvrar.com
 dns.pumplex.com
 dns.puregeni.us
 dns.qrtz.club
@@ -629,6 +628,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
