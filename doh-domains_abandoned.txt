@@ -193,7 +193,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -241,6 +240,7 @@ dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
 dns4.imkvq.com
+dnsblock.grisumedia.de
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
