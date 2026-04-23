@@ -431,7 +431,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -1258,6 +1257,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
+paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1446,7 +1446,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tx.teradns.org
 tyo01.dnscry.pt
