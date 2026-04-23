@@ -177,7 +177,6 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
-dns.ovpn.bond
 dns.pietjacobs.be
 dns.post-factum.tk
 dns.pragmasec.nl
@@ -422,7 +421,6 @@ ns2.dnsprivacy.at
 ns3.cx
 ns3.link
 nue2.moderateinfra.net
-ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
@@ -434,7 +432,6 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -472,10 +469,8 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
-tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
-uk.teradns.org
 uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz
