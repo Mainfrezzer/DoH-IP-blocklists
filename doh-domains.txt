@@ -51,7 +51,6 @@ adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dantynes.cyou
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
@@ -882,7 +881,6 @@ doh.libredns.gr
 doh.luigi.nexific.it
 doh.lv
 doh.maskab.com
-doh.max.net.id
 doh.mmmalia.com
 doh.mullvad.net
 doh.nic.lv
@@ -1258,7 +1256,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
