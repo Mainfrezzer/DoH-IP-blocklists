@@ -63,6 +63,7 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 chr.kepegawaiandju.id
 clearweb.woodbridge.club
+clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -130,7 +131,6 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
-dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
@@ -422,6 +422,7 @@ ns2.dnsprivacy.at
 ns3.cx
 ns3.link
 nue2.moderateinfra.net
+ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
@@ -433,6 +434,7 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -473,6 +475,7 @@ tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
+uk.teradns.org
 uncensored.any.dns.nixnet.xyz
 uncensored.lux1.dns.nixnet.xyz
 uncensored.lv1.dns.nixnet.xyz

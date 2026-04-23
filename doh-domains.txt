@@ -179,7 +179,6 @@ chromium.dns.nextdns.io
 chuncheon.dnsovertor.cc
 clean.dnsforge.de
 cleanbrowsing.org
-clientdns3.softcom.net
 cloud.198.games
 cloud.samutz.com
 cloud.tezoi.com
@@ -407,6 +406,7 @@ dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
+dns.faze.dev
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
@@ -1228,7 +1228,6 @@ nsec.arnor.org
 ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
-ny.teradns.org
 nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
@@ -1256,7 +1255,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1452,7 +1450,6 @@ tyo02.dnscry.pt
 typaza.com
 ueni.dyndns.org
 uk-lon.doh.sb
-uk.teradns.org
 uk01.dns4me.net
 uncensored.freedns.controld.com
 unfiltered.adguard-dns.com
