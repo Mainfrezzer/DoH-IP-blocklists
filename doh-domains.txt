@@ -407,7 +407,6 @@ dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
-dns.faze.dev
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
@@ -574,7 +573,6 @@ dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
-dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
@@ -1258,6 +1256,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
+paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1448,7 +1447,6 @@ tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
 tuskythehusky.tech
-tx.teradns.org
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com

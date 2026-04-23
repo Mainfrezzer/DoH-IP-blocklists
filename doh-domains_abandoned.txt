@@ -130,6 +130,7 @@ dns.ellichua.com
 dns.emeraldonion.org
 dns.emiliyan.com
 dns.enzonix.com
+dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
@@ -176,6 +177,7 @@ dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
+dns.ovpn.bond
 dns.pietjacobs.be
 dns.post-factum.tk
 dns.pragmasec.nl
@@ -431,7 +433,6 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -469,6 +470,7 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
+tx.teradns.org
 uf-dns.lista.my.id
 uk.adhole.org
 uncensored.any.dns.nixnet.xyz
