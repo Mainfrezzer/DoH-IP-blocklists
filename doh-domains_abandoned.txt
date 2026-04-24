@@ -28,7 +28,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
 adguard.k0rap.com
-adguard.kantinyoyok.xyz
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
@@ -51,7 +50,6 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 au.rslvr.eu
 awan.ftp.sh
-axaxa.fun
 b-ii.com
 bahopir188.dnshome.de
 bcandrade.ml
@@ -77,10 +75,8 @@ dgca.myds.me
 dns-asia.wugui.zone
 dns-doh.adblockersite.com
 dns-doh.sriedmueadguard.casa
-dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -198,6 +194,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -217,10 +214,8 @@ dns.wahr.top
 dns.wakgood.net
 dns.warma.me
 dns.wevpn.com
-dns.wibenson.cloud
 dns.wugui.zone
 dns.xusqui.com
-dns.xwdmw.xyz
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
@@ -235,7 +230,6 @@ dns1.nielsdb.be
 dns1.pietjacobs.be
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
-dns1.technicule.info
 dns1.us.newpangea.de
 dns2.adblockersite.com
 dns2.dns-ga.de
@@ -244,11 +238,9 @@ dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
 dns2.sriedmueadguard.casa
-dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
-dns3.technicule.info
 dns4.imkvq.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
@@ -262,7 +254,6 @@ dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.sriedmueadguard.casa
-doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh.774445.xyz
@@ -314,7 +305,6 @@ doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
-doh.technicule.info
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -362,7 +352,6 @@ hkvps.hshoe.cn
 home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
-hydra.plan9-ns1.com
 hydroxlab.ru.com
 i.233py.com.a.bdydns.com
 i.passcloud.xyz
@@ -372,7 +361,6 @@ india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
-jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -390,7 +378,6 @@ kswro.web.id
 la.ray0512.win
 lelux.fi
 lim01.dnscry.pt
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
@@ -451,6 +438,7 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -464,8 +452,6 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
-quic.lol
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -474,11 +460,9 @@ sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
 secure.onedns.cc
-securedns.vendorvista.xyz
 sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
-sg.yepdns.com
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
@@ -487,13 +471,10 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-technicule.info
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 uf-dns.lista.my.id
 uk.adhole.org
@@ -510,9 +491,7 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
-vpn.technicule.info
 vps.robotboard.de
-vtcuong.site
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
