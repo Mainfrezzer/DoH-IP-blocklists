@@ -55,6 +55,7 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.ender.fr
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -217,7 +218,6 @@ de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
-de.teradns.org
 de01.dns4me.net
 deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
@@ -404,7 +404,6 @@ dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
-dns.faze.dev
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
@@ -414,7 +413,6 @@ dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
-dns.foximao.cn
 dns.foxyfy.net
 dns.freopc.fr
 dns.freyja.pw
@@ -571,7 +569,6 @@ dns.oliviertv.co.za
 dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
-dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
@@ -1170,6 +1167,7 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
+montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1226,7 +1224,6 @@ nsec.arnor.org
 ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
-ny.teradns.org
 nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
@@ -1297,6 +1294,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1441,6 +1439,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tx.teradns.org
 tyo01.dnscry.pt
