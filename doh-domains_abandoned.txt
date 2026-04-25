@@ -241,6 +241,7 @@ dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
 dns4.imkvq.com
+dnsblock.grisumedia.de
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
@@ -348,7 +349,6 @@ gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -371,7 +371,6 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lelux.fi
@@ -403,7 +402,6 @@ mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
 moamao.shop
-montmorot.duckdns.org
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -469,10 +467,10 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
+testguard.meexx.de
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tw2.ooroot.com
 uf-dns.lista.my.id
