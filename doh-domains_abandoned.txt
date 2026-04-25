@@ -24,6 +24,7 @@ adguard.avdkishore.dev
 adguard.beliefanx.cn
 adguard.blogssl.com
 adguard.cloudmini.net
+adguard.depieri.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
@@ -134,6 +135,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
+dns.flightspace.net
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -192,6 +194,7 @@ dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.scapetical.com
 dns.seia.io
 dns.seiffert.me
 dns.siry.de
@@ -304,7 +307,6 @@ doh.post-factum.tk
 doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
-doh.suche.org
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -349,7 +351,6 @@ gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -403,7 +404,6 @@ mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
 moamao.shop
-montmorot.duckdns.org
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -436,7 +436,6 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -450,7 +449,6 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
