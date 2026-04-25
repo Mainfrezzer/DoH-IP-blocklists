@@ -7,7 +7,6 @@ a.passcloud.xyz
 a.zpn.me
 aattwwss.duckdns.org
 ad-dns.lista.my.id
-ad.anym0re.ru
 ad1.heronet.nl
 adblock.any.dns.nixnet.xyz
 adblock.borjalopez.eu
@@ -467,7 +466,6 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-testguard.meexx.de
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net

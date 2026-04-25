@@ -16,6 +16,7 @@ a.safe.ns.dnslify.com
 abe01.dnscry.pt
 abel.waringer-atg.de
 abn01.dnscry.pt
+ad.anym0re.ru
 ad.huyct.net
 ad.justincounts.com
 ad.tzockt.beer
@@ -1420,6 +1421,7 @@ tbs01.dnscry.pt
 tecdrive.site
 technicule.info
 testaghome.meshkov.info
+testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
