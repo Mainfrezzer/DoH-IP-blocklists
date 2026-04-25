@@ -807,7 +807,6 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
-doh.360.cn
 doh.3dns.eu
 doh.42l.fr
 doh.aaaab3n.moe
@@ -1257,7 +1256,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
