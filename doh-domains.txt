@@ -416,7 +416,6 @@ dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
-dns.foximao.cn
 dns.foxyfy.net
 dns.freopc.fr
 dns.freyja.pw
@@ -629,7 +628,6 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu

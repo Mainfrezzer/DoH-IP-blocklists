@@ -133,6 +133,7 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
+dns.foximao.cn
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -193,6 +194,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
