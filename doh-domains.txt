@@ -627,6 +627,7 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -804,6 +805,7 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
+doh.360.cn
 doh.3dns.eu
 doh.42l.fr
 doh.aaaab3n.moe
