@@ -1046,7 +1046,6 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
-himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.mbrjun.cn
@@ -1137,7 +1136,6 @@ lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
-lion.yazilimatolye.com
 lis01.dnscry.pt
 listo.click
 llk01.dnscry.pt
@@ -1255,7 +1253,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
-paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1421,6 +1418,7 @@ tbs01.dnscry.pt
 tecdrive.site
 technicule.info
 testaghome.meshkov.info
+testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
