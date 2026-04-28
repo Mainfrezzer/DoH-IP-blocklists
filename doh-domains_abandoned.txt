@@ -267,6 +267,7 @@ doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
 doh.datacore.ch
+doh.datahata.by
 doh.dns-ga.de
 doh.dns1.lonet.org
 doh.doh.my.id
@@ -347,7 +348,6 @@ fr-gra-w-f-1.nashkan.net
 groupy.ga
 gustamadh.dynv6.net
 ha.o51r15.com
-himedns.com
 hk.rslvr.eu
 hkvps.hshoe.cn
 hrk01.dnscry.pt
@@ -361,6 +361,7 @@ india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
+jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -376,7 +377,6 @@ kswro.web.id
 la.ray0512.win
 lelux.fi
 lim01.dnscry.pt
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg

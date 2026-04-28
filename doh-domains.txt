@@ -834,7 +834,6 @@ doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
-doh.datahata.by
 doh.defaultroutes.de
 doh.denypradana.com
 doh.disconnect.app
@@ -1046,6 +1045,7 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.mbrjun.cn
@@ -1089,7 +1089,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
-jcdns.fun
 jhb01.dnscry.pt
 jichi.hopto.org
 jkdns.me
@@ -1136,6 +1135,7 @@ lifeisa.live
 lim02.dnscry.pt
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 lis01.dnscry.pt
 listo.click
 llk01.dnscry.pt
