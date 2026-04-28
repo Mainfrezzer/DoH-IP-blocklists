@@ -101,7 +101,6 @@ dns.anonymous.pw
 dns.apigw.online
 dns.arapurayil.com
 dns.azsopro.net
-dns.baishiyuan.cn
 dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
@@ -135,7 +134,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -195,6 +193,7 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -267,7 +266,6 @@ doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
 doh.datacore.ch
-doh.datahata.by
 doh.dns-ga.de
 doh.dns1.lonet.org
 doh.doh.my.id
@@ -361,7 +359,6 @@ india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
-jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
