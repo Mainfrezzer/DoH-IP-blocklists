@@ -208,7 +208,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -623,6 +622,7 @@ dns.sec511.com
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
+dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
@@ -815,7 +815,6 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
-doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.att.net
@@ -1255,6 +1254,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
+paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
@@ -1498,7 +1498,6 @@ vps391.brueggus.de
 vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
-vtcuong.site
 wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt

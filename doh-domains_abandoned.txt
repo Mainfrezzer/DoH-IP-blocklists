@@ -68,6 +68,7 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+dandelionsprout.asuscomm.com
 de-d2.foxyfy.net
 de.adhole.org
 dfw01.dnscry.pt
@@ -194,7 +195,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.shecan.ir
 dns.shimul.me
 dns.siry.de
 dns.sriedmueadguard.casa
@@ -261,6 +261,7 @@ doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
 doh.adblockersite.com
+doh.armadillodns.net
 doh.au.ahadns.net
 doh.battle.christmas
 doh.boje8.me
@@ -434,7 +435,6 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -489,6 +489,7 @@ v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
 vps.robotboard.de
+vtcuong.site
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
