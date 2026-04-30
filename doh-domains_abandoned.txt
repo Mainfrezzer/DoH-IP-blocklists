@@ -27,6 +27,7 @@ adguard.cloudmini.net
 adguard.dessoi.cloud
 adguard.dtness.com
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -68,7 +69,6 @@ clientdns3.softcom.net
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de-d2.foxyfy.net
 de.adhole.org
 dfw01.dnscry.pt
@@ -196,6 +196,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -261,7 +262,6 @@ doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
 doh.adblockersite.com
-doh.armadillodns.net
 doh.au.ahadns.net
 doh.battle.christmas
 doh.boje8.me
@@ -347,9 +347,11 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
+home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -366,6 +368,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -489,7 +492,6 @@ v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
 vps.robotboard.de
-vtcuong.site
 www.dltuykfgp.top
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
