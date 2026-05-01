@@ -244,6 +244,7 @@ dns3.adblockersite.com
 dns3.dns-ga.de
 dns3.sriedmueadguard.casa
 dns4.imkvq.com
+dnsblock.grisumedia.de
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
@@ -401,7 +402,6 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
-moamao.shop
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -434,7 +434,6 @@ open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-paradise-human.shop
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
