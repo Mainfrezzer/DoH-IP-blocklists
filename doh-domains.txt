@@ -1034,7 +1034,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1170,6 +1169,7 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
+moamao.shop
 montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1442,7 +1442,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tx.teradns.org
 tyo01.dnscry.pt
