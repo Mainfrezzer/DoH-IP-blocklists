@@ -207,7 +207,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -1169,7 +1168,6 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
-moamao.shop
 montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
@@ -1442,6 +1440,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tx.teradns.org
 tyo01.dnscry.pt
