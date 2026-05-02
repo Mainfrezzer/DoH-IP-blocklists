@@ -206,7 +206,6 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
-dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -1032,7 +1031,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1104,6 +1102,7 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
+jurre-home.duckdns.org
 justhost.bedro.cloud
 juuri.hagezi.org
 kaiwu.xyz
@@ -1166,7 +1165,6 @@ mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
-montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1286,7 +1284,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 protective.joindns4.eu
@@ -1438,6 +1435,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tx.teradns.org
 tyo01.dnscry.pt
