@@ -1169,7 +1169,6 @@ mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
-moamao.shop
 montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
