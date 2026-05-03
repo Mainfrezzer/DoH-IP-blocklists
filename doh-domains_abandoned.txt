@@ -170,7 +170,6 @@ dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
 dns.muxinghe.cn
-dns.nas-server.ru
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -199,6 +198,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -349,6 +349,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
