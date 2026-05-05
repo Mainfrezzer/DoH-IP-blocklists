@@ -759,7 +759,6 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
-dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
@@ -1032,6 +1031,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1419,7 +1419,6 @@ tbs01.dnscry.pt
 tecdrive.site
 technicule.info
 testaghome.meshkov.info
-testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
