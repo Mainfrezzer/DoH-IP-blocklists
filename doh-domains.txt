@@ -39,7 +39,6 @@ adg.jnorton.us
 adg.khon.dev
 adg.rueiliu.space
 adg.tshost.no
-adg.yybyy.wiki
 adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
@@ -583,7 +582,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -1044,7 +1042,6 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
-himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.mbrjun.cn
@@ -1089,6 +1086,7 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
+jcdns.fun
 jhb01.dnscry.pt
 jichi.hopto.org
 jkdns.me
@@ -1401,7 +1399,6 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
-solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io

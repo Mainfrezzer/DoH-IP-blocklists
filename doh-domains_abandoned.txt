@@ -15,6 +15,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -188,6 +189,7 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
+dns.propheci.xyz
 dns.r1bnc.com
 dns.rafn.is
 dns.reckoningslug.name
@@ -349,6 +351,7 @@ fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
 ha.o51r15.com
+himedns.com
 hk.rslvr.eu
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
@@ -361,7 +364,6 @@ india.privacy-dns.pw
 iris.woozeno.eu
 irre.li
 jambi.undo.it
-jcdns.fun
 jit.ddns.net
 jp.68360612.xyz
 jp.gridns.xyz
@@ -462,6 +464,7 @@ sg.rslvr.eu
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+solaxy.live
 sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
