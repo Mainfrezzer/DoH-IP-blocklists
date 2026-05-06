@@ -132,7 +132,6 @@ au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
-axaxa.fun
 b.family.ns.dnslify.com
 b.ns.dnslify.com
 b.safe.ns.dnslify.com
@@ -214,7 +213,6 @@ de-f1.foxyfy.net
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
-de.dns.privex.io
 de.teradns.org
 de01.dns4me.net
 deep-henchman-excuse.cfd
@@ -812,6 +810,7 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
+doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.att.net
@@ -1042,6 +1041,7 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.mbrjun.cn
@@ -1086,6 +1086,7 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
+jcdns.fun
 jhb01.dnscry.pt
 jichi.hopto.org
 jkdns.me
