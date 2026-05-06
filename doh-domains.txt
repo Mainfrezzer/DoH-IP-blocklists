@@ -1031,7 +1031,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1087,7 +1086,6 @@ ivnkn.xyz
 jabber-germany.de
 jackyes.ovh
 japan.dnsovertor.cc
-jcdns.fun
 jhb01.dnscry.pt
 jichi.hopto.org
 jkdns.me
@@ -1119,7 +1117,6 @@ kr1.ooroot.com
 kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
-krtekvpn.duckdns.org
 kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 l337.site
