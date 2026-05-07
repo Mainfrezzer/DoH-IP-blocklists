@@ -812,6 +812,7 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
+doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.att.net
@@ -1031,7 +1032,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1064,6 +1064,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hydra.plan9-ns1.com
 i.233py.com
 iana.tenta.io
 ibksturm.synology.me
