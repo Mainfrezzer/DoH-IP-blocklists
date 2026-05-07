@@ -15,6 +15,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -179,6 +180,7 @@ dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
 dns.npsolution.it
+dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -349,6 +351,7 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
