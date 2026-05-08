@@ -580,6 +580,7 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
+dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -1293,6 +1294,7 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
+punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
@@ -1393,6 +1395,7 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
+solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io
@@ -1432,7 +1435,9 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
+tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
