@@ -211,7 +211,6 @@ de-f1.foxyfy.net
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
-de.dns.privex.io
 de01.dns4me.net
 deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
@@ -244,6 +243,7 @@ dns-public.ibakerserver.pt
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0ooo.icu
+dns.13evl.com
 dns.23-4.cn
 dns.233py.com
 dns.240527.xyz
@@ -397,6 +397,7 @@ dns.faked.org
 dns.falkenthal.org
 dns.fancyorg.at
 dns.farshidhakimy.de
+dns.faze.dev
 dns.fehlsprache.de
 dns.ffnw.de
 dns.filipccz.eu
@@ -560,6 +561,7 @@ dns.ofdoom.net
 dns.oliviertv.co.za
 dns.opendns.com
 dns.ourvau.lt
+dns.ovpn.bond
 dns.paesa.es
 dns.panszelescik.pl
 dns.pari.network
@@ -1042,6 +1044,7 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1152,7 +1155,6 @@ mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
-montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -1421,6 +1423,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
