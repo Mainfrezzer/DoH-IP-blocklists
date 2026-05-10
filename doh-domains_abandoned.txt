@@ -29,7 +29,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.konikoni428.com
@@ -127,6 +126,7 @@ dns.criena.net
 dns.csa-rz.de
 dns.cybershell.xyz
 dns.d96.info
+dns.datenquark.de
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
 dns.dnsoverhttps.net
@@ -364,10 +364,8 @@ fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
 groupy.ga
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydroxlab.ru.com
@@ -479,7 +477,6 @@ sg.adhole.org
 sg.gridns.xyz
 sg.rslvr.eu
 sg.teradns.org
-sg.yepdns.com
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
@@ -492,7 +489,6 @@ technicule.info
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
-tuandns.duckdns.org
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
