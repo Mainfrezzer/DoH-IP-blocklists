@@ -633,7 +633,6 @@ dns.stevenz.net
 dns.stirringphoto.com
 dns.stormycloud.org
 dns.strassmair.org
-dns.suhaila.dev
 dns.superstefan.win
 dns.surfshark.com
 dns.surfsharkdns.com
@@ -655,6 +654,7 @@ dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
 dns.tryk.app
+dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
 dns.uk-london-1.oraclecloud.com

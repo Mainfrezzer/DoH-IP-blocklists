@@ -208,6 +208,7 @@ dns.shimul.me
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
+dns.suhaila.dev
 dns.swin.pro
 dns.technicule.info
 dns.thegoodsource.net
@@ -216,7 +217,6 @@ dns.thiz.top
 dns.tierradeayala.com
 dns.truong.fi
 dns.trust404.win
-dns.tuna.tsinghua.edu.cn
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
