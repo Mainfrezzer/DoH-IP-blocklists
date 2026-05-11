@@ -133,6 +133,7 @@ dns.doh.best
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dynx.pro
 dns.east.comss.one
 dns.editechstudio.com
 dns.ellichua.com
@@ -362,7 +363,9 @@ farewellkou.click
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
+free.shecan.ir
 groupy.ga
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hrk01.dnscry.pt
