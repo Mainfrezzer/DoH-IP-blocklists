@@ -315,7 +315,6 @@ dns.caliph.dev
 dns.carson-family.com
 dns.caspervk.net
 dns.cctld.kg
-dns.ceai.com.tw
 dns.cert.ee
 dns.chadeyron.fr
 dns.charraud.eu
@@ -421,7 +420,6 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
-dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
