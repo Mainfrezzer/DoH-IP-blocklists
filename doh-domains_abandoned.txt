@@ -29,6 +29,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.konikoni428.com
@@ -308,7 +309,6 @@ doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
-doh.max.net.id
 doh.micronets.in
 doh.morizt.id
 doh.nala.ru
