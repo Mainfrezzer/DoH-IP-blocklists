@@ -10,9 +10,6 @@
 3jjxxl.tech
 5g.o0o.re
 8888.google
-a.family.ns.dnslify.com
-a.ns.dnslify.com
-a.safe.ns.dnslify.com
 abe01.dnscry.pt
 abel.waringer-atg.de
 abn01.dnscry.pt
@@ -129,9 +126,6 @@ au-syd.doh.sb
 au01.dns4me.net
 au02.dns4me.net
 axaxa.fun
-b.family.ns.dnslify.com
-b.ns.dnslify.com
-b.safe.ns.dnslify.com
 base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
@@ -611,7 +605,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -823,7 +816,6 @@ doh.dns4all.eu
 doh.dnscrypt.uk
 doh.dnsforge.de
 doh.dnshome.de
-doh.dnslify.com
 doh.doh.pub
 doh.domreg.lt
 doh.dot.pub
@@ -1083,7 +1075,6 @@ jp01.dns4me.net
 jp1.f7b6h9.tk
 jp2.ooroot.com
 jpdns.cola16.app
-jurre-home.duckdns.org
 justhost.bedro.cloud
 juuri.hagezi.org
 kaiwu.xyz
