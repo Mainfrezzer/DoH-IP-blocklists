@@ -32,6 +32,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.konikoni428.com
@@ -216,7 +217,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -285,6 +285,7 @@ doh-dns.sriedmueadguard.casa
 doh-dns.technicule.info
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh.360.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -397,6 +398,7 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
+jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -447,7 +449,6 @@ nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 ns.lov.host
 ns.nerdytechgeeks.co.za
-ns.trcnet.fi
 ns1-doh.iriseden.fr
 ns1.dnsprivacy.at
 ns2-doh.iriseden.fr
