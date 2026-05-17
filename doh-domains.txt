@@ -369,6 +369,7 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -1028,7 +1029,6 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1385,7 +1385,6 @@ takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
-testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
