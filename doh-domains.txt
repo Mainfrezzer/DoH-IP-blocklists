@@ -133,7 +133,6 @@ bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
 bl.eq.md
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -369,7 +368,6 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.eddi.net
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -1002,7 +1000,6 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1029,6 +1026,7 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1216,7 +1214,6 @@ orau.lz0724.com
 ord01.dnscry.pt
 ordns.he.net
 ore-dns.bitdefender.net
-oszx.co
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -1385,6 +1382,7 @@ takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
+testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
