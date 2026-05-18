@@ -83,7 +83,6 @@ cloud1.server.busold.ws
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-dandelionsprout.asuscomm.com
 de-d2.foxyfy.net
 de.adhole.org
 de.teradns.org
@@ -218,6 +217,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -290,6 +290,7 @@ doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
 doh.adblockersite.com
+doh.armadillodns.net
 doh.au.ahadns.net
 doh.battle.christmas
 doh.boje8.me
