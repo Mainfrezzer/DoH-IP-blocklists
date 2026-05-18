@@ -57,6 +57,7 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
+asia.tri-dns.net
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
@@ -217,7 +218,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -369,6 +369,7 @@ draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
+eu.tri-dns.net
 everovpn.co
 example.doh.blockerdns.com
 externalmobiel.lekdijk.online
@@ -488,6 +489,7 @@ resolver.noaddns.com
 sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
+secure.avastdns.com
 secure.onedns.cc
 sg.adhole.org
 sg.gridns.xyz
