@@ -57,7 +57,6 @@ aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
-asia.tri-dns.net
 au.rslvr.eu
 awan.ftp.sh
 b-ii.com
@@ -369,7 +368,6 @@ draco.plan9-ns2.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
-eu.tri-dns.net
 everovpn.co
 example.doh.blockerdns.com
 externalmobiel.lekdijk.online
