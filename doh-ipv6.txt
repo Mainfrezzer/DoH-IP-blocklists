@@ -127,8 +127,8 @@
 2001:df7:5300:18::64f                   # puredns.org
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:1e93::10                  # dns.surobe.com
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
 2003:180:2::4:0:53                      # dns.telekom.de
+2003:180:2:b000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:133:1500::4                      # doh.kekew.info
@@ -266,14 +266,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:28a3:0:f:5c7a:55c0:93a1       # eth.link
-2600:9000:28a3:2c00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:3800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:4200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:4400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:3e00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:4e00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:600:f:5c7a:55c0:93a1     # eth.link
+2600:9000:28a3:6400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:6800:f:5c7a:55c0:93a1    # eth.link
 2600:9000:28a3:9000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:a200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:fa00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:aa00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:ae00:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -970,6 +970,7 @@
 2a00:6a00:ad1:806::86                   # dns.cert.ee
 2a00:7c83:0:12:14d0:f5b6:4ec:a          # naw01.dnscry.pt
 2a00:c98:2030:a005:feed:df:c0ff:eeee    # cryptostorm.is
+2a00:c98:2050:a04d:1::400               # dns.dynx.pro
 2a00:c98:2200:af06:5::1                 # dns.smartguard.io
 2a00:c98:4002:1:6::42                   # dns.keweon.center
 2a00:c98:4002:1:6::44                   # dns.keweon.center
@@ -1088,7 +1089,6 @@
 2a01:e0a:bf3:a440::ba89:636             # dns.maitrekuc.fr, maitrekuc.fr
 2a01:e0a:f30:9100:6e2b:59ff:fee8:7a13   # dns.kebree.fr, home.kebree.fr
 2a02:168:a002:0:216:3eff:fed4:dc1a      # dns.momou.ch
-2a02:168:a003:0:216:3eff:fe63:c975      # dns.momou.ch
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
 2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
 2a02:1b8:10:234::2                      # doh.applied-privacy.net, doh.appliedprivacy.net, dot1.applied-privacy.net, dot1.appliedprivacy.net
