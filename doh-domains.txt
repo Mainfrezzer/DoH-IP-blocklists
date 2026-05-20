@@ -1383,6 +1383,7 @@ takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
+testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
@@ -1405,6 +1406,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
