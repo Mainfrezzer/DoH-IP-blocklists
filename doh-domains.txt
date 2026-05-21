@@ -566,6 +566,7 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
+dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -775,7 +776,6 @@ doh-sg.blahdns.com
 doh.18bit.cn
 doh.233py.com
 doh.30x.me
-doh.360.cn
 doh.3dns.eu
 doh.42l.fr
 doh.aaaab3n.moe
@@ -1364,6 +1364,7 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
+solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io
