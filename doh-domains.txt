@@ -193,6 +193,7 @@ d.bod.lol
 d.niaox.com
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -565,7 +566,6 @@ dns.pierzchlewicz.pl
 dns.pizzari.me
 dns.pnh.my.id
 dns.porteii.com
-dns.propheci.xyz
 dns.psociety.de
 dns.pub
 dns.pumpkinvrar.com
@@ -1364,7 +1364,6 @@ skydragoness.com
 slc01.dnscry.pt
 sm2.doh.pub
 sof01.dnscry.pt
-solaxy.live
 spacedns.org
 squidmall.vip
 steering.nextdns.io
