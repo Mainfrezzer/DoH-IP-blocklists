@@ -464,6 +464,7 @@ okado.online
 open.dns0.eu
 orpi.privado.ovh
 osefcorp.duckdns.org
+oszx.co
 outdoorchair.us
 pi1.node15.com
 please.dontsteal.my.id
