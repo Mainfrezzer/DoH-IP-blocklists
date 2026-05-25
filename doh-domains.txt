@@ -606,6 +606,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -697,7 +698,6 @@ dns1.sarak.as
 dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
-dns1.techeasy.org
 dns1.techniverse.net
 dns10.quad9.net
 dns11.quad9.net
@@ -786,7 +786,6 @@ doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
 doh.archuser.org
-doh.armadillodns.net
 doh.asagiri.moe
 doh.asia.dnswarden.com
 doh.att.net
@@ -1014,7 +1013,6 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
-himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.mbrjun.cn
@@ -1406,6 +1404,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
