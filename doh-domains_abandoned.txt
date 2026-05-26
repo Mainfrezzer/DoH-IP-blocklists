@@ -152,6 +152,7 @@ dns.enzonix.com
 dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
+dns.flightspace.net
 dns.frank-ruan.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -213,6 +214,7 @@ dns.repressoh.it
 dns.rootlab.top
 dns.rslvr.eu
 dns.salonia.it
+dns.scapetical.com
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
@@ -319,7 +321,6 @@ doh.it.ahadns.net
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
-doh.max.net.id
 doh.micronets.in
 doh.morizt.id
 doh.nala.ru
@@ -336,7 +337,6 @@ doh.pi-dns.com
 doh.pl.ahadns.net
 doh.port53.dk
 doh.post-factum.tk
-doh.safesurfer.io
 doh.serverhost.no
 doh.southam.family
 doh.sriedmueadguard.casa
@@ -486,7 +486,6 @@ polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
 quic.lol
-rayneau.fr
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk

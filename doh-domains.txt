@@ -393,7 +393,6 @@ dns.ffnw.de
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
-dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -593,7 +592,6 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -846,6 +844,7 @@ doh.libredns.gr
 doh.luigi.nexific.it
 doh.lv
 doh.maskab.com
+doh.max.net.id
 doh.mmmalia.com
 doh.mullvad.net
 doh.nic.lv
@@ -862,6 +861,7 @@ doh.qis.io
 doh.quickline.ch
 doh.rezhajul.io
 doh.runsel.id
+doh.safesurfer.io
 doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
@@ -1269,6 +1269,7 @@ qqmcfw.tech
 qual.cuprum.ru
 query.hdns.io
 r1bnc.com
+rayneau.fr
 rdd01.dnscry.pt
 rdns.faelix.net
 rdu01.dnscry.pt
