@@ -605,6 +605,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1306,7 +1307,6 @@ rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.uncensoreddns.org
 ric.openbld.net
 ricko.is
-ro-bu.foxyfy.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rocket.hakim.one

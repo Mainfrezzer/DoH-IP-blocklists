@@ -217,7 +217,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -490,6 +489,7 @@ resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
+ro-bu.foxyfy.net
 sby-doh.limotelu.org
 secondary.dns.seia.io
 secure-dns.dns-ga.de
