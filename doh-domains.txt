@@ -1001,6 +1001,7 @@ goose.buckyfan.net
 greatideasforlife.lol
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1307,6 +1308,7 @@ rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.uncensoreddns.org
 ric.openbld.net
 ricko.is
+ro-bu.foxyfy.net
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rocket.hakim.one
