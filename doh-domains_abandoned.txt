@@ -217,6 +217,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -446,6 +447,7 @@ nenam.eu
 net01.youcef.io
 nightlymoon.us.kg
 nindy-is.so-gorgeo.us.kg
+nl.dns.privex.io
 nl.rslvr.eu
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
@@ -539,6 +541,7 @@ www.pukanuragan.ru
 www.zburger.top
 xmr.land
 xray.krnl.eu
+yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
