@@ -179,6 +179,7 @@ dns.kugoapps.com
 dns.kumoumi.net
 dns.lashes-brow.ru
 dns.learningman.top
+dns.mailkyb.co
 dns.mandre.dev
 dns.mathewakhil.online
 dns.melalandia.tk
@@ -217,7 +218,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -430,6 +430,7 @@ mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
+mailkyb.co
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
