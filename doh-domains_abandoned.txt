@@ -153,7 +153,6 @@ dns.faze.dev
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.glorydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
