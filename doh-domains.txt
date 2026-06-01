@@ -499,6 +499,7 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -604,7 +605,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -831,6 +831,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
@@ -1138,6 +1139,7 @@ mozilla.cloudflare-dns.com
 mru01.dnscry.pt
 muc01.dnscry.pt
 muli.stusta.mhn.de
+multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
 n5.lsasss.com

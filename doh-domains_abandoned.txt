@@ -181,7 +181,6 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mailkyb.co
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
@@ -218,6 +217,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -318,7 +318,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -441,7 +440,6 @@ mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
 msr177.com
-multi.dns.marbledfennec.net
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
