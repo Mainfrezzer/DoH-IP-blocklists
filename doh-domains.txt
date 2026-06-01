@@ -605,6 +605,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -733,7 +734,6 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
-dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
@@ -1026,7 +1026,6 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
-home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1400,7 +1399,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
