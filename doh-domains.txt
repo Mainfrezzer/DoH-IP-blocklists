@@ -50,7 +50,6 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
-adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -1377,6 +1376,8 @@ takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
 testaghome.meshkov.info
+testguard.meexx.de
+thanos.pleumkungz.com
 tienpham.id.vn
 tiger.dns.qwer.pw
 timedns.net
@@ -1399,7 +1400,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
