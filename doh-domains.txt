@@ -50,6 +50,7 @@ adguard.dekonix.ru
 adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
+adguard.gambini.org
 adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
@@ -600,7 +601,6 @@ dns.sec511.com
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
-dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
@@ -972,7 +972,6 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
-free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
@@ -1139,7 +1138,6 @@ mozilla.cloudflare-dns.com
 mru01.dnscry.pt
 muc01.dnscry.pt
 muli.stusta.mhn.de
-multi.dns.marbledfennec.net
 muxyuji.ru
 myatris.sbs
 n5.lsasss.com
@@ -1251,7 +1249,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 protective.joindns4.eu
@@ -1400,6 +1397,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
