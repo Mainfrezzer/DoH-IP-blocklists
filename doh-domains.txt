@@ -499,7 +499,6 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -601,6 +600,7 @@ dns.sec511.com
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
+dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
@@ -831,7 +831,6 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
@@ -972,6 +971,7 @@ fra02.dnscry.pt
 fra1.eyecay.xyz
 frd4wvnobp.cloudflare-gateway.com
 free.bravedns.com
+free.shecan.ir
 freedns.controld.com
 freedom.mydns.network
 frog.dns.qwer.pw
@@ -1249,6 +1249,7 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
+pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 protective.joindns4.eu
