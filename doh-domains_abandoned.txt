@@ -216,7 +216,6 @@ dns.rslvr.eu
 dns.salonia.it
 dns.seia.io
 dns.seiffert.me
-dns.shecan.ir
 dns.shimul.me
 dns.siry.de
 dns.sriedmueadguard.casa
@@ -380,7 +379,6 @@ farewellkou.click
 fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fr-gra-w-f-1.nashkan.net
-free.shecan.ir
 groupy.ga
 ha.o51r15.com
 himedns.com
@@ -486,7 +484,6 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
-pro.shecan.ir
 pukanuragan.ru
 quic.lol
 resolve2.r9x.cc
