@@ -139,6 +139,7 @@ dns.cybershell.xyz
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
+dns.dnshome.de
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dooks.uk
@@ -181,7 +182,6 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mailkyb.co
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.mathewakhil.online
 dns.melalandia.tk
 dns.milkpie.one
@@ -218,7 +218,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -255,6 +254,7 @@ dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.pietjacobs.be
+dns1.serdcebolit.ru
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
 dns1.techeasy.org

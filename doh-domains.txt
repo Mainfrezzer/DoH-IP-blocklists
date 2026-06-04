@@ -361,7 +361,6 @@ dns.dns-53.us
 dns.dns.pub
 dns.dnsforge.de
 dns.dnsguard.pub
-dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
@@ -499,6 +498,7 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -604,6 +604,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -692,7 +693,6 @@ dns1.nordvpn.com
 dns1.ryan-palmer.com
 dns1.saferbfc.org
 dns1.sarak.as
-dns1.serdcebolit.ru
 dns1.server.my.id
 dns1.sitdns.com
 dns1.techniverse.net
