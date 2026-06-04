@@ -219,6 +219,7 @@ dns.seiffert.me
 dns.shimul.me
 dns.siry.de
 dns.sriedmueadguard.casa
+dns.sstomp.nl
 dns.stvsk.ml
 dns.suhaila.dev
 dns.swin.pro
@@ -271,7 +272,6 @@ dns3.dns-ga.de
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
-dnsblock.grisumedia.de
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com

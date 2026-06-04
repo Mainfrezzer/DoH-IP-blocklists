@@ -615,7 +615,6 @@ dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
 dns.spirio.fr
-dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
@@ -734,6 +733,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
+dnsblock.grisumedia.de
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
