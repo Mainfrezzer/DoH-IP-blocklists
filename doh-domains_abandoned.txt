@@ -32,7 +32,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.kantinyoyok.xyz
 adguard.konikoni428.com
@@ -139,7 +138,6 @@ dns.cybershell.xyz
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
-dns.dnshome.de
 dns.dnsoverhttps.net
 dns.doh.my.id
 dns.dooks.uk
@@ -254,7 +252,6 @@ dns1.ipv6.dnscrypt.ca
 dns1.lothuscorp.com.br
 dns1.nielsdb.be
 dns1.pietjacobs.be
-dns1.serdcebolit.ru
 dns1.sg.newpangea.de
 dns1.sriedmueadguard.casa
 dns1.techeasy.org
