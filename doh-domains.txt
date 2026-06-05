@@ -568,7 +568,6 @@ dns.porteii.com
 dns.propheci.xyz
 dns.psociety.de
 dns.pub
-dns.pumpkinvrar.com
 dns.pumplex.com
 dns.puregeni.us
 dns.qrtz.club
@@ -615,6 +614,7 @@ dns.smartguard.io
 dns.soldier.terumi.club
 dns.spil.co.id
 dns.spirio.fr
+dns.sstomp.nl
 dns.startupstack.tech
 dns.stevenz.net
 dns.stirringphoto.com
@@ -1380,7 +1380,6 @@ testguard.meexx.de
 thanos.pleumkungz.com
 tienpham.id.vn
 tiger.dns.qwer.pw
-timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
