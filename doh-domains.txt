@@ -605,7 +605,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1382,6 +1381,7 @@ testguard.meexx.de
 thanos.pleumkungz.com
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
@@ -1399,9 +1399,7 @@ tributh.net
 truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
-tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
