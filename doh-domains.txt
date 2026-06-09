@@ -47,6 +47,7 @@ adguard.bonis.de
 adguard.bonsirven.eu
 adguard.dantynes.cyou
 adguard.dekonix.ru
+adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.gambini.org
@@ -604,7 +605,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -1025,6 +1025,7 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1378,7 +1379,6 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
-timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
@@ -1398,6 +1398,7 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
+tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
