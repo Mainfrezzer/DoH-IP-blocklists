@@ -1019,7 +1019,6 @@ hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
-hkvps.hshoe.cn
 hole.elbschloss.xyz
 home-server.store
 home.chilimac.net
@@ -1381,6 +1380,7 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
