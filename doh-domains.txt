@@ -502,7 +502,6 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -608,7 +607,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -835,6 +833,7 @@ doh.immerda.ch
 doh.infracell.net
 doh.iucc.ac.il
 doh.jeroenhd.nl
+doh.kekew.info
 doh.kel.pe
 doh.kescher.at
 doh.kidzonet.io
@@ -943,7 +942,6 @@ evn01.dnscry.pt
 extended.dns.mullvad.net
 eyg01.dnscry.pt
 faked.org
-family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com

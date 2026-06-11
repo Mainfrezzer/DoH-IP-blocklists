@@ -178,6 +178,7 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mailkyb.co
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -214,6 +215,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -314,7 +316,6 @@ doh.hottis.de
 doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -371,6 +372,7 @@ eropa.dnscepat.id
 everovpn.co
 example.doh.blockerdns.com
 externalmobiel.lekdijk.online
+family-filter-dns.cleanbrowsing.org
 family.5ososea.com
 family.puredns.org
 farewellkou.click
