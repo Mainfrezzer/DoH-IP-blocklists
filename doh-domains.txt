@@ -23,6 +23,7 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -1462,7 +1463,6 @@ www.chungocoai.name.vn
 www.criena.net
 www.inpssh.online
 www.jabber-germany.de
-www.masters-of-cloud.de
 www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
