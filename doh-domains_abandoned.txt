@@ -180,6 +180,7 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mailkyb.co
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -486,6 +487,7 @@ polisitogel.limo
 polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
+pro.shecan.ir
 pukanuragan.ru
 resolve2.r9x.cc
 resolver-eu.lelux.fi
@@ -513,7 +515,6 @@ t2c.240130034.xyz
 technicule.info
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
-timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
@@ -540,7 +541,6 @@ vtcuong.site
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
-www.masters-of-cloud.de
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top

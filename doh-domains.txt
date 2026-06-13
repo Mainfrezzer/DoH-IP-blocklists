@@ -500,7 +500,6 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -1250,7 +1249,6 @@ privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 privatnas.servebeer.com
-pro.shecan.ir
 project-evoex.de
 protected.canadianshield.cira.ca
 protective.joindns4.eu
@@ -1379,6 +1377,7 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
@@ -1463,6 +1462,7 @@ www.chungocoai.name.vn
 www.criena.net
 www.inpssh.online
 www.jabber-germany.de
+www.masters-of-cloud.de
 www.maxfong.cc
 www.morbitzer.de
 www.muxyuji.ru
