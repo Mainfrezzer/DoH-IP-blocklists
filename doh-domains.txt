@@ -228,6 +228,7 @@ dns-doh.dot.pub
 dns-doh.kescher.at
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
+dns-free.link
 dns-malwaresec.nordthreatprotection.com
 dns-nosec.quad9.net
 dns-privacy.puregeni.us
@@ -604,6 +605,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu

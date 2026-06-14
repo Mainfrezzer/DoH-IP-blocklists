@@ -94,7 +94,6 @@ dns-doh.sriedmueadguard.casa
 dns-doh.technicule.info
 dns-east.tylerwahl.com
 dns-fr-psv1.cloudsides.com
-dns-free.link
 dns-nyc.aaflalo.me
 dns-ovh.panszelescik.pl
 dns-secondary.cloudnx.cloud
@@ -218,7 +217,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
