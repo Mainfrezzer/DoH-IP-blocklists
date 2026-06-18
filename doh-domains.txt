@@ -608,7 +608,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.sitdns.com
 dns.skrep.eu
@@ -644,6 +643,7 @@ dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
+dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
