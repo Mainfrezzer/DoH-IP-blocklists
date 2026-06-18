@@ -176,6 +176,7 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mailkyb.co
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
@@ -225,6 +226,7 @@ dns.thiz.top
 dns.tierradeayala.com
 dns.truong.fi
 dns.trust404.win
+dns.tryk.app
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vishalk.com
@@ -507,6 +509,7 @@ t2c.240130034.xyz
 technicule.info
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
+timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com

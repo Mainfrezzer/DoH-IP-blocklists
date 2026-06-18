@@ -504,7 +504,6 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
-dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -645,7 +644,6 @@ dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
 dns.tracker.ink
-dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
 dns.txq.life
@@ -1385,7 +1383,6 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
-timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
