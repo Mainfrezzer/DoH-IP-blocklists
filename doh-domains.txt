@@ -505,6 +505,7 @@ dns.lsho.top
 dns.luma-medien.com
 dns.lvolland.fr
 dns.maitrekuc.fr
+dns.maolaohei.xyz
 dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
@@ -536,6 +537,7 @@ dns.narl.app
 dns.nas-server.ru
 dns.neeb.it
 dns.neilzone.co.uk
+dns.netraptor.com.au
 dns.netvpn.net
 dns.neubsi.at
 dns.nextdns.io
@@ -1399,6 +1401,7 @@ tpe01.dnscry.pt
 trf01.dnscry.pt
 tri-dns.net
 tributh.net
+truta.org
 tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
