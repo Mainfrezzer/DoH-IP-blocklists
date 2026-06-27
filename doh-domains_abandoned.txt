@@ -212,7 +212,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -316,6 +315,7 @@ doh.iucc.ac.il
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
+doh.max.net.id
 doh.micronets.in
 doh.morizt.id
 doh.nala.ru
@@ -438,7 +438,6 @@ msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
-nat64.tuxis.nl
 neatdns.ustclug.org
 nebula.tru.io
 nenam.eu
