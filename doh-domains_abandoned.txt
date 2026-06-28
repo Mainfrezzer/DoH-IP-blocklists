@@ -31,7 +31,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -175,7 +174,6 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mailkyb.co
 dns.mandre.dev
-dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
