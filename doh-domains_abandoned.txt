@@ -31,6 +31,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -379,6 +380,7 @@ ha.o51r15.com
 himedns.com
 hk.rslvr.eu
 hkvps.hshoe.cn
+home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydra.plan9-ns1.com
@@ -403,6 +405,7 @@ kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
+krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -482,7 +485,6 @@ polisitogel.living
 polisitogel.luxe
 pope.cnblw.me
 pukanuragan.ru
-punono.duckdns.org
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -508,6 +510,7 @@ t2c.240130034.xyz
 technicule.info
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
+timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
