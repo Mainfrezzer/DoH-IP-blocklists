@@ -1029,7 +1029,6 @@ hole.elbschloss.xyz
 home-server.store
 home.chilimac.net
 home.daniil.it
-home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
 home27.duckdns.org
@@ -1388,6 +1387,7 @@ testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
 tiger.dns.qwer.pw
+timedns.net
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
