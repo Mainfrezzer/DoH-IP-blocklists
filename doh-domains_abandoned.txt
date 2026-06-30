@@ -313,7 +313,6 @@ doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
@@ -483,6 +482,7 @@ polisitogel.living
 polisitogel.luxe
 polisitogel.show
 pope.cnblw.me
+privacydns.go6lab.si
 pukanuragan.ru
 resolve2.r9x.cc
 resolver-eu.lelux.fi
