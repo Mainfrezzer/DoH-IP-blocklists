@@ -424,7 +424,6 @@ dns.gnb09.id
 dns.goldplate.org
 dns.google
 dns.google.com
-dns.green-ping.lol
 dns.grqu.de
 dns.guard.io
 dns.gutwe.in
@@ -1249,7 +1248,6 @@ pm7051-br.xyz
 pm9352-bd.xyz
 polisitogel.beauty
 polisitogel.hair
-polisitogel.show
 polisitogel.webcam
 pooblet.co.za
 princez.uk
@@ -1383,6 +1381,7 @@ syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
 tecdrive.site
+technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
 tienpham.id.vn
@@ -1406,7 +1405,6 @@ tsm01.dnscry.pt
 ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
-tungdnsne.duckdns.org
 tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
@@ -1449,6 +1447,7 @@ vie01.dnscry.pt
 virga.pp.ua
 vno01.dnscry.pt
 vorlif.org
+vpn.technicule.info
 vps333.brueggus.de
 vps362.brueggus.de
 vps365.brueggus.de

@@ -145,6 +145,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
+dns.green-ping.lol
 dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -478,6 +479,7 @@ polisitogel.green
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
+polisitogel.show
 pope.cnblw.me
 pukanuragan.ru
 resolve2.r9x.cc
@@ -502,12 +504,12 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-technicule.info
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
+tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
@@ -526,7 +528,6 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
-vpn.technicule.info
 vps.robotboard.de
 www.dltuykfgp.top
 www.dnsadguard.co.uk
