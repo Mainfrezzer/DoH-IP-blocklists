@@ -1157,7 +1157,6 @@ netcup.mismat.ch
 newd.rezyro.com
 nicsezcheckfbi.gov
 nl-ams.doh.sb
-nl-ams2.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
 nl.dns.privex.io
