@@ -31,6 +31,7 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
+adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -168,6 +169,7 @@ dns.itdept.pro
 dns.janl.eu
 dns.joaofidelix.com.br
 dns.jucker.engineering
+dns.jupitrdns.com
 dns.keke125.com
 dns.kugoapps.com
 dns.kumoumi.net
@@ -212,7 +214,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sriedmueadguard.casa
 dns.stvsk.ml
@@ -509,6 +510,7 @@ syd01.dnscry.pt
 t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
+timedns.net
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
