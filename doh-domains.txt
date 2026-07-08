@@ -608,8 +608,8 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
-dns.sitdns.com
 dns.skrep.eu
 dns.skrep.in
 dns.slinkyman.net
@@ -699,7 +699,6 @@ dns1.ryan-palmer.com
 dns1.saferbfc.org
 dns1.sarak.as
 dns1.server.my.id
-dns1.sitdns.com
 dns1.techniverse.net
 dns10.quad9.net
 dns11.quad9.net
@@ -722,7 +721,6 @@ dns2.nordvpn.com
 dns2.ryan-palmer.com
 dns2.saferbfc.org
 dns2.sarak.as
-dns2.sitdns.com
 dns2.slinkyman.net
 dns3.dns.pub
 dns3.dnsforge.de
@@ -730,7 +728,6 @@ dns3.doh.pub
 dns3.dot.pub
 dns3.kescher.at
 dns3.labnekotest.site
-dns3.sitdns.com
 dns4eu.online
 dns4me.net
 dns64.cloudflare-dns.com
@@ -767,7 +764,6 @@ doh-dns.dnsforge.de
 doh-dns.doh.pub
 doh-dns.dot.pub
 doh-dns.kescher.at
-doh-dns.sitdns.com
 doh-ipv6.crypto.sx
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
@@ -870,7 +866,6 @@ doh.sb
 doh.seby.io
 doh.serverhost.no
 doh.sidnlabs.nl
-doh.sitdns.com
 doh.sublime9.xyz
 doh.suche.org
 doh.sunoaki.net
@@ -1355,7 +1350,6 @@ shield1.eranext.net
 sin02.dnscry.pt
 sin03.dnscry.pt
 sink.nolo.ltd
-sitdns.com
 sjc01.dnscry.pt
 sky.rethinkdns.com
 skydragoness.com
