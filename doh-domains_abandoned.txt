@@ -486,7 +486,6 @@ polisitogel.green
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
-polisitogel.show
 pope.cnblw.me
 privacydns.go6lab.si
 pukanuragan.ru
