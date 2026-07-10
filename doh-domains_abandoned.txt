@@ -30,7 +30,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -290,6 +289,7 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
+doh.360.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -405,7 +405,6 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
@@ -443,7 +442,6 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
-montmorot.duckdns.org
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -492,7 +490,6 @@ polisitogel.luxe
 pope.cnblw.me
 privacydns.go6lab.si
 pukanuragan.ru
-punono.duckdns.org
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
 resolver.noaddns.com
