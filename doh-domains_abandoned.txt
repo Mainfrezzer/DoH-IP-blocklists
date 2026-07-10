@@ -191,7 +191,6 @@ dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
 dns.npsolution.it
-dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -387,7 +386,6 @@ ha.o51r15.com
 himedns.com
 hk.rslvr.eu
 hkvps.hshoe.cn
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydra.plan9-ns1.com
@@ -442,7 +440,6 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
-montmorot.duckdns.org
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu

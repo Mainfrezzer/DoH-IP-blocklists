@@ -552,6 +552,7 @@ dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
+dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
 dns.paesa.es
@@ -1023,6 +1024,7 @@ home.daniil.it
 home.enjoymylife.net
 home.kebree.fr
 home.wriedts.de
+home27.duckdns.org
 hostdare.qtxd.net
 hshh.org
 httpdns-push.heytapmobile.com
@@ -1130,6 +1132,7 @@ mickedi.isgood.host
 mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
+montmorot.duckdns.org
 morbitzer.de
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
