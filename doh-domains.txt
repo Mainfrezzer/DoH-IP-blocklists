@@ -609,6 +609,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -1169,10 +1170,12 @@ ns1.fdn.fr
 ns1.flodns.net
 ns1.opennameserver.org
 ns1.qquack.org
+ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns2.4netguides.org
 ns2.flodns.net
 ns2.opennameserver.org
+ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
@@ -1255,7 +1258,6 @@ public-dns-a.dns.sb
 public-dns-b.dns.sb
 public.dns.iij.jp
 public.ns.nwps.fi
-punono.duckdns.org
 puredns.org
 qdns02.nymterm.com
 qlf-doh.inria.fr
