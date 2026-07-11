@@ -127,7 +127,6 @@ dns.chocolatezz.xyz
 dns.cloudseriousshit.com
 dns.containerpi.com
 dns.cooluc.com
-dns.criena.net
 dns.csa-rz.de
 dns.cybershell.xyz
 dns.d96.info
@@ -177,6 +176,7 @@ dns.lashes-brow.ru
 dns.learningman.top
 dns.mailkyb.co
 dns.mandre.dev
+dns.maolaohei.xyz
 dns.melalandia.tk
 dns.milkpie.one
 dns.mipauns.com
