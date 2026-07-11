@@ -117,6 +117,7 @@ dns.bayas.dev
 dns.benpro.fr
 dns.blaze-sk.ru
 dns.bravoc.one
+dns.burgas.pro
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
@@ -213,7 +214,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.sriedmueadguard.casa
