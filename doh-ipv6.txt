@@ -63,8 +63,9 @@
 2001:4ba0:cafe:745::19                  # dns.expert
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
+2001:550:2:6f::f3:2                     # doh1.b-cdn.net, doh2.b-cdn.net
 2001:550:5a00:5eb::db5:face             # rdu01.dnscry.pt
-2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -263,14 +264,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:28a3:1400:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:3a00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:9600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:aa00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:ae00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:c200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:d800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:f600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:1800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:2400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:6000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:a600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:c400:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:e000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:e800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:f000:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
@@ -980,7 +981,7 @@
 2803:f800:54::2                         # dooh.cloudflare-dns.com
 2a00:11c0:20:429::5                     # dns.nextdns.io
 2a00:11c0:21::53                        # dns.nextdns.io
-2a00:11c0:39:353::3                     # dns.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+2a00:11c0:39:353::3                     # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 2a00:5980:94::71                        # dns.circl.lu
 2a00:6a00:ad1:806::83                   # dns.cert.ee
 2a00:6a00:ad1:806::86                   # dns.cert.ee
@@ -1033,7 +1034,6 @@
 2a01:4f8:151:34aa::198                  # dns-doh.dnsforge.de, dns.dnsforge.de, dns1.dnsforge.de, dns2.dnsforge.de, dns3.dnsforge.de, doh-dns.dnsforge.de, doh.dnsforge.de
 2a01:4f8:171:1f15::1                    # dns.coderoria.com
 2a01:4f8:173:fc02:1::a4ae               # doh.wewitro.net
-2a01:4f8:1c0c:70d1::1                   # delta.caspervk.net, dns.caspervk.net
 2a01:4f8:1c0c:8269::2:853               # dns.shareworx.net
 2a01:4f8:1c0c:8274::1                   # doh.libredns.gr, dot.libredns.gr
 2a01:4f8:1c0c:832d::                    # adfree.usableprivacy.net
@@ -1079,7 +1079,6 @@
 2a01:4f9:2b:1305::2                     # dns.froth.zone
 2a01:4f9:c010:2b9f::2                   # fuchur.pentament.de
 2a01:4f9:c010:9863::1                   # resolver-eu.haringstad.com
-2a01:4f9:c010:d7f4::1                   # dns.anon.no
 2a01:4f9:c010:e00e::2                   # dns.vaioswolke.xyz
 2a01:4f9:c011:aa31::1                   # kids.ns.nwps.fi
 2a01:4f9:c011:addc::1                   # dns.braene.com
@@ -1107,7 +1106,6 @@
 2a02:168:a002:0:216:3eff:fed4:dc1a      # dns.momou.ch
 2a02:168:a003:0:216:3eff:fe63:c975      # dns.momou.ch
 2a02:1788:8ff::1                        # ns1.recursive.dnsbycomodo.com
-2a02:1788:8ff::2                        # ns2.recursive.dnsbycomodo.com
 2a02:1b8:10:234::2                      # doh.applied-privacy.net, doh.appliedprivacy.net, dot1.applied-privacy.net, dot1.appliedprivacy.net
 2a02:200:1:11::100                      # zrh1-ns01.monzoon.net
 2a02:2479:66:b300::1                    # cloudns.bosco.ovh
@@ -1219,8 +1217,8 @@
 2a06:f902:4001:100:9000:9000:f90b:3ea   # fjr01.dnscry.pt
 2a06:f902:8001:100::1757:e617           # bom01.dnscry.pt
 2a07:a105:c0f:fee::20                   # dns.neeb.it
-2a07:a8c0::                             # anycast.dns.nextdns.io, chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io
-2a07:a8c1::                             # anycast.dns.nextdns.io, chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io
+2a07:a8c0::                             # anycast.dns.nextdns.io, dns.nextdns.io
+2a07:a8c1::                             # anycast.dns.nextdns.io, dns.nextdns.io
 2a07:d884:100::344                      # fra02.dnscry.pt
 2a07:e03::333                           # nl.dns.privex.io
 2a07:e043:1:5d::1                       # sto01.dnscry.pt
@@ -1250,10 +1248,11 @@
 2a0a:8dc0:a067::a                       # abn01.dnscry.pt
 2a0a:be80::cbe:4444                     # cubedns.com
 2a0a:be80::cbe:4445                     # cubedns.com
-2a0b:4342:1a32:f:5054:ff:fe48:d17f      # dns.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+2a0b:4342:1a32:f:5054:ff:fe48:d17f      # dns.nextdns.io
 2a0b:4342:1a82:154:5054:ff:feef:b4de    # dns.nextdns.io
 2a0c:3d00:11:37::1                      # nsc.torgues.net
 2a0c:5700:3133:650::b                   # adg.tshost.no
+2a0c:5700:3133:650:ba68:95ff:fe53:3d16  # dns.anon.no
 2a0c:59c0:19::3                         # nl-ams.doh.sb, ru-mow.doh.sb
 2a0c:82c0::1                            # doh.suche.org
 2a0c:8fc0:1749:66:18::16                # muc01.dnscry.pt
@@ -1268,7 +1267,7 @@
 2a0e:6901:201:6:5054:ff:fe21:a3b5       # dns.nextdns.io
 2a0e:6901:301:a:5054:ff:fe14:4256       # dns.nextdns.io
 2a0e:6901:410:25:5054:ff:fe1c:7c81      # dns.nextdns.io
-2a0e:6902:2002:12b:5054:ff:fed7:6b78    # dns.nextdns.io
+2a0e:6902:2002:12b:5054:ff:fed7:6b78    # chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 2a0e:6a80:3:669::                       # fra01.dnscry.pt
 2a0e:97c0:38f::2                        # dns.home.daniil.it, dual.home.daniil.it, home.daniil.it, pi.daniil.it
 2a0f:5707:aae1:8421::1                  # dns.internal.hosmatic.com

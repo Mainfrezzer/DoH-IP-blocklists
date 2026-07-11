@@ -213,7 +213,6 @@ deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
-delta.caspervk.net
 den01.dnscry.pt
 dfw02.dnscry.pt
 dns-1.wil.cloud
@@ -309,7 +308,6 @@ dns.butterfly87.sbs
 dns.cahlen.com
 dns.caliph.dev
 dns.carson-family.com
-dns.caspervk.net
 dns.cctld.kg
 dns.cert.ee
 dns.chadeyron.fr
@@ -609,7 +607,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -1175,7 +1172,6 @@ ns1.sc-lezhi.com
 ns2.4netguides.org
 ns2.flodns.net
 ns2.opennameserver.org
-ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.bit-trail.nl
 ns3.com
