@@ -17,6 +17,7 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+adfiltro.fun
 adg.rokh.biz
 adg.rueiliu.space
 adguard-dns.rouga.ch
@@ -31,7 +32,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.gambini.org
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -47,6 +47,7 @@ adguard.taxiora.tn
 adguardh.ga
 ads.hunga1k47.com
 aerodrorne.vip
+affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
@@ -160,7 +161,6 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -201,6 +201,7 @@ dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
 dns.npsolution.it
+dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -249,7 +250,6 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
-dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -272,7 +272,6 @@ dns2.dnscrypt.ca
 dns2.enzonix.com
 dns2.ipv6.dnscrypt.ca
 dns2.linzefeng.top
-dns2.mihanentalpo.me
 dns2.sitdns.com
 dns2.sriedmueadguard.casa
 dns2.technicule.info
@@ -301,7 +300,6 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
-doh.18bit.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -404,7 +402,6 @@ ha.o51r15.com
 himedns.com
 hk.rslvr.eu
 hkvps.hshoe.cn
-home27.duckdns.org
 hrk01.dnscry.pt
 hungary.privacy-dns.pw
 hydra.plan9-ns1.com
@@ -422,14 +419,12 @@ jp.68360612.xyz
 jp.gridns.xyz
 jp.ray0512.win
 jp.rslvr.eu
-jurre-home.duckdns.org
 kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
 korzhov.dev
 kracon.anycast.censurfridns.dk
-krtekvpn.duckdns.org
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
@@ -461,7 +456,6 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
-montmorot.duckdns.org
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -536,7 +530,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
-tungdnsne.duckdns.org
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
