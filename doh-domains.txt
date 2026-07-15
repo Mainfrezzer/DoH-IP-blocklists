@@ -23,6 +23,7 @@ adb.timnichollsphotography.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
+adblock.krctech.dev
 adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
@@ -478,6 +479,7 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
@@ -599,7 +601,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -669,7 +670,6 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -718,7 +718,6 @@ dns3.dnsforge.de
 dns3.doh.pub
 dns3.dot.pub
 dns3.kescher.at
-dns3.labnekotest.site
 dns4eu.online
 dns4me.net
 dns64.cloudflare-dns.com
@@ -904,6 +903,7 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
+drs.rustsword.com
 dtw01.dnscry.pt
 dual.home.daniil.it
 dub01.dnscry.pt
