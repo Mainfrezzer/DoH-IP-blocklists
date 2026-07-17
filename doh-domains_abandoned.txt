@@ -85,6 +85,7 @@ cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
 darya.persiannit.net
 de-d2.foxyfy.net
+de-f1.foxyfy.net
 de.adhole.org
 de.teradns.org
 dfw01.dnscry.pt
@@ -183,6 +184,7 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.mailkyb.co
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -310,6 +312,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -329,7 +332,6 @@ doh.in.ahadns.net
 doh.infotek.net.id
 doh.it.ahadns.net
 doh.iucc.ac.il
-doh.kekew.info
 doh.kutu.my.id
 doh.linngde.com
 doh.linuxsec.org
