@@ -671,7 +671,6 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -720,6 +719,7 @@ dns3.dnsforge.de
 dns3.doh.pub
 dns3.dot.pub
 dns3.kescher.at
+dns3.labnekotest.site
 dns4eu.online
 dns4me.net
 dns64.cloudflare-dns.com
@@ -905,6 +905,7 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
+drs.rustsword.com
 dtw01.dnscry.pt
 dual.home.daniil.it
 dub01.dnscry.pt
@@ -1268,7 +1269,6 @@ resolv01.ffnw.de
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
-resolve2.r9x.cc
 resolver-eu.haringstad.com
 resolver.r0cket.net
 resolver.rferee.dev
