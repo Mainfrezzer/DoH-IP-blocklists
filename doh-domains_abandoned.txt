@@ -17,6 +17,7 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+adfiltro.fun
 adg.rokh.biz
 adg.rueiliu.space
 adguard-dns.rouga.ch
@@ -50,7 +51,6 @@ ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -158,7 +158,6 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -221,6 +220,7 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.sriedmueadguard.casa
@@ -275,19 +275,18 @@ dns2.sriedmueadguard.casa
 dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
+dns3.labnekotest.site
 dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
 dnses.alekberg.net
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
@@ -392,7 +391,6 @@ fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -480,8 +478,6 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
-odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 okado.online
 open.dns0.eu
