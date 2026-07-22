@@ -17,8 +17,8 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
-adfiltro.fun
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -46,14 +46,12 @@ adguard.taxiora.tn
 adguardh.ga
 ads.hunga1k47.com
 aerodrorne.vip
-affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
 aihe.app
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
-arashi.net.eu.org
 asia.dnscepat.id
 ath01.dnscry.pt
 au.rslvr.eu
@@ -159,6 +157,7 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
+dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -275,7 +274,6 @@ dns2.sriedmueadguard.casa
 dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
-dns3.labnekotest.site
 dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
@@ -309,6 +307,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -378,7 +377,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -481,8 +479,8 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
 okado.online
 open.dns0.eu
 orpi.privado.ovh
