@@ -28,13 +28,11 @@ adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
 addns1.m-it.ro
-adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -487,6 +485,7 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
+dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
@@ -544,7 +543,6 @@ dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
-dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
 dns.paesa.es
@@ -601,7 +599,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -719,7 +716,6 @@ dns3.dnsforge.de
 dns3.doh.pub
 dns3.dot.pub
 dns3.kescher.at
-dns3.labnekotest.site
 dns4eu.online
 dns4me.net
 dns64.cloudflare-dns.com
@@ -735,7 +731,6 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
@@ -1181,8 +1176,8 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odin.limetric.net
-odoh-target-noads-se.alekberg.net
-odoh-target-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
