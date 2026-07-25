@@ -670,7 +670,6 @@ dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
 dns.zfsystem.tech
-dns.zui.lol
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -730,14 +729,15 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -974,6 +974,7 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -1439,7 +1440,6 @@ vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1461,7 +1461,6 @@ xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 yhz01.dnscry.pt
