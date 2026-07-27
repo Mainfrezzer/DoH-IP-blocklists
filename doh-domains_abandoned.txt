@@ -17,7 +17,9 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
+adfiltro.fun
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -151,6 +153,7 @@ dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
+dns.glorydns.com
 dns.green-ping.lol
 dns.guardmydns.com
 dns.hafidzradhival.my.id
@@ -274,17 +277,17 @@ dns2.sriedmueadguard.casa
 dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
+dns3.labnekotest.site
 dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
-dnses.alekberg.net
-dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
@@ -306,7 +309,6 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
-doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -479,7 +481,6 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
-odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 okado.online
 open.dns0.eu
@@ -525,6 +526,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
+tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tundranet.hec.to
 tw2.ooroot.com
@@ -553,7 +555,6 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xmr.land
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
