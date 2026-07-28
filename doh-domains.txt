@@ -505,7 +505,6 @@ dns.melvin2204.nl
 dns.mestdag.fr
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.michelo.cl
-dns.mihanentalpo.me
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 dns.mnet-online.de
@@ -733,7 +732,7 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse-noads.alekberg.net
@@ -904,7 +903,6 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
-drs.rustsword.com
 dtw01.dnscry.pt
 dual.home.daniil.it
 dub01.dnscry.pt
@@ -1168,7 +1166,6 @@ ns3.wuyouss.com
 ns4.opennameserver.org
 nsc.torgues.net
 nsec.arnor.org
-ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
 nyc01.dnscry.pt
@@ -1366,6 +1363,7 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlv01.dnscry.pt
@@ -1459,7 +1457,6 @@ xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
-xorbiadns.com
 ychen.cf
 ychen.gq
 yhz01.dnscry.pt
