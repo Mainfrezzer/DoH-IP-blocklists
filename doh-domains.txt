@@ -32,7 +32,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -106,7 +105,6 @@ ahadns.net
 ahoj.email
 al223-a73e-bj-v0.0.dxng.net
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -203,7 +201,6 @@ de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
-de.dns.privex.io
 de01.dns4me.net
 deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
@@ -434,7 +431,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -602,6 +598,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -731,13 +728,14 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
@@ -1139,7 +1137,6 @@ nicsezcheckfbi.gov
 nl-ams.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
-nl.dns.privex.io
 noads.imbuffering.com
 noads.joindns4.eu
 ns.00dani.me
@@ -1177,8 +1174,9 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odin.limetric.net
+odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1368,7 +1366,6 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlv01.dnscry.pt
@@ -1441,6 +1438,7 @@ vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
