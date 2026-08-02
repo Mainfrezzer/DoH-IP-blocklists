@@ -19,7 +19,6 @@ adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adfiltro.fun
 adg.rokh.biz
-adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-server.cf
@@ -46,6 +45,7 @@ adguard.taxiora.tn
 adguardh.ga
 ads.hunga1k47.com
 aerodrorne.vip
+affcdn.net
 ag.hostme.co.il
 agh.workfordemo.co.in
 aihe.app
@@ -158,7 +158,6 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -181,6 +180,7 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.mailkyb.co
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -219,7 +219,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.sriedmueadguard.casa
@@ -273,11 +272,11 @@ dns2.sriedmueadguard.casa
 dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
+dns3.labnekotest.site
 dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
-dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
@@ -375,6 +374,7 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
+drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -388,7 +388,6 @@ fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
-gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -478,7 +477,7 @@ ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
-odoh-target-se.alekberg.net
+odoh-target-noads.alekberg.net
 odoh-target.alekberg.net
 okado.online
 open.dns0.eu

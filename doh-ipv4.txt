@@ -432,7 +432,7 @@
 17.250.96.102       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.103       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.104       # mask-h2.icloud.com
-17.250.96.105       # mask-h2.icloud.com
+17.250.96.105       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.106       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.107       # mask-h2.icloud.com, mask.icloud.com
 17.250.96.108       # mask-h2.icloud.com, mask.icloud.com
@@ -490,7 +490,7 @@
 20.219.170.173      # doh.technochat.in
 20.239.160.119      # dns.888654.xyz
 20.253.254.201      # adguard.aa4.co.uk
-23.82.16.55         # dns.propheci.xyz
+23.82.16.57         # dns.propheci.xyz
 23.94.211.166       # dns.novali.date
 23.95.11.50         # dns.cryptomize.com
 23.128.248.2        # dns.stormycloud.org
@@ -746,6 +746,7 @@
 64.227.132.183      # squidmall.vip
 64.235.41.14        # dns.syaifullah.com
 65.21.253.73        # fi-hel-w-f-2.nashkan.net
+66.33.60.34         # arashi.net.eu.org
 66.55.159.186       # dnswebvsn.com
 66.154.118.103      # renardbleu.dev
 66.175.223.143      # dns.stirringphoto.com
@@ -774,8 +775,7 @@
 75.119.137.239      # cork-oak.christian.moe, cork-oak.imchristian.de, dns.christian.moe, dns.imchristian.de
 76.76.2.11          # family.freedns.controld.com, freedns.controld.com, p0.freedns.controld.com, p1.freedns.controld.com, p2.freedns.controld.com, p3.freedns.controld.com, uncensored.freedns.controld.com
 76.76.2.22          # dns.controld.com
-76.76.21.22         # arashi.net.eu.org
-76.76.21.98         # arashi.net.eu.org
+76.76.21.61         # arashi.net.eu.org
 76.223.54.146       # dns.edgy.network, dns.faze.dev, dns.pumplex.com, dns.vip-kingstore.xyz, ikarosalpha.xyz, mikezhang.xyz
 77.68.29.63         # ahoj.email, princez.uk
 77.68.50.239        # dns.connect.fail
@@ -934,7 +934,6 @@
 93.66.205.24        # adguard.depieri.net
 93.95.115.21        # eyg01.dnscry.pt
 93.190.126.69       # doh.immerda.ch
-93.231.22.18        # dns.reitmeier.me
 94.16.111.86        # dns.immanuelschaffer.de
 94.16.117.107       # ns2.4netguides.org
 94.23.71.64         # dns.clanto.cloud, dns.scuola.org
@@ -970,7 +969,7 @@
 96.9.215.92         # gb-cov-w-f-1.nashkan.net
 96.9.228.27         # hkg01.dnscry.pt
 96.44.178.68        # dns.foxyfy.net
-96.106.7.234        # doh.xfinity.com, doh2.gslb2.xfinity.com
+96.106.7.232        # doh.xfinity.com, doh2.gslb2.xfinity.com
 96.113.151.145      # dot.xfinity.com
 98.83.80.22         # dns.api.integration.globuscs.info
 99.79.182.170       # ca01.dns4me.net
@@ -1355,6 +1354,7 @@
 144.76.135.223      # doh.wewitro.net
 144.76.199.177      # dns.comff.net
 144.217.242.233     # doh-ca.naftalie.net
+145.239.87.80       # dns.simplylinux.ch
 146.19.0.66         # au-syd.doh.sb
 146.56.118.112      # dns.applewebkit.dev
 146.56.137.68       # lion.dns.qwer.pw
@@ -1464,7 +1464,7 @@
 160.119.253.209     # sa01.dns4me.net
 160.250.95.28       # dns.hakim.one
 160.250.227.196     # dns.bebasid.com
-160.251.64.80       # affcdn.net, dns.comeonjames.club, dns.lightmaster.pw, dns3.labnekotest.site, dnsnl.alekberg.net, dnsse-noads.alekberg.net, drs.rustsword.com, odoh-target-noads.alekberg.net
+160.251.64.80       # adg.rueiliu.space, dns.comeonjames.club, dns.huas.me, dnses.alekberg.net, dnsnl.alekberg.net, dnsse-noads.alekberg.net, gclouddns.com, odoh-target-se.alekberg.net
 161.35.136.3        # doh-primary-pool.goodbyegambling.com
 161.118.145.178     # adguard.haneulo.com
 161.129.34.134      # 5g.o0o.re
@@ -1688,13 +1688,10 @@
 172.232.185.183     # dns.horcrux.vip
 172.233.59.98       # dns.pccoach.nl
 172.233.147.42      # adguard.hartley.cloud
-172.233.219.49      # sdns22.gkonuralp.com
-172.233.219.78      # sdns22.gkonuralp.com
-172.233.219.123     # sdns22.gkonuralp.com
 172.233.221.243     # doh.archuser.org
-172.237.146.8       # sdns22.gkonuralp.com
-172.237.146.25      # sdns22.gkonuralp.com
-172.237.146.38      # sdns22.gkonuralp.com
+172.234.27.233      # sdns22.gkonuralp.com
+172.239.49.232      # sdns22.gkonuralp.com
+172.239.193.67      # sdns22.gkonuralp.com
 173.20.169.71       # cahlen.com, dns.cahlen.com
 173.73.159.164      # dns.chilimac.net, home.chilimac.net
 173.208.212.205     # dns.marbledfennec.net, multi.dns.marbledfennec.net
@@ -1964,8 +1961,8 @@
 216.238.80.219      # helios.plan9-dns.com
 216.245.140.20      # man01.dnscry.pt
 216.250.97.148      # hkg02.dnscry.pt
-217.0.43.50         # dns.telekom.de
-217.0.43.146        # dns.telekom.de
+217.0.43.66         # dns.telekom.de
+217.0.43.114        # dns.telekom.de
 217.69.4.29         # nsec.arnor.org
 217.70.184.38       # dns0.eu
 217.91.179.72       # doh.kekew.info
@@ -1979,6 +1976,7 @@
 217.169.20.22       # dns.aa.net.uk
 217.169.20.23       # dns.aa.net.uk
 217.197.91.153      # dns.artikel10.org
+217.255.215.142     # dns.reitmeier.me
 218.75.4.130        # hshh.org
 220.77.190.196      # 1.dns.noridev.moe
 220.132.163.223     # dns.ares-taiwan.com
