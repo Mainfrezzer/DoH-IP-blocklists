@@ -68,8 +68,10 @@ bigora2.vuhai.de
 bl.eq.md
 bld.sys-adm.in
 blitz.ahadns.com
+bog01.dnscry.pt
 bom01.dnscry.pt
 br.servers.legat.ml
+bru01.dnscry.pt
 buc-m2.illmods.com
 canadianshield.cira.ca
 chandr1000.net
@@ -130,6 +132,7 @@ dns.cfiec.net
 dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloudseriousshit.com
+dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
@@ -151,7 +154,6 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.futuredns.me
 dns.green-ping.lol
 dns.guardmydns.com
 dns.hafidzradhival.my.id
@@ -182,7 +184,6 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lightmaster.pw
 dns.mailkyb.co
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -199,7 +200,6 @@ dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
-dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -275,18 +275,19 @@ dns2.sriedmueadguard.casa
 dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
-dns3.labnekotest.site
 dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
 dnses.alekberg.net
+dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
@@ -383,6 +384,7 @@ ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
+evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
 family.puredns.org
@@ -427,6 +429,7 @@ kracon.anycast.censurfridns.dk
 kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
+lim02.dnscry.pt
 lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
@@ -455,6 +458,7 @@ minilla.store
 mita-is.so-gorgeo.us.kg
 mnrv.trade
 mo0on15.com
+mru01.dnscry.pt
 msr177.com
 myrra-is.so-gorgeo.us.kg
 n0.eu
@@ -491,6 +495,7 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
 polisitogel.accountant
@@ -505,6 +510,7 @@ pope.cnblw.me
 privacydns.go6lab.si
 pukanuragan.ru
 puredns.org
+rdu01.dnscry.pt
 resolve2.r9x.cc
 resolver-eu.lelux.fi
 resolver.dnsprivacy.org.uk
@@ -532,6 +538,7 @@ thanos.pleumkungz.com
 timedns.net
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
+tlv01.dnscry.pt
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
@@ -559,6 +566,7 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xmr.land
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
