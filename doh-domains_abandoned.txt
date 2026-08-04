@@ -160,7 +160,6 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
-dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -200,6 +199,7 @@ dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
+dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -247,6 +247,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -391,6 +392,7 @@ fi.doh.dns.snopyta.org
 fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fra1.eyecay.xyz
+gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
@@ -482,6 +484,7 @@ ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
+odoh-target.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
@@ -556,10 +559,10 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xmr.land
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+yuvelirtut.website
 zero.dns0.eu
