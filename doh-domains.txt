@@ -28,11 +28,13 @@ adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
 addns1.m-it.ro
+adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -102,7 +104,6 @@ ahadns.net
 ahoj.email
 al223-a73e-bj-v0.0.dxng.net
 all.dns.mullvad.net
-alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -247,6 +248,7 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
+dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -473,14 +475,12 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
-dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
@@ -596,6 +596,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -728,10 +729,9 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -857,6 +857,7 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
+doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -898,7 +899,6 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
-drs.rustsword.com
 dtw01.dnscry.pt
 dual.home.daniil.it
 dub01.dnscry.pt
@@ -1453,6 +1453,7 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
+yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
