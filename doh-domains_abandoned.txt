@@ -54,6 +54,7 @@ ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
 aihe.app
+alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -190,6 +191,7 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
+dns.lightmaster.pw
 dns.mailkyb.co
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -254,6 +256,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
@@ -282,10 +285,12 @@ dns2.sriedmueadguard.casa
 dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
+dns3.labnekotest.site
 dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
+dnses.alekberg.net
 dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
@@ -493,9 +498,8 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
+odoh-target-noads-se.alekberg.net
 odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
@@ -544,6 +548,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
+tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tundranet.hec.to
