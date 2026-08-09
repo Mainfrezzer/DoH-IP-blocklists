@@ -84,6 +84,7 @@ adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
+affcdn.net
 affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
@@ -102,6 +103,7 @@ ahadns.net
 ahoj.email
 al223-a73e-bj-v0.0.dxng.net
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -131,6 +133,7 @@ basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
+blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -471,13 +474,13 @@ dns.kusoneko.moe
 dns.kuuhaku.moe
 dns.kxy.ink
 dns.l337.site
+dns.labnekotest.site
 dns.lars-lehmann.net
 dns.lepilleur.com
 dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
@@ -593,7 +596,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -727,11 +729,10 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
+dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
-dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -857,6 +858,7 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
+doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -966,6 +968,7 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
+gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -1167,6 +1170,8 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odin.limetric.net
+odoh-target-noads-se.alekberg.net
+odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1352,6 +1357,7 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
@@ -1423,7 +1429,6 @@ vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1445,6 +1450,7 @@ xbcpb668.com
 xenergy.cc
 xholgm.top
 xn--durhre-yxa.de
+xorbiadns.com
 ychen.cf
 ychen.gq
 yhz01.dnscry.pt
