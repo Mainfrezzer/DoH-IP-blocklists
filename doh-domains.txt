@@ -33,7 +33,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -132,7 +131,6 @@ basic.rethinkdns.com
 bazooki-infra.dev
 bestwon203.com
 biying.flymlc.com
-blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -245,6 +243,7 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
+dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -319,7 +318,6 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -427,7 +425,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -480,6 +477,7 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
+dns.lightmaster.pw
 dns.lihj.me
 dns.linkr.ninja
 dns.lista.my.id
@@ -587,6 +585,7 @@ dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
 dns.scuola.org
+dns.sec511.com
 dns.sellan.fr
 dns.sev.monster
 dns.shareworx.net
@@ -594,6 +593,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -663,6 +663,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -726,10 +727,11 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse-noads.alekberg.net
+dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -855,7 +857,6 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
-doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -987,6 +988,7 @@ hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
 hfgx.shop
+himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.mbrjun.cn
@@ -1006,6 +1008,7 @@ hshh.org
 httpdns-push.heytapmobile.com
 httpdns-sc.aliyuncs.com
 httpdns.meituan.com
+hydra.plan9-ns1.com
 i.233py.com
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -1074,6 +1077,7 @@ lewsha.lol
 lifeisa.live
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 lis01.dnscry.pt
 listo.click
 llk01.dnscry.pt
@@ -1136,6 +1140,7 @@ ns.mtsoln.com
 ns.net.kg
 ns.nwps.fi
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.fdn.fr
 ns1.flodns.net
@@ -1347,7 +1352,6 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
-tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
@@ -1419,6 +1423,7 @@ vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
