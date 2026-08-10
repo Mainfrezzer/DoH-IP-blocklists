@@ -114,7 +114,6 @@ dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
 dns.aaflalo.me
-dns.aaytorr.com
 dns.adblockersite.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
@@ -137,6 +136,7 @@ dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
+dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
@@ -167,6 +167,7 @@ dns.hannielzhang.com
 dns.henek.ovh
 dns.hoody.com
 dns.hshoe.cn
+dns.huas.me
 dns.hugo0.moe
 dns.huyhoangit.net
 dns.hypercute.eu
@@ -189,7 +190,6 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lightmaster.pw
 dns.mailkyb.co
 dns.mandre.dev
 dns.maolaohei.xyz
@@ -287,6 +287,7 @@ dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
+dnses.alekberg.net
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsovertls.sinodun.com
@@ -316,6 +317,7 @@ doh.boje8.me
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cippapp.com
+doh.cnetwork.cloud
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -358,6 +360,7 @@ doh.sitdns.com
 doh.southam.family
 doh.sriedmueadguard.casa
 doh.technicule.info
+doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -544,6 +547,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
+tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tundranet.hec.to
@@ -565,7 +569,6 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
-wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
