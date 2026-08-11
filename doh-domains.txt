@@ -28,12 +28,12 @@ adblock.leenit.kr
 adblock.mydns.network
 adblockersite.com
 addns1.m-it.ro
-adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -246,7 +246,6 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
-dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -400,7 +399,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -428,6 +426,7 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -593,7 +592,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -722,14 +720,12 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
-dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
 dnsotls.lab.nic.cl
 dnspub.restena.lu
-dnsse-noads.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -854,6 +850,7 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
+doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -1073,6 +1070,7 @@ lewsha.lol
 lifeisa.live
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 lis01.dnscry.pt
 listo.click
 llk01.dnscry.pt
