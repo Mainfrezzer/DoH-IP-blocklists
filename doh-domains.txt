@@ -33,7 +33,6 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
-adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -86,7 +85,6 @@ adult-filter-dns.cleanbrowsing.org
 ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
-affcdn.net
 affsoft.cc
 africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
@@ -105,6 +103,7 @@ ahadns.net
 ahoj.email
 al223-a73e-bj-v0.0.dxng.net
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 ams02.dnscry.pt
 ant.dns.qwer.pw
@@ -246,6 +245,7 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
+dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -320,6 +320,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -399,6 +400,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -426,7 +428,6 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
-dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -592,6 +593,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -661,6 +663,7 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
+dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -709,6 +712,7 @@ dns3.dnsforge.de
 dns3.doh.pub
 dns3.dot.pub
 dns3.kescher.at
+dns3.labnekotest.site
 dns4eu.online
 dns4me.net
 dns64.cloudflare-dns.com
@@ -724,8 +728,11 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -776,6 +783,7 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
 doh.crypto.sx
@@ -960,7 +968,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -1160,6 +1167,9 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odin.limetric.net
+odoh-target-noads-se.alekberg.net
+odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
