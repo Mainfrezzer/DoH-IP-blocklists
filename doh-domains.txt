@@ -317,6 +317,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -474,6 +475,7 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
+dns.lightmaster.pw
 dns.lihj.me
 dns.lista.my.id
 dns.listo.click
@@ -658,7 +660,6 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -725,6 +726,7 @@ dnsguard.pub
 dnslow.me
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
@@ -851,7 +853,6 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
-doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -893,6 +894,7 @@ dotdns.cryptroute.com
 doth.huque.com
 draco.plan9-ns2.com
 droyd.top
+drs.rustsword.com
 dtw01.dnscry.pt
 dual.home.daniil.it
 dub01.dnscry.pt
@@ -1070,6 +1072,7 @@ lewsha.lol
 lifeisa.live
 lindung.pp.ua
 lion.dns.qwer.pw
+lion.yazilimatolye.com
 lis01.dnscry.pt
 listo.click
 llk01.dnscry.pt
@@ -1159,6 +1162,7 @@ nz01.dns4me.net
 o.rsaikat.com
 o1.lt
 odin.limetric.net
+odoh-target-noads.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
 odvr.nic.cz
@@ -1343,6 +1347,7 @@ tienpham.id.vn
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
+tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tlz.asia
@@ -1414,7 +1419,6 @@ vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
 vtcuong.site
-wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com

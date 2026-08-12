@@ -139,7 +139,6 @@ dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
-dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
@@ -194,7 +193,6 @@ dns.kumoumi.net
 dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
-dns.lightmaster.pw
 dns.linkr.ninja
 dns.mailkyb.co
 dns.mandre.dev
@@ -259,6 +257,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
@@ -298,7 +297,6 @@ dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
@@ -363,6 +361,7 @@ doh.sitdns.com
 doh.southam.family
 doh.sriedmueadguard.casa
 doh.technicule.info
+doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -390,7 +389,6 @@ dot.ny.ahadns.net
 dot.occ.top
 dot.pl.ahadns.net
 dot.westus.pi-dns.com
-drs.rustsword.com
 ecs-doh.dnswarden.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
@@ -442,7 +440,6 @@ kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
 lim02.dnscry.pt
-lion.yazilimatolye.com
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
@@ -500,7 +497,6 @@ ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
 odoh-target-noads-se.alekberg.net
-odoh-target-noads.alekberg.net
 odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 okado.online
@@ -552,7 +548,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
-tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tundranet.hec.to
@@ -574,6 +569,7 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
