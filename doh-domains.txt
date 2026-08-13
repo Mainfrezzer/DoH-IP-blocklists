@@ -403,6 +403,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -599,7 +600,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -990,6 +990,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
