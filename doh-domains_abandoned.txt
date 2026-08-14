@@ -18,6 +18,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -111,6 +112,7 @@ dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adblockersite.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
@@ -248,7 +250,6 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
-dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -280,13 +281,11 @@ dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
+dnses.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
@@ -396,7 +395,6 @@ fra1.eyecay.xyz
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -487,7 +485,8 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
-odoh-target.alekberg.net
+odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
@@ -537,6 +536,7 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
+tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tundranet.hec.to
@@ -572,4 +572,5 @@ yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+yuvelirtut.website
 zero.dns0.eu
