@@ -191,6 +191,7 @@ d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
 d2.shabi.icu
+dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
@@ -357,6 +358,7 @@ dns.dns-53.uk
 dns.dns-53.us
 dns.dns.pub
 dns.dnsforge.de
+dns.dnsguard.pub
 dns.dnshome.de
 dns.dnssilo.top
 dns.dnswarden.com
@@ -742,6 +744,7 @@ dnspub.restena.lu
 dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnssilo.top
+dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
 do-39574-tr.xyz
@@ -988,6 +991,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
