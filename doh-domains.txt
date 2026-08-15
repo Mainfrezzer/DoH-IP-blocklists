@@ -600,6 +600,7 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -1131,6 +1132,7 @@ n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
 nanopi.cybergroove.net
+nat64.tuxis.nl
 naw01.dnscry.pt
 ndns.233py.com
 netcup.mismat.ch
