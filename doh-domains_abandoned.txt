@@ -18,7 +18,6 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
-adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -155,9 +154,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
-dns.futuredns.me
 dns.green-ping.lol
-dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -214,6 +211,7 @@ dns.pragmasec.nl
 dns.princex.net
 dns.privado.ovh
 dns.privilab.net
+dns.propheci.xyz
 dns.r1bnc.com
 dns.rafn.is
 dns.reckoningslug.name
@@ -225,7 +223,6 @@ dns.salonia.it
 dns.seia.io
 dns.seiffert.me
 dns.shimul.me
-dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.sriedmueadguard.casa
@@ -251,8 +248,6 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
-dns.zfsystem.tech
-dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -284,13 +279,10 @@ dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
-dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
@@ -355,7 +347,6 @@ doh.sitdns.com
 doh.southam.family
 doh.sriedmueadguard.casa
 doh.technicule.info
-doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -400,6 +391,7 @@ fra1.eyecay.xyz
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -490,9 +482,6 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
-odoh-target-noads.alekberg.net
-odoh-target-se.alekberg.net
-odoh-target.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
@@ -542,7 +531,6 @@ t2c.240130034.xyz
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 timedns.net
-tk31z.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tundranet.hec.to
@@ -571,11 +559,9 @@ www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
 xmr.land
-xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
-yuvelirtut.website
 zero.dns0.eu
