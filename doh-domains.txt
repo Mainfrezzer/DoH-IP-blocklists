@@ -6,6 +6,7 @@
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
 3dcosas.xyz
+3dns.eu
 3jjxxl.tech
 5g.o0o.re
 8888.google
@@ -403,6 +404,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
+dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -601,7 +603,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -739,6 +740,7 @@ dnsforge.de
 dnsguard.pub
 dnslow.me
 dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse-noads.alekberg.net
@@ -770,6 +772,7 @@ doh.18bit.cn
 doh.233py.com
 doh.30x.me
 doh.360.cn
+doh.3dns.eu
 doh.42l.fr
 doh.aaaab3n.moe
 doh.abraservice.xyz
@@ -1179,6 +1182,8 @@ o.rsaikat.com
 o1.lt
 odin.limetric.net
 odoh-target-noads-se.alekberg.net
+odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 odoh-target.alekberg.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
