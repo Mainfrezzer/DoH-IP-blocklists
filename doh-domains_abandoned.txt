@@ -1,6 +1,7 @@
 052419.xyz
 1.xhr0no.my
 351242444.xyz
+3dns.eu
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -153,6 +154,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
+dns.futuredns.me
 dns.green-ping.lol
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -275,6 +277,7 @@ dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
+dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
@@ -289,6 +292,7 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
+doh.3dns.eu
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -476,6 +480,8 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
+odoh-target-noads.alekberg.net
+odoh-target-se.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
