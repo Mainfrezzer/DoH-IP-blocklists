@@ -18,6 +18,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -39,6 +40,7 @@ adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.nielsvoorn.nl
+adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.taxiora.tn
@@ -388,6 +390,7 @@ fra1.eyecay.xyz
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
