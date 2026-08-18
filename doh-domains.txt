@@ -323,6 +323,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -733,6 +734,7 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
@@ -958,7 +960,6 @@ firefox.dns.nextdns.io
 fly.io
 fnt01.dnscry.pt
 fr-dns1.bancuh.com
-fr-gra-w-p-1.nashkan.net
 fr1.dnswarden.com
 fra-dns.bitdefender.net
 fra01.dnscry.pt
