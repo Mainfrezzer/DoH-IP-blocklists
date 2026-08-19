@@ -321,6 +321,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -729,6 +730,7 @@ dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
+dnsnl-noads.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnssilo.top
@@ -965,7 +967,6 @@ gb-cov-w-p-1.nashkan.net
 gb-lon-w-f-1.nashkan.net
 gb-lon-w-p-1.nashkan.net
 gb-lon-w-p-2.nashkan.net
-gclouddns.com
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
@@ -1420,6 +1421,7 @@ vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1448,7 +1450,6 @@ your-dns.run
 yovbak.com
 yul01.dnscry.pt
 yunyun.is.my.waifu.cz
-yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
