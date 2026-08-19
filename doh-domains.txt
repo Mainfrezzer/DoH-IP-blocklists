@@ -324,7 +324,6 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
-dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -404,7 +403,6 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.furrydns.de
-dns.futuredns.me
 dns.gamban.com
 dns.gayanalysing.co.uk
 dns.gi.co.id
@@ -487,7 +485,6 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lightmaster.pw
 dns.lihj.me
 dns.lista.my.id
 dns.listo.click
@@ -741,7 +738,6 @@ dnsforge.de
 dnsguard.pub
 dnslow.me
 dnsnl-noads.alekberg.net
-dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
 dnsse-noads.alekberg.net
@@ -1105,6 +1101,7 @@ luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
 mailer.amlegion.org
+mainframe.dewed.de
 maison.gifino.fr
 maitrekuc.fr
 man01.dnscry.pt
