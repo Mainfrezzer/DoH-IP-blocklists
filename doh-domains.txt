@@ -603,7 +603,6 @@ dns.shecan.ir
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -830,7 +829,6 @@ doh.ibr.cs.tu-bs.de
 doh.immerda.ch
 doh.infracell.net
 doh.jeroenhd.nl
-doh.kekew.info
 doh.kescher.at
 doh.kidzonet.io
 doh.killtw.im
