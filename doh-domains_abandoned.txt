@@ -132,6 +132,7 @@ dns.chmc.ml
 dns.chocolatezz.xyz
 dns.cloud88.com.au
 dns.cloudseriousshit.com
+dns.comeonjames.club
 dns.containerpi.com
 dns.cooluc.com
 dns.criena.net
@@ -275,10 +276,13 @@ dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
 dns4.imkvq.com
+dnsnl-noads.alekberg.net
+dnsnl.alekberg.net
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
@@ -388,7 +392,6 @@ fra1.eyecay.xyz
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -478,6 +481,9 @@ nue2.moderateinfra.net
 ny.teradns.org
 ny1.nixnet.xyz
 obscuro.top
+odoh-target-noads-se.alekberg.net
+odoh-target-se.alekberg.net
+odoh-target.alekberg.net
 okado.online
 open.dns0.eu
 opennic.tenta.io
@@ -548,12 +554,14 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
+wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
