@@ -34,6 +34,7 @@ adfreedns.top
 adg.geili.me
 adg.jnorton.us
 adg.khon.dev
+adg.rueiliu.space
 adg.tshost.no
 adg.yybyy.wiki
 adguard-dns.com
@@ -248,6 +249,7 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
+dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -322,6 +324,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -415,6 +418,7 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -429,6 +433,7 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
+dns.huas.me
 dns.hujiayucc.cn
 dns.huseynov.work
 dns.iamanuragh.in
@@ -732,7 +737,6 @@ dnsenc.com
 dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
-dnsguard.pub
 dnslow.me
 dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
@@ -865,6 +869,7 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
+doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
@@ -986,7 +991,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1434,6 +1438,7 @@ vps392.brueggus.de
 vps394.brueggus.de
 vpsus3.pzhg.me
 vtcuong.site
+wantaquddin.com
 waw01.dnscry.pt
 waw02.dnscry.pt
 wdns.233py.com
@@ -1456,6 +1461,7 @@ xenergy.cc
 xholgm.top
 xmr.land
 xn--durhre-yxa.de
+xorbiadns.com
 ychen.cf
 ychen.gq
 yhz01.dnscry.pt
