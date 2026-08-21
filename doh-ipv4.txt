@@ -47,7 +47,8 @@
 5.135.96.36         # secure.hafnova.com
 5.152.130.27        # dns.pesaventofilippo.com
 5.160.117.105       # doh.abraservice.xyz
-5.161.43.197        # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+5.161.43.197        # chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+5.161.194.22        # adguard.ihatemy.live
 5.175.180.171       # dus01.dnscry.pt
 5.180.59.37         # nsc.torgues.net
 5.196.74.76         # dns.mh4ckt3mh4ckt1c4s.xyz
@@ -138,6 +139,7 @@
 17.248.131.236      # mask-h2.icloud.com, mask.icloud.com
 17.248.134.12       # mask-h2.icloud.com, mask.icloud.com
 17.248.136.164      # mask.icloud.com
+17.248.136.166      # mask-h2.icloud.com
 17.248.136.167      # mask.icloud.com
 17.248.136.169      # mask-h2.icloud.com
 17.248.136.171      # mask-h2.icloud.com
@@ -219,12 +221,17 @@
 17.248.169.200      # mask.icloud.com
 17.248.171.5        # mask-h2.icloud.com, mask.icloud.com
 17.248.171.6        # mask-h2.icloud.com, mask.icloud.com
+17.248.171.7        # mask.icloud.com
 17.248.171.8        # mask-h2.icloud.com, mask.icloud.com
 17.248.171.9        # mask-h2.icloud.com, mask.icloud.com
+17.248.171.34       # mask.icloud.com
 17.248.171.36       # mask-h2.icloud.com, mask.icloud.com
+17.248.171.38       # mask.icloud.com
 17.248.171.39       # mask-h2.icloud.com, mask.icloud.com
+17.248.171.52       # mask.icloud.com
 17.248.171.53       # mask-h2.icloud.com, mask.icloud.com
 17.248.171.54       # mask-h2.icloud.com, mask.icloud.com
+17.248.174.76       # mask.icloud.com
 17.248.175.3        # mask-h2.icloud.com
 17.248.175.4        # mask-h2.icloud.com
 17.248.175.5        # mask-h2.icloud.com, mask.icloud.com
@@ -271,18 +278,19 @@
 17.248.186.36       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.37       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.38       # mask.icloud.com
-17.248.186.39       # mask.icloud.com
+17.248.186.39       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.40       # mask.icloud.com
 17.248.186.41       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.42       # mask-h2.icloud.com, mask.icloud.com
-17.248.186.44       # mask.icloud.com
+17.248.186.44       # mask-h2.icloud.com, mask.icloud.com
+17.248.186.46       # mask-h2.icloud.com
 17.248.186.47       # mask.icloud.com
 17.248.186.68       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.69       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.70       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.71       # mask.icloud.com
 17.248.186.72       # mask.icloud.com
-17.248.186.73       # mask.icloud.com
+17.248.186.73       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.75       # mask-h2.icloud.com, mask.icloud.com
 17.248.186.100      # mask.icloud.com
 17.248.186.102      # mask-h2.icloud.com, mask.icloud.com
@@ -291,6 +299,7 @@
 17.248.186.105      # mask.icloud.com
 17.248.186.106      # mask-h2.icloud.com, mask.icloud.com
 17.248.186.107      # mask.icloud.com
+17.248.188.114      # mask.icloud.com
 17.248.192.1        # mask-api.icloud.com
 17.248.192.2        # mask-api.icloud.com
 17.248.192.3        # mask-api.icloud.com
@@ -528,7 +537,7 @@
 20.219.170.173      # doh.technochat.in
 20.239.160.119      # dns.888654.xyz
 20.253.254.201      # adguard.aa4.co.uk
-23.82.16.56         # dns.propheci.xyz
+23.82.16.54         # dns.propheci.xyz
 23.94.211.166       # dns.novali.date
 23.95.11.50         # dns.cryptomize.com
 23.128.248.2        # dns.stormycloud.org
@@ -575,7 +584,7 @@
 36.138.230.22       # doh.18bit.cn
 36.156.184.156      # pdns.itxe.net
 37.16.18.81         # fly.io
-37.19.207.38        # doh2.b-cdn.net
+37.19.207.37        # doh1.b-cdn.net
 37.27.218.33        # resolver.rferee.dev
 37.59.122.154       # dns.spirio.fr
 37.114.32.8         # dns.internal.hosmatic.com
@@ -666,6 +675,7 @@
 45.142.17.72        # dns.odinpl.com
 45.142.233.169      # dns.lermer.nl
 45.147.51.123       # fra02.dnscry.pt
+45.151.30.16        # dns.petqa.ru
 45.154.109.53       # dns.ffnw.de, resolv01.ffnw.de
 45.155.37.165       # cvt01.dnscry.pt
 45.249.91.150       # jhb01.dnscry.pt
@@ -778,6 +788,8 @@
 64.225.80.208       # dns2.ryan-palmer.com
 64.235.41.14        # dns.syaifullah.com
 65.21.253.73        # fi-hel-w-f-2.nashkan.net
+66.33.60.66         # arashi.net.eu.org
+66.33.60.67         # arashi.net.eu.org
 66.55.159.186       # dnswebvsn.com
 66.154.118.103      # renardbleu.dev
 66.175.223.143      # dns.stirringphoto.com
@@ -803,8 +815,6 @@
 75.119.137.239      # cork-oak.christian.moe, cork-oak.imchristian.de, dns.christian.moe, dns.imchristian.de
 76.76.2.11          # family.freedns.controld.com, freedns.controld.com, p0.freedns.controld.com, p1.freedns.controld.com, p2.freedns.controld.com, p3.freedns.controld.com, uncensored.freedns.controld.com
 76.76.2.22          # dns.controld.com
-76.76.21.61         # arashi.net.eu.org
-76.76.21.241        # arashi.net.eu.org
 76.223.54.146       # dns.edgy.network, dns.faze.dev, dns.pumplex.com, dns.vip-kingstore.xyz, ikarosalpha.xyz, mikezhang.xyz
 77.68.29.63         # ahoj.email
 77.68.50.239        # dns.connect.fail
@@ -1019,7 +1029,7 @@
 101.198.192.33      # doh.360.cn, dot.360.cn
 101.198.193.29      # doh.360.cn, dot.360.cn
 101.236.69.43       # httpdns.meituan.com
-102.113.85.82       # dns.yameenassotally.com
+102.113.92.253      # dns.yameenassotally.com
 102.202.192.108     # dns.oliviertv.co.za
 103.1.223.110       # agh-yz.russel053.com
 103.2.57.5          # public.dns.iij.jp
@@ -1448,7 +1458,7 @@
 152.70.156.129      # dns.ofdoom.net
 152.70.218.58       # dns.inforlogia.com
 152.70.244.17       # dns.jinwoo.dev
-152.233.50.1        # doh1.b-cdn.net
+152.233.50.2        # doh2.b-cdn.net
 153.31.113.36       # nicsezcheckfbi.gov
 154.0.175.29        # pihole.datamatter.co.za
 154.90.44.84        # secure-dns.pleumkungz.com
@@ -1716,7 +1726,7 @@
 176.147.243.164     # blockerads.multimediaconcept.fr
 176.164.177.15      # dns.chadeyron.fr
 178.20.42.213       # vd.i81.ru
-178.22.122.100      # free.shecan.ir
+178.22.122.100      # dns.shecan.ir, free.shecan.ir
 178.33.118.153      # dns-1.wil.cloud, dns-2.wil.cloud, dns-3.wil.cloud
 178.105.16.6        # doh.42l.fr, doh.lacontrevoie.fr
 178.128.225.109     # tri-dns.net
@@ -1752,7 +1762,6 @@
 185.47.221.200      # dns.kukal.cz
 185.49.141.38       # getdnsapi.net
 185.51.200.1        # pro.shecan.ir
-185.51.200.2        # dns.shecan.ir
 185.64.79.5         # uk-lon.doh.sb
 185.69.161.122      # dns.fancyorg.at
 185.70.9.10         # dns.kuuhaku.moe
@@ -1779,7 +1788,6 @@
 185.181.61.24       # ns4.opennameserver.org
 185.183.159.34      # abel.waringer-atg.de
 185.184.223.150     # dns.foxyfy.net
-185.187.152.2       # adguard.ihatemy.live
 185.194.53.22       # tll01.dnscry.pt
 185.194.94.71       # dns.circl.lu
 185.195.69.126      # dns.l337.site, l337.site
@@ -1895,7 +1903,7 @@
 198.244.189.179     # dns.puregeni.us
 198.251.67.7        # agh.fltn.us
 199.58.83.33        # dns.cmrg.net
-199.119.65.94       # chromium.dns.nextdns.io, dns.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+199.119.65.94       # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 199.119.137.74      # nyc01.dnscry.pt
 200.1.123.46        # dnsotls.lab.nic.cl
 202.5.222.2         # jp-kix.doh.sb
@@ -1960,8 +1968,8 @@
 216.238.80.219      # helios.plan9-dns.com
 216.245.140.20      # man01.dnscry.pt
 216.250.97.148      # hkg02.dnscry.pt
-217.0.43.2          # dns.telekom.de
-217.0.43.50         # dns.telekom.de
+217.0.43.146        # dns.telekom.de
+217.0.43.162        # dns.telekom.de
 217.69.4.29         # nsec.arnor.org
 217.70.184.38       # dns0.eu
 217.91.179.72       # doh.kekew.info
