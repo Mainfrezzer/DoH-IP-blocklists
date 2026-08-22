@@ -537,7 +537,7 @@
 20.219.170.173      # doh.technochat.in
 20.239.160.119      # dns.888654.xyz
 20.253.254.201      # adguard.aa4.co.uk
-23.82.16.56         # dns.propheci.xyz
+23.82.16.54         # dns.propheci.xyz
 23.94.211.166       # dns.novali.date
 23.95.11.50         # dns.cryptomize.com
 23.128.248.2        # dns.stormycloud.org
@@ -792,7 +792,7 @@
 64.225.80.208       # dns2.ryan-palmer.com
 64.235.41.14        # dns.syaifullah.com
 65.21.253.73        # fi-hel-w-f-2.nashkan.net
-65.108.54.17        # dns.anon.no
+66.33.60.66         # arashi.net.eu.org
 66.33.60.130        # arashi.net.eu.org
 66.55.159.186       # dnswebvsn.com
 66.63.177.126       # dns.stevenz.net, doh.sz-dns.com
@@ -820,7 +820,6 @@
 75.119.137.239      # cork-oak.christian.moe, cork-oak.imchristian.de, dns.christian.moe, dns.imchristian.de
 76.76.2.11          # family.freedns.controld.com, freedns.controld.com, p0.freedns.controld.com, p1.freedns.controld.com, p2.freedns.controld.com, p3.freedns.controld.com, uncensored.freedns.controld.com
 76.76.2.22          # dns.controld.com
-76.76.21.123        # arashi.net.eu.org
 76.223.54.146       # dns.edgy.network, dns.faze.dev, dns.pumplex.com, dns.vip-kingstore.xyz, ikarosalpha.xyz, mikezhang.xyz
 77.68.29.63         # ahoj.email
 77.68.50.239        # dns.connect.fail
@@ -957,7 +956,6 @@
 91.107.223.231      # dns.busold.ws
 91.146.60.101       # dns.skrep.in
 91.190.185.43       # opennic.i2pd.xyz
-91.195.240.13       # dns.olpploiopkuyhiopsfrt.info
 91.197.1.176        # mickedi.isgood.host
 91.198.156.20       # doh.lv, doh.nic.lv
 91.204.45.202       # dns.warpnine.de
@@ -1014,7 +1012,8 @@
 96.9.215.92         # gb-cov-w-f-1.nashkan.net
 96.9.228.27         # hkg01.dnscry.pt
 96.44.178.68        # dns.foxyfy.net
-96.106.7.234        # doh.xfinity.com, doh2.gslb2.xfinity.com
+96.106.7.232        # doh2.gslb2.xfinity.com
+96.106.7.234        # doh.xfinity.com
 96.113.151.145      # dot.xfinity.com
 98.82.238.213       # httpdns-push.heytapmobile.com
 98.88.146.102       # dns.api.staging.globuscs.info
@@ -1223,7 +1222,7 @@
 104.234.167.66      # sg-w-p-1.nashkan.net
 104.236.116.148     # ns.00dani.me
 104.238.165.18      # dns.f4a.fun
-104.238.181.28      # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+104.238.181.28      # chromium.dns.nextdns.io, dns.nextdns.io, dns2.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 104.244.72.39       # dns.bofh.in
 104.248.104.66      # ca.doh.cloudveil.org
 106.55.44.79        # dns.b612.me
@@ -1262,7 +1261,6 @@
 112.118.79.154      # dns.853852.xyz
 112.163.234.61      # 2.dns.noridev.moe
 112.213.32.219      # syd.adfilter.net
-114.10.44.86        # gustamadh.dynv6.net
 114.33.26.67        # dns.jundev.org
 114.34.0.56         # adguard.shuting.idv.tw
 114.66.33.239       # dns.hujiayucc.cn
@@ -1502,7 +1500,7 @@
 160.119.253.209     # sa01.dns4me.net
 160.250.95.28       # dns.hakim.one
 160.250.227.196     # dns.bebasid.com
-160.251.64.80       # dns.guardmydns.com, dns.huas.me, wantaquddin.com, yuvelirtut.website
+160.251.64.80       # adg.rueiliu.space, dns.aaytorr.com, dns.futuredns.me, dns.guardmydns.com, dns.zui.lol, xorbiadns.com, yuvelirtut.website
 161.35.136.3        # doh-primary-pool.goodbyegambling.com
 161.118.145.178     # adguard.haneulo.com
 161.129.34.134      # 5g.o0o.re
@@ -1822,6 +1820,7 @@
 185.228.168.9       # security-filter-dns.cleanbrowsing.org
 185.228.168.10      # adult-filter-dns.cleanbrowsing.org, doh.cleanbrowsing.org
 185.228.168.168     # doh.cleanbrowsing.org, family-filter-dns.cleanbrowsing.org
+185.231.100.108     # dns.anon.no
 185.234.52.87       # vps367.brueggus.de
 185.234.98.39       # timmes.nl
 185.236.104.254     # doh.flashstart.com
@@ -1921,7 +1920,6 @@
 198.251.67.7        # agh.fltn.us
 199.58.83.33        # dns.cmrg.net
 199.119.137.74      # nyc01.dnscry.pt
-200.1.123.46        # dnsotls.lab.nic.cl
 202.5.222.2         # jp-kix.doh.sb
 202.61.236.67       # nue01.dnscry.pt
 202.61.240.61       # adguard.pangerl.it
@@ -1953,7 +1951,7 @@
 208.67.222.222      # dns.opendns.com, dns.umbrella.com, resolver1.opendns.com
 209.182.225.103     # sea01.dnscry.pt
 209.208.26.145      # dns.dyn1.de
-209.209.57.165      # chromium.dns.nextdns.io, dns.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
+209.209.57.165      # chromium.dns.nextdns.io, dns.nextdns.io, dns1.nextdns.io, firefox.dns.nextdns.io, steering.nextdns.io
 209.209.59.227      # dns.nextdns.io
 209.250.246.198     # adguardhome.atakorah.com
 210.165.245.188     # dns.soldier.terumi.club
