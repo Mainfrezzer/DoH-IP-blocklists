@@ -18,6 +18,7 @@ adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
 adg.rokh.biz
+adg.rueiliu.space
 adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
@@ -155,6 +156,7 @@ dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
+dns.futuredns.me
 dns.green-ping.lol
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
@@ -247,6 +249,8 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
+dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
 dns1.cl.newpangea.de
@@ -550,13 +554,13 @@ us.rslvr.eu
 v.qdev.cc
 vanced.sytes.net
 vm.mytm.cc
-wantaquddin.com
 www.dltuykfgp.top
 www.dnsadguard.co.uk
 www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
