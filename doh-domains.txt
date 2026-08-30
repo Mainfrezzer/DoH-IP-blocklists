@@ -750,6 +750,7 @@ doh-02.spectrum.com
 doh-2.seby.io
 doh-ca.naftalie.net
 doh-de.blahdns.com
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-dns.dns.pub
 doh-dns.dnsforge.de
 doh-dns.doh.pub

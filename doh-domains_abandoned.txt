@@ -296,7 +296,6 @@ dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsvps.familiamv.ml
 doh-ch.blahdns.com
-doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-dns.adblockersite.com
 doh-dns.sitdns.com
 doh-dns.sriedmueadguard.casa
