@@ -321,6 +321,7 @@ dns.cloudtrust.solutions
 dns.cmrg.net
 dns.coderoria.com
 dns.colorfreedom.org
+dns.comeonjames.club
 dns.comff.net
 dns.comss.one
 dns.connect.fail
@@ -414,6 +415,7 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -748,7 +750,6 @@ doh-02.spectrum.com
 doh-2.seby.io
 doh-ca.naftalie.net
 doh-de.blahdns.com
-doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-dns.dns.pub
 doh-dns.dnsforge.de
 doh-dns.doh.pub
@@ -860,6 +861,7 @@ doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
 doh.technochat.in
+doh.thio.me
 doh.tiar.app
 doh.tiarap.org
 doh.totoro.pub
