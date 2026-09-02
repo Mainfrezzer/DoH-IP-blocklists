@@ -154,7 +154,6 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.edgeburnmedia.com
 dns.editechstudio.com
 dns.ellichua.com
 dns.emeraldonion.org
@@ -206,6 +205,7 @@ dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
 dns.muxinghe.cn
+dns.nas-server.ru
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
