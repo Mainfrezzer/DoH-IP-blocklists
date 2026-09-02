@@ -874,7 +874,6 @@ doh003.280blocker.net
 doh1.b-cdn.net
 doh2.b-cdn.net
 doh2.gslb2.xfinity.com
-dohdot.coxlab.net
 dohtrial.att.net
 dooh.cloudflare-dns.com
 dot-de.blahdns.com
