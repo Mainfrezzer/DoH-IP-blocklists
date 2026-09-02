@@ -243,7 +243,6 @@ dns.888654.xyz
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
-dns.aaytorr.com
 dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
@@ -366,7 +365,6 @@ dns.dremaxx.de
 dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
-dns.edgeburnmedia.com
 dns.edgy.network
 dns.edison42.dev
 dns.efficientdocuments.com
@@ -414,7 +412,6 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
-dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -1354,7 +1351,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
