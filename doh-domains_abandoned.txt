@@ -117,7 +117,6 @@ dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
 dns.aaflalo.me
-dns.aaytorr.com
 dns.adblockersite.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
@@ -164,7 +163,6 @@ dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
 dns.green-ping.lol
-dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -205,7 +203,6 @@ dns.mo0on15.com
 dns.moulticast.net
 dns.msxnet.ru
 dns.muxinghe.cn
-dns.nas-server.ru
 dns.ndo.dev
 dns.neowutran.ovh
 dns.nhtsky.com
@@ -262,7 +259,6 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
-dns.zfsystem.tech
 dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
@@ -370,7 +366,6 @@ doh.sitdns.com
 doh.southam.family
 doh.sriedmueadguard.casa
 doh.technicule.info
-doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -560,7 +555,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
