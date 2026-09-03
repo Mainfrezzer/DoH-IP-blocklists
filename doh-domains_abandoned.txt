@@ -117,6 +117,7 @@ dns.688447.xyz
 dns.775467.xyz
 dns.8887744.xyz
 dns.aaflalo.me
+dns.aaytorr.com
 dns.adblockersite.com
 dns.adrianlam.com
 dns.aeiou.pp.ua
@@ -366,6 +367,7 @@ doh.sitdns.com
 doh.southam.family
 doh.sriedmueadguard.casa
 doh.technicule.info
+doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.westus.pi-dns.com
@@ -373,7 +375,6 @@ doh.zln.wtf
 doh1.blahdns.com
 doh2.abmb.win
 doh2.blahdns.com
-dohdot.coxlab.net
 dos.bytetel.net
 dot-ch.blahdns.com
 dot-fi.blahdns.com
