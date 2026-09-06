@@ -153,6 +153,7 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
+dns.edgeburnmedia.com
 dns.editechstudio.com
 dns.ellichua.com
 dns.emeraldonion.org
@@ -163,6 +164,7 @@ dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
 dns.green-ping.lol
+dns.ha-dvin.pp.ua
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -233,6 +235,7 @@ dns.seia.io
 dns.seiffert.me
 dns.sheggi.ch
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.sriedmueadguard.casa
@@ -259,6 +262,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
@@ -433,6 +437,7 @@ kswro.web.id
 la.ray0512.win
 lim01.dnscry.pt
 lim02.dnscry.pt
+lindung.pp.ua
 local.sufly.top
 lon-dns.bitdefender.net
 luna-is.so-gorgeo.us.kg
@@ -535,6 +540,7 @@ sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
 sriedmueadguard.casa
+sundalandia.pp.ua
 surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
@@ -576,3 +582,4 @@ ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
 zero.dns0.eu
+zxcvb.pp.ua
