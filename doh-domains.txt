@@ -413,6 +413,7 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -420,6 +421,7 @@ dns.haka.se
 dns.hakim.one
 dns.hanahira.dev
 dns.hanmey.de
+dns.haoxuan.xyz
 dns.hellozhao.com
 dns.hinet.net
 dns.home.daniil.it
@@ -593,6 +595,7 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -1364,6 +1367,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
