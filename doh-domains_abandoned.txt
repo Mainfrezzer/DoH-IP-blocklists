@@ -52,6 +52,7 @@ affcdn.net
 ag.hostme.co.il
 ag.ssrahul96.xyz
 agh.workfordemo.co.in
+ahoj.email
 aihe.app
 alleesph.online
 anydoh.sidnlabs.nl
@@ -571,4 +572,5 @@ yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+zakaria.website
 zero.dns0.eu

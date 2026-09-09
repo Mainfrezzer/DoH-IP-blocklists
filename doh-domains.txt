@@ -100,7 +100,6 @@ agh.kyusang.win
 agh.printk.info
 agh.xinfeng16m.top
 ahadns.net
-ahoj.email
 al223-a73e-bj-v0.0.dxng.net
 all.dns.mullvad.net
 alpha-dns.quad9.net
@@ -1472,7 +1471,6 @@ yuvelirtut.website
 yvr01.dnscry.pt
 yyc01.dnscry.pt
 yyz01.dnscry.pt
-zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zougloub.eu
