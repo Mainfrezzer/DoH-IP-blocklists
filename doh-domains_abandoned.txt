@@ -42,6 +42,7 @@ adguard.mattiafenzi.uk
 adguard.mrmartian.co
 adguard.neon0404.space
 adguard.nielsvoorn.nl
+adguard.oms-ctr.ru
 adguard.sparshbajaj.me
 adguard.sscw.win
 adguard.taxiora.tn
@@ -573,4 +574,5 @@ yarp.lefolgoc.net
 ycg01.dnscry.pt
 ychen.ga
 yussy-is.so-gorgeo.us.kg
+yuvelirtut.website
 zero.dns0.eu
