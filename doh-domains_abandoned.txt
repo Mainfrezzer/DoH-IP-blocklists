@@ -163,7 +163,6 @@ dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
 dns.green-ping.lol
-dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
@@ -176,7 +175,6 @@ dns.huseynov.work
 dns.huyhoangit.net
 dns.hypercute.eu
 dns.ian.rocks
-dns.immanuelschaffer.de
 dns.inclusioproject.com
 dns.indust.me
 dns.indybanipal.com

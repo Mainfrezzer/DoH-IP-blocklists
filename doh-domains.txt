@@ -413,6 +413,7 @@ dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -436,6 +437,7 @@ dns.ikataruto.com
 dns.iki.my.id
 dns.imaicool.com
 dns.imchristian.de
+dns.immanuelschaffer.de
 dns.inforlogia.com
 dns.infosec.xyz
 dns.internal.hosmatic.com
