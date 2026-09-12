@@ -360,7 +360,6 @@ doh.sitdns.com
 doh.southam.family
 doh.sriedmueadguard.casa
 doh.technicule.info
-doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.zln.wtf
@@ -544,7 +543,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
