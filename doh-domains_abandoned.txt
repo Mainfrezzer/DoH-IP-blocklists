@@ -360,6 +360,7 @@ doh.sitdns.com
 doh.southam.family
 doh.sriedmueadguard.casa
 doh.technicule.info
+doh.thio.me
 doh.this.web.id
 doh.velyn.my.id
 doh.zln.wtf
@@ -401,6 +402,7 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -536,6 +538,7 @@ shitblocker.com
 sin01.dnscry.pt
 sitha-is.so-gorgeo.us.kg
 snoke.meganerd.nl
+squidmall.vip
 sriedmueadguard.casa
 surt.ml
 sweden.privacy-dns.pw
