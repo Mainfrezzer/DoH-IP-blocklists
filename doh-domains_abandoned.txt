@@ -262,6 +262,7 @@ dns.xusqui.com
 dns.yague.me
 dns.youni.win
 dns.ypbind.de
+dns.zfsystem.tech
 dns.zui.lol
 dns1.adblockersite.com
 dns1.au.newpangea.de
@@ -405,6 +406,7 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -550,7 +552,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org

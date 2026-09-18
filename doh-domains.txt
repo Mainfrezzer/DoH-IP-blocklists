@@ -661,7 +661,6 @@ dns.yandex.ru
 dns.yatima.tv
 dns.yuu-g.net
 dns.zemows.industries
-dns.zfsystem.tech
 dns.zzuhacker.cn
 dns0.eu
 dns01.flm9.net
@@ -983,7 +982,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
-gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1358,6 +1356,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
