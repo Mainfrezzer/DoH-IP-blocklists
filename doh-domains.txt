@@ -298,6 +298,7 @@ dns.cahlen.com
 dns.caliph.dev
 dns.carson-family.com
 dns.caspervk.net
+dns.cctld.kg
 dns.cert.ee
 dns.chadeyron.fr
 dns.charraud.eu
@@ -981,6 +982,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1355,7 +1357,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt

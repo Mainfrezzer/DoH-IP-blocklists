@@ -134,7 +134,6 @@ dns.bravoc.one
 dns.bw.i81.ru
 dns.cabbage.zone
 dns.carter.me
-dns.cctld.kg
 dns.ceai.com.tw
 dns.cfiec.net
 dns.chmc.ml
@@ -407,7 +406,6 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -553,6 +551,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
