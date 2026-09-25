@@ -406,6 +406,7 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -506,7 +507,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-paradise-human.shop
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
