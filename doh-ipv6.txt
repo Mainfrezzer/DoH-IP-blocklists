@@ -64,7 +64,7 @@
 2001:4ca0:200:3:200:5efe:8d54:4502      # esel.stusta.mhn.de
 2001:4ca0:200:3:200:5efe:8d54:451d      # muli.stusta.mhn.de
 2001:550:2:dc::5e:2                     # doh1.b-cdn.net, doh2.b-cdn.net
-2001:558:fd00:ca::5                     # doh.xfinity.com, doh2.gslb2.xfinity.com
+2001:558:fd00:ca::a                     # doh.xfinity.com, doh2.gslb2.xfinity.com
 2001:558:fe21:6b:96:113:151:145         # dot.xfinity.com
 2001:578:3f::30                         # doh.cox.net, dot.cox.net
 2001:620:0:ff::2                        # dns.switch.ch
@@ -126,8 +126,8 @@
 2001:df4:b100:3:1:1:730a:2cd2           # dns1.server.my.id
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:5f7::10                   # dns.surobe.com
+2003:180:2:7000:0:4:0:53                # dns.telekom.de
 2003:180:2:8100:0:4:0:53                # dns.telekom.de
-2003:180:2::4:0:53                      # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:36f:4f00::1                      # dns.faked.org, faked.org
@@ -216,7 +216,7 @@
 2600:1f28:14:801:9ac0:9b08:6791:aec4    # dns.api.globus.org
 2600:1f28:14:802:4e97:5b00:f28:70f9     # dns.api.globus.org
 2600:1f28:60:800:415f:5da7:b6eb:d43b    # dns.api.preview.globus.org
-2600:1f28:60:800:52c3:7724:2e7c:b3d3    # dns.api.staging.globuscs.info
+2600:1f28:60:800:4918:eb49:62a3:1418    # dns.api.staging.globuscs.info
 2600:1f28:60:800:7c14:c82c:d910:9aed    # dns.api.sandbox.globuscs.info
 2600:1f28:60:800:b59a:21:6758:a578      # dns.api.test.globuscs.info
 2600:1f28:60:800:c898:50fb:c90:ca77     # dns.api.integration.globuscs.info
@@ -247,14 +247,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
+2600:9000:21d4:1200:f:5c7a:55c0:93a1    # eth.link
 2600:9000:21d4:1600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:2600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:5800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:6200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:8800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:c200:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:de00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:21d4:f200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:2c00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:7600:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:8000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:21d4:800:f:5c7a:55c0:93a1     # eth.link
+2600:9000:21d4:a00:f:5c7a:55c0:93a1     # eth.link
+2600:9000:21d4:e00:f:5c7a:55c0:93a1     # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:6:a::a                        # mia01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
