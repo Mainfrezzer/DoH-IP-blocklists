@@ -73,7 +73,6 @@ adguard.senthil.us
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.shuting.idv.tw
-adguard.sparshbajaj.me
 adguard.twotigers.xyz
 adguard.zachitect.com
 adguard1.jsanagustin.net
@@ -777,7 +776,6 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
-doh.centraleu.pi-dns.com
 doh.cleanbrowsing.org
 doh.cornes.me
 doh.cox.net
@@ -797,9 +795,6 @@ doh.dnshome.de
 doh.doh.pub
 doh.domreg.lt
 doh.dot.pub
-doh.eastas.pi-dns.com
-doh.eastau.pi-dns.com
-doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
 doh.eu.dnswarden.com
@@ -833,12 +828,10 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
-doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
 doh.phdns2.lonet.org
-doh.pi-dns.com
 doh.powerdns.org
 doh.pub
 doh.pyry.me
@@ -865,7 +858,6 @@ doh.us.dnswarden.com
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
-doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -882,22 +874,17 @@ dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
-dot.centraleu.pi-dns.com
 dot.cox.net
-dot.eastas.pi-dns.com
 dot.eastau.pi-dns.com
-dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
-dot.northeu.pi-dns.com
 dot.pub
 dot.quickline.ch
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
-dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -1058,7 +1045,6 @@ kids.ns.nwps.fi
 kilabit.info
 kiri.nonexiste.net
 kiv01.dnscry.pt
-ko-18948-tr.xyz
 kr-sel.doh.sb
 kr1.ooroot.com
 kr2.ooroot.com
@@ -1210,7 +1196,6 @@ pihole2.hoerli.net
 pihole3.hoerli.net
 pihole4.hoerli.net
 pluton.plan9-dns.com
-pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
 polisitogel.beauty
@@ -1292,7 +1277,6 @@ safeservedns.com
 sandbox.opendns.com
 sbdns.co.in
 sdns.233py.com
-sdns22.gkonuralp.com
 sea01.dnscry.pt
 secondary.dns.yandex.ru
 secondary.family.dns.yandex.ru
@@ -1355,6 +1339,7 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
