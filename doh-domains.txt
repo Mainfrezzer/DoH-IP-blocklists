@@ -354,7 +354,6 @@ dns.dns.pub
 dns.dnsforge.de
 dns.dnsguard.pub
 dns.dnshome.de
-dns.dnssilo.top
 dns.dnswarden.com
 dns.doh.best
 dns.doh.pub
@@ -1356,7 +1355,6 @@ tj.jamesxue.xyz
 tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
-tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
