@@ -17,7 +17,6 @@ adblock.borjalopez.eu
 adblock.lux1.dns.nixnet.xyz
 adblock.lv1.dns.nixnet.xyz
 adblock.ny1.dns.nixnet.xyz
-adfiltro.fun
 adg.rokh.biz
 adguard-dns.rouga.ch
 adguard-dns.turker.info
@@ -52,7 +51,6 @@ affcdn.net
 ag.hostme.co.il
 agh.workfordemo.co.in
 aihe.app
-alleesph.online
 anydoh.sidnlabs.nl
 apne1.dns.terumi.club
 asia.dnscepat.id
@@ -192,7 +190,6 @@ dns.jucker.engineering
 dns.jupitrdns.com
 dns.keke125.com
 dns.kumoumi.net
-dns.labnekotest.site
 dns.lashes-brow.ru
 dns.learningman.top
 dns.lightmaster.pw
@@ -290,7 +287,6 @@ dns2.sriedmueadguard.casa
 dns2.technicule.info
 dns3.adblockersite.com
 dns3.dns-ga.de
-dns3.labnekotest.site
 dns3.sitdns.com
 dns3.sriedmueadguard.casa
 dns3.technicule.info
@@ -404,6 +400,7 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -503,6 +500,7 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
+pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -548,6 +546,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
@@ -578,7 +577,9 @@ xorbiadns.com
 xray.krnl.eu
 yarp.lefolgoc.net
 ycg01.dnscry.pt
+ychen.cf
 ychen.ga
+ychen.gq
 yussy-is.so-gorgeo.us.kg
 yuvelirtut.website
 zero.dns0.eu
