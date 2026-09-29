@@ -164,7 +164,6 @@ dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
-dns.glorydns.com
 dns.green-ping.lol
 dns.guardmydns.com
 dns.hafidzradhival.my.id
@@ -549,7 +548,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
