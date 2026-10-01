@@ -982,12 +982,14 @@ geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
 gibblets.top
+glacius.top
 glf.wtf
 gloom.nexus
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
@@ -1025,6 +1027,7 @@ ie01.dns4me.net
 ihctw.synology.me
 iij.jp
 ikarosalpha.xyz
+imperio.top
 in-blr.doh.sb
 ines.zfn.uni-bremen.de
 inpssh.online
