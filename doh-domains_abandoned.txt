@@ -153,6 +153,7 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
+dns.edgeburnmedia.com
 dns.editechstudio.com
 dns.ellichua.com
 dns.emeraldonion.org
@@ -398,9 +399,11 @@ fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 fra1.eyecay.xyz
 gclouddns.com
+glacius.top
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -413,6 +416,7 @@ i.233py.com.a.bdydns.com
 i.passcloud.xyz
 iana.tenta.io
 id.terra.my.id
+imperio.top
 inde.ragnvindr.org
 india.privacy-dns.pw
 iris.woozeno.eu
@@ -500,7 +504,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -546,6 +549,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
