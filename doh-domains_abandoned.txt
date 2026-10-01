@@ -153,7 +153,6 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.edgeburnmedia.com
 dns.editechstudio.com
 dns.ellichua.com
 dns.emeraldonion.org
@@ -319,7 +318,6 @@ doh.au.ahadns.net
 doh.azoris.ovh
 doh.battle.christmas
 doh.chi.ahadns.net
-doh.cippapp.com
 doh.datacore.ch
 doh.dns-ga.de
 doh.dns1.lonet.org
@@ -402,6 +400,7 @@ glacius.top
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
+gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hkvps.hshoe.cn
@@ -547,7 +546,6 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
-tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
