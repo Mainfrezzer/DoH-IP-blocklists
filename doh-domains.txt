@@ -425,6 +425,7 @@ dns.home.daniil.it
 dns.horcrux.vip
 dns.hostux.net
 dns.hotta.page
+dns.hshoe.cn
 dns.hujiayucc.cn
 dns.iamanuragh.in
 dns.iamninja.ru
@@ -985,6 +986,7 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 goose.buckyfan.net
 greatideasforlife.lol
+gustamadh.dynv6.net
 gva01.dnscry.pt
 gztech.me
 h.gjrick.tw
