@@ -1004,7 +1004,6 @@ himedns.com
 hitian.me
 hk-hkg.doh.sb
 hk.mbrjun.cn
-hk2.ooroot.com
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
