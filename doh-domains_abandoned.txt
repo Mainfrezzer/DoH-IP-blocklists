@@ -546,6 +546,7 @@ tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
+tlz.asia
 tundranet.hec.to
 tw2.ooroot.com
 tx.teradns.org
@@ -582,3 +583,4 @@ ychen.gq
 yussy-is.so-gorgeo.us.kg
 yuvelirtut.website
 zero.dns0.eu
+zougloub.eu
