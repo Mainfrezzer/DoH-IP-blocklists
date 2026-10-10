@@ -55,6 +55,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -131,6 +132,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -149,7 +151,6 @@ cahlen.com
 callies-online.site
 catchen121299.top
 catdns.org
-cdn.0ms.dev
 cfdjb.org
 chaos-system.de
 child-noads.joindns4.eu
@@ -537,6 +538,7 @@ dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
+dns.olpploiopkuyhiopsfrt.info
 dns.opendns.com
 dns.ourvau.lt
 dns.paesa.es
@@ -1195,6 +1197,7 @@ par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
 pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pd2004.jlsoftware.fr
 pdns.faelix.net
@@ -1371,6 +1374,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com

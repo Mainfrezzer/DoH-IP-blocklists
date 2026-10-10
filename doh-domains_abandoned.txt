@@ -33,7 +33,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -66,7 +65,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -79,6 +77,7 @@ br.servers.legat.ml
 bru01.dnscry.pt
 buc-m2.illmods.com
 canadianshield.cira.ca
+cdn.0ms.dev
 chandr1000.net
 chaos.altendorfme.com
 chewbacca.meganerd.nl
@@ -211,7 +210,6 @@ dns.nhtsky.com
 dns.nightlymoon.us.kg
 dns.nixnet.xyz
 dns.norvig.dk
-dns.olpploiopkuyhiopsfrt.info
 dns.onp.cloud
 dns.opnsource.com.au
 dns.oszx.co
@@ -504,7 +502,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -552,7 +549,6 @@ thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tundranet.hec.to
-tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
