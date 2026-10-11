@@ -64,6 +64,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -250,6 +251,7 @@ dns.us.futuredns.eu.org
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -309,6 +311,7 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
+doh.18bit.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -380,6 +383,7 @@ dot.pl.ahadns.net
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
+edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
@@ -541,11 +545,14 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
+tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
+tlz.asia
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
