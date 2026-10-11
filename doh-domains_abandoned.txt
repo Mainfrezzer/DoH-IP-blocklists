@@ -38,7 +38,6 @@ adguard.kss.ovh
 adguard.lista.my.id
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
-adguard.neon0404.space
 adguard.nielsvoorn.nl
 adguard.oms-ctr.ru
 adguard.sparshbajaj.me
@@ -64,7 +63,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -164,7 +162,6 @@ dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
 dns.futuredns.me
-dns.glorydns.com
 dns.green-ping.lol
 dns.guardmydns.com
 dns.hafidzradhival.my.id
@@ -251,7 +248,6 @@ dns.us.futuredns.eu.org
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -311,7 +307,6 @@ doh-fi.blahdns.com
 doh-jp.blahdns.com
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
-doh.18bit.cn
 doh.774445.xyz
 doh.978159.xyz
 doh.abmb.win
@@ -545,7 +540,6 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
