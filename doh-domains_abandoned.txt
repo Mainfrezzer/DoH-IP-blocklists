@@ -1,7 +1,6 @@
 052419.xyz
 1.xhr0no.my
 351242444.xyz
-3dcosas.xyz
 89433332.xyz
 a-bld.sys-adm.in
 a.family.ns.dnslify.com
@@ -64,6 +63,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -378,7 +378,6 @@ dot.pl.ahadns.net
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
@@ -397,7 +396,6 @@ gclouddns.com
 groupy.ga
 gru01.dnscry.pt
 guard.sntrk.ru
-gustamadh.dynv6.net
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
@@ -435,7 +433,6 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
-lukscasino-479-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -516,6 +513,7 @@ pope.cnblw.me
 princez.uk
 privacydns.go6lab.si
 pukanuragan.ru
+punono.duckdns.org
 puredns.org
 rdu01.dnscry.pt
 resolve2.r9x.cc
@@ -548,6 +546,7 @@ tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tlz.asia
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
