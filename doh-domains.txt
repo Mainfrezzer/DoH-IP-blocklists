@@ -723,12 +723,15 @@ dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
 dnsenc.com
+dnses.alekberg.net
 dnsforfamily.com
 dnsforge.de
 dnsguard.pub
 dnslow.me
+dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnspub.restena.lu
+dnsse.alekberg.net
 dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
@@ -1088,7 +1091,6 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
@@ -1347,6 +1349,7 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
+tecdrive.site
 technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
