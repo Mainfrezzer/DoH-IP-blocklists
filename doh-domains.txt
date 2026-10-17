@@ -55,6 +55,7 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -132,7 +133,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -546,7 +546,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -594,7 +593,6 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
-dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -1079,6 +1077,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
@@ -1295,7 +1294,6 @@ secure.anudeep.me
 secure.hafnova.com
 securedns.vendorvista.xyz
 securenet.mhsystems.net
-security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
 seoul.dnsovertor.cc
