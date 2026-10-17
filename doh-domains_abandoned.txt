@@ -65,7 +65,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -217,7 +216,6 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
-dns.pernika.net
 dns.pietjacobs.be
 dns.post-factum.tk
 dns.pragmasec.nl
@@ -254,7 +252,6 @@ dns.us.futuredns.eu.org
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -452,6 +449,8 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
+lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
