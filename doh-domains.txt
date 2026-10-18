@@ -594,6 +594,7 @@ dns.shareworx.net
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
+dns.simplylinux.ch
 dns.sindominio.net
 dns.skrep.eu
 dns.skrep.in
@@ -907,6 +908,7 @@ dus01.dnscry.pt
 dynamic.melvin2204.nl
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -1077,8 +1079,8 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -1335,6 +1337,7 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
+tecdrive.site
 technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
