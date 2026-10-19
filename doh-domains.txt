@@ -783,6 +783,7 @@ doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
 doh.cippapp.com
+doh.cleanbrowsing.org
 doh.cnetwork.cloud
 doh.cornes.me
 doh.cox.net
@@ -852,6 +853,7 @@ doh.seby.io
 doh.serverhost.no
 doh.sidnlabs.nl
 doh.sublime9.xyz
+doh.suche.org
 doh.sunoaki.net
 doh.syshero.org
 doh.sz-dns.com
@@ -1059,6 +1061,7 @@ kz-pav-w-p-1.nashkan.net
 l337.site
 las-vegas.privacy-dns.pw
 las01.dnscry.pt
+lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
@@ -1092,7 +1095,6 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
@@ -1146,6 +1148,7 @@ ns3.opennameserver.org
 ns3.wuyouss.com
 ns4.opennameserver.org
 nsc.torgues.net
+nsec.arnor.org
 ntwrkh.pro
 nue01.dnscry.pt
 nvi-dns.bitdefender.net
@@ -1355,6 +1358,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
