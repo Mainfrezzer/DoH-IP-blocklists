@@ -33,7 +33,6 @@ adguard.dessoi.cloud
 adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
-adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
@@ -395,7 +394,6 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 everovpn.co
@@ -568,7 +566,6 @@ tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tlz.asia
 tundranet.hec.to
-tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
