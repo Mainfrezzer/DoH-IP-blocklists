@@ -990,7 +990,6 @@ hk-hkg.doh.sb
 hk.mbrjun.cn
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.chilimac.net
@@ -1035,7 +1034,6 @@ jp-dns1.bancuh.com
 jp-kix.doh.sb
 jp-nrt.doh.sb
 jp-tyo-w-p-1.nashkan.net
-jp.tiar.app
 jp01.dns4me.net
 jp2.ooroot.com
 jpdns.cola16.app
@@ -1075,6 +1073,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
@@ -1092,6 +1091,7 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
@@ -1178,6 +1178,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pd2004.jlsoftware.fr
