@@ -131,6 +131,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -383,7 +384,6 @@ dns.ffnw.de
 dns.filipccz.eu
 dns.fizz.studio
 dns.flatuslifir.is
-dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
@@ -580,7 +580,6 @@ dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
 dns.sb
-dns.scapetical.com
 dns.scarx.net
 dns.schlagheck.berlin
 dns.scott-smith.us
@@ -905,7 +904,6 @@ dus01.dnscry.pt
 dynamic.melvin2204.nl
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -924,6 +922,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -1092,7 +1091,6 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
@@ -1179,6 +1177,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
+pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pd2004.jlsoftware.fr
@@ -1331,7 +1330,6 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
-tecdrive.site
 technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
@@ -1356,6 +1354,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
