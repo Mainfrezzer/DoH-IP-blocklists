@@ -404,7 +404,6 @@ everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
-family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -420,6 +419,7 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 hkvps.hshoe.cn
 home.enjoymylife.net
 hostdare.qtxd.net
