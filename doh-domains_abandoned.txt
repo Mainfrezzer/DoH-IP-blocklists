@@ -157,7 +157,6 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
-dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -481,9 +480,7 @@ mailkyb.co
 mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
-mendozasdelivery.com
 michelo.line.pm
-mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
@@ -527,7 +524,7 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pates.services.sfr.fr.casepp.sfr.fr
+pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 please.dontsteal.my.id
@@ -569,6 +566,7 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
+tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
@@ -576,6 +574,7 @@ tlv01.dnscry.pt
 tlz.asia
 tri-dns.net
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id

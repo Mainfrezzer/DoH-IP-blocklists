@@ -357,6 +357,7 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edison42.dev
@@ -1086,8 +1087,10 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 montmorot.duckdns.org
@@ -1171,7 +1174,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
-pashagame456.com
+pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pd2004.jlsoftware.fr
 pdns.faelix.net
@@ -1323,7 +1326,6 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
-tecdrive.site
 technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
@@ -1347,7 +1349,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
