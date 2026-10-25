@@ -5,7 +5,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
-3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -132,6 +131,7 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
+bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -545,7 +545,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -924,7 +923,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -991,6 +989,7 @@ hk-hkg.doh.sb
 hk.mbrjun.cn
 hkg01.dnscry.pt
 hkg02.dnscry.pt
+hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.chilimac.net
@@ -1093,7 +1092,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 montmorot.duckdns.org
@@ -1177,7 +1175,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
-pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pd2004.jlsoftware.fr
@@ -1330,7 +1327,6 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
-tecdrive.site
 technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
