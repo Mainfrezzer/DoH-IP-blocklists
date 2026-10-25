@@ -5,7 +5,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
-3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -56,7 +55,6 @@ adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
 adguard.jfchenier.ca
-adguard.johanliebert.top
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -119,7 +117,6 @@ arashi.eu.org
 arashi.net.eu.org
 area51.mywire.org
 armorrush.eu.org
-asia.tri-dns.net
 at.pzhg.me
 atl01.dnscry.pt
 atris.cyou
@@ -133,7 +130,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -915,7 +911,6 @@ ender.crystalyx.net
 es-ma.foxyfy.net
 esel.stusta.mhn.de
 eth.link
-eu.tri-dns.net
 extended.dns.mullvad.net
 externalmobiel.lekdijk.online
 eyg01.dnscry.pt
@@ -924,6 +919,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -1073,9 +1069,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -1094,7 +1088,6 @@ meganerd.nl
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 montmorot.duckdns.org
@@ -1178,7 +1171,7 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
-pates.services.sfr.fr.casepp.sfr.fr
+pashagame456.com
 paulo.nom.za
 pd2004.jlsoftware.fr
 pdns.faelix.net
@@ -1330,6 +1323,7 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
+tecdrive.site
 technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
@@ -1346,7 +1340,6 @@ tor.vasi.li
 tpa01.dnscry.pt
 tpe01.dnscry.pt
 trf01.dnscry.pt
-tri-dns.net
 tributh.net
 truta.org
 tsm01.dnscry.pt
@@ -1354,6 +1347,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
