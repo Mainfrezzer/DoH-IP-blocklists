@@ -239,6 +239,7 @@ dns.seia.io
 dns.seiffert.me
 dns.sheggi.ch
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.sriedmueadguard.casa
@@ -423,7 +424,6 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 hkvps.hshoe.cn
 home.enjoymylife.net
 hostdare.qtxd.net
@@ -460,6 +460,7 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
+lukscasino-479-tr.xyz
 lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
@@ -483,6 +484,7 @@ mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 mendozasdelivery.com
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
