@@ -54,7 +54,6 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
-adguard.jfchenier.ca
 adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
@@ -358,7 +357,6 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edison42.dev
@@ -1070,6 +1068,7 @@ llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
+lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
@@ -1087,9 +1086,9 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 montmorot.duckdns.org
