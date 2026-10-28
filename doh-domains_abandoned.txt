@@ -66,6 +66,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -218,6 +219,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.pietjacobs.be
 dns.post-factum.tk
 dns.pragmasec.nl
@@ -254,7 +256,6 @@ dns.us.futuredns.eu.org
 dns.vinokurov.tk
 dns.vishalk.com
 dns.vojtat.cz
-dns.wahr.top
 dns.wakgood.net
 dns.wevpn.com
 dns.wugui.zone
@@ -396,7 +397,6 @@ dot.westus.pi-dns.com
 drs.rustsword.com
 easyhandshake.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 eu1.dns.lavate.ch
@@ -404,6 +404,7 @@ everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -412,6 +413,7 @@ fjr01.dnscry.pt
 fr-gra-w-f-1.nashkan.net
 fr-gra-w-p-1.nashkan.net
 fra1.eyecay.xyz
+gateway.fomichev.cloud
 gclouddns.com
 groupy.ga
 gru01.dnscry.pt
@@ -456,7 +458,6 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
-lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -565,7 +566,6 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
-tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
