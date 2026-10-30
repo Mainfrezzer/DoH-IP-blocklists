@@ -5,7 +5,6 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
-3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -131,7 +130,6 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
 blackhole.myon.lu
 blitz-setup.ahadns.com
 block.abstergo.it
@@ -387,7 +385,6 @@ dns.flightspace.net
 dns.floriantinney.de
 dns.flwagners.com
 dns.flymc.cc
-dns.foximao.cn
 dns.foxyfy.net
 dns.freopc.fr
 dns.freyja.pw
@@ -545,6 +542,7 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
+dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -626,7 +624,6 @@ dns.thebuckners.org
 dns.therifleman.name
 dns.tipsy.coffee
 dns.tls-data.de
-dns.tracker.ink
 dns.tryk.app
 dns.tuna.tsinghua.edu.cn
 dns.twnic.tw
@@ -645,7 +642,6 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
-dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -924,6 +920,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -989,7 +986,6 @@ hk-hkg.doh.sb
 hk.mbrjun.cn
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.chilimac.net
@@ -1074,6 +1070,7 @@ loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -1326,6 +1323,7 @@ syd.adfilter.net
 syd02.dnscry.pt
 takhtakh.domyah.net
 tbs01.dnscry.pt
+tecdrive.site
 technicule.info
 testaghome.meshkov.info
 testguard.meexx.de
@@ -1350,6 +1348,7 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
+tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
