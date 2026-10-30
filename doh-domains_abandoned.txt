@@ -67,7 +67,6 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
-bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -157,6 +156,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -167,7 +167,6 @@ dns.emiliyan.com
 dns.enzonix.com
 dns.feldy.my.id
 dns.fgbk.net
-dns.foximao.cn
 dns.frank-ruan.com
 dns.glorydns.com
 dns.green-ping.lol
@@ -220,6 +219,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.pietjacobs.be
 dns.post-factum.tk
 dns.pragmasec.nl
@@ -249,7 +249,6 @@ dns.thegoodsource.net
 dns.theres.one
 dns.thiz.top
 dns.tierradeayala.com
-dns.tracker.ink
 dns.truong.fi
 dns.trust404.win
 dns.uplenk.com
@@ -406,6 +405,7 @@ everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -460,6 +460,7 @@ lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
 lukscasino-479-tr.xyz
+lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -482,7 +483,6 @@ mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 mendozasdelivery.com
 michelo.line.pm
-mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
@@ -569,12 +569,14 @@ surt.ml
 sweden.privacy-dns.pw
 syd01.dnscry.pt
 t2c.240130034.xyz
+tecdrive.site
 tetty-is.so-gorgeo.us.kg
 thanos.pleumkungz.com
 tls-dns-u.odvr.dns-oarc.net
 tlv01.dnscry.pt
 tlz.asia
 tundranet.hec.to
+tuskythehusky.tech
 tw2.ooroot.com
 tx.teradns.org
 uf-dns.lista.my.id
