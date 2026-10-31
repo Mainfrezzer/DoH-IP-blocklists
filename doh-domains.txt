@@ -5,6 +5,7 @@
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
+3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -400,6 +401,7 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
@@ -904,6 +906,7 @@ dus01.dnscry.pt
 dynamic.melvin2204.nl
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
+edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -961,8 +964,6 @@ gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 geshido.vpn.geshido.ru
 getdnsapi.net
-gibblets.top
-glacius.top
 glf.wtf
 gloom.nexus
 google-public-dns-a.google.com
@@ -1086,6 +1087,7 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
+mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mikezhang.xyz
@@ -1146,7 +1148,6 @@ nyc01.dnscry.pt
 nz01.dns4me.net
 o.rsaikat.com
 o1.lt
-obscuro.top
 odin.limetric.net
 odoh.cloudflare-dns.com
 odoh.crypto.sx
