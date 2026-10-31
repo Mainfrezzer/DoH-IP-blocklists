@@ -67,6 +67,7 @@ b.safe.ns.dnslify.com
 bahopir188.dnshome.de
 bcandrade.ml
 berd.moe
+bestwon203.com
 bigora2.vuhai.de
 biying.flymlc.com
 bl.eq.md
@@ -238,6 +239,7 @@ dns.seia.io
 dns.seiffert.me
 dns.sheggi.ch
 dns.shimul.me
+dns.simplylinux.ch
 dns.siry.de
 dns.sitdns.com
 dns.sriedmueadguard.casa
@@ -483,6 +485,7 @@ mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 mendozasdelivery.com
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
