@@ -358,7 +358,6 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edison42.dev
@@ -870,7 +869,6 @@ doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
 doh.xyz
-doh.zephyrus.id
 doh.zknt.org
 doh003.280blocker.net
 doh1.b-cdn.net
@@ -924,6 +922,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
 family.dns.yandex.ru
@@ -1073,7 +1072,6 @@ loadlow.me
 lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mad01.dnscry.pt
 mail.data.haus
@@ -1090,7 +1088,6 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
 mil01.dnscry.pt
@@ -1190,7 +1187,6 @@ pihole.datamatter.co.za
 pihole1.hoerli.net
 pihole2.hoerli.net
 pihole3.hoerli.net
-pihole4.hoerli.net
 pluton.plan9-dns.com
 pm1239-bd.xyz
 pm7051-br.xyz
@@ -1350,7 +1346,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
