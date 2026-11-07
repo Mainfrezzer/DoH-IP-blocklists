@@ -253,6 +253,7 @@ dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wevpn.com
@@ -395,7 +396,6 @@ dot.pl.ahadns.net
 dot.westus.pi-dns.com
 drs.rustsword.com
 ecs-doh.dnswarden.com
-edgy-dns.com
 elshad-adgh-dns.ru
 eropa.dnscepat.id
 eu1.dns.lavate.ch
@@ -403,6 +403,7 @@ everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -420,7 +421,6 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
-hkname.freecdn.one
 hkvps.hshoe.cn
 home.enjoymylife.net
 hostdare.qtxd.net
@@ -478,6 +478,7 @@ mailkyb.co
 mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
+mendozasdelivery.com
 michelo.line.pm
 mikezhang.xyz
 miniapp.global
@@ -525,7 +526,6 @@ opennic.tenta.io
 orpi.privado.ovh
 osefcorp.duckdns.org
 outdoorchair.us
-pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
