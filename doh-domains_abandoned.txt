@@ -154,6 +154,7 @@ dns.dnssilo.top
 dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
+dns.dyn1.de
 dns.east.comss.one
 dns.edgeburnmedia.com
 dns.edgy.network
@@ -214,6 +215,7 @@ dns.opnsource.com.au
 dns.oszx.co
 dns.ours.luxe
 dns.ovpn.bond
+dns.pernika.net
 dns.pietjacobs.be
 dns.post-factum.tk
 dns.pragmasec.nl
@@ -251,7 +253,6 @@ dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
-dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wevpn.com
