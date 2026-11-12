@@ -33,11 +33,11 @@ adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -252,7 +252,6 @@ dns.vinokurov.tk
 dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
-dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wevpn.com
@@ -402,6 +401,7 @@ everovpn.co
 evn01.dnscry.pt
 example.doh.blockerdns.com
 family.5ososea.com
+family.dns.doubleangels.com
 family.puredns.org
 farewellkou.click
 fet01.dnscry.pt
@@ -421,6 +421,7 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 hkvps.hshoe.cn
 home.enjoymylife.net
 hostdare.qtxd.net
@@ -525,6 +526,7 @@ open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
+pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
