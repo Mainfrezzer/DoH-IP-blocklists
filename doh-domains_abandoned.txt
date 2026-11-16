@@ -33,11 +33,11 @@ adguard.dtness.com
 adguard.ender.fr
 adguard.frutuozo.com.br
 adguard.jfchenier.ca
+adguard.johanliebert.top
 adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -58,6 +58,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
+atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b.family.ns.dnslify.com
@@ -251,9 +252,9 @@ dns.trust404.win
 dns.uplenk.com
 dns.us.futuredns.eu.org
 dns.vinokurov.tk
-dns.vip-kingstore.xyz
 dns.vishalk.com
 dns.vojtat.cz
+dns.wahr.top
 dns.wakgood.net
 dns.wang.art
 dns.wevpn.com
@@ -460,7 +461,6 @@ lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
 lon-dns.bitdefender.net
-lukscasino-929-tr.xyz
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -476,7 +476,9 @@ mailkyb.co
 mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
+mendozasdelivery.com
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
@@ -520,7 +522,6 @@ open.dns0.eu
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
-pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
@@ -598,7 +599,6 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
-xholgm.top
 xmr.land
 xorbiadns.com
 xray.krnl.eu
