@@ -120,6 +120,7 @@ armorrush.eu.org
 asia.tri-dns.net
 at.pzhg.me
 atl01.dnscry.pt
+atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
@@ -180,6 +181,7 @@ cryptostorm.is
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -1069,7 +1071,6 @@ lon01.dnscry.pt
 lsqmbr-hk.kmbr.dev
 lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
-lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mabuktogel.business
 mabuktogel.cards
@@ -1176,7 +1177,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
-pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pd2004.jlsoftware.fr
@@ -1424,7 +1424,6 @@ www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
-xholgm.top
 xn--durhre-yxa.de
 yhz01.dnscry.pt
 your-dns.run
