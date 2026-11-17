@@ -22,7 +22,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -39,7 +38,6 @@ adguard.k0rap.com
 adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lista.my.id
-adguard.londonwebnerd.cloud
 adguard.marto.si
 adguard.mattiafenzi.uk
 adguard.mrmartian.co
@@ -148,7 +146,6 @@ dns.cooluc.com
 dns.criena.net
 dns.cwlys.com
 dns.cybershell.xyz
-dns.cybertonic.tech
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
@@ -303,6 +300,7 @@ dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnsse-noads.alekberg.net
 dnsvps.familiamv.ml
+do-39574-tr.xyz
 doh-ch.blahdns.com
 doh-dns.adblockersite.com
 doh-dns.sitdns.com
@@ -422,6 +420,7 @@ guard.sntrk.ru
 ha.o51r15.com
 hk.rslvr.eu
 hk2.ooroot.com
+hkname.freecdn.one
 hkvps.hshoe.cn
 home.enjoymylife.net
 hostdare.qtxd.net
@@ -474,7 +473,6 @@ mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
-mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
@@ -482,7 +480,6 @@ mnrv.trade
 mo0on15.com
 mru01.dnscry.pt
 msr177.com
-myatris.sbs
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
@@ -518,6 +515,7 @@ odoh-target.alekberg.net
 opennic.tenta.io
 orpi.privado.ovh
 outdoorchair.us
+pashagame456.com
 phl01.dnscry.pt
 pi1.node15.com
 pihole4.hoerli.net
@@ -595,6 +593,7 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xholgm.top
 xmr.land
 xorbiadns.com
 xray.krnl.eu

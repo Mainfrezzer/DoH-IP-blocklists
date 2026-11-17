@@ -41,6 +41,7 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
+adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
@@ -58,6 +59,7 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
+adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
@@ -325,6 +327,7 @@ dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -733,7 +736,6 @@ dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
-do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -986,7 +988,6 @@ hk-hkg.doh.sb
 hk.mbrjun.cn
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hkname.freecdn.one
 hole.elbschloss.xyz
 home-server.store
 home.chilimac.net
@@ -1097,6 +1098,7 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 montmorot.duckdns.org
@@ -1106,6 +1108,7 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
+myatris.sbs
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
@@ -1180,7 +1183,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
-pashagame456.com
 pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pd2004.jlsoftware.fr
@@ -1428,7 +1430,6 @@ www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
-xholgm.top
 xn--durhre-yxa.de
 yhz01.dnscry.pt
 your-dns.run
