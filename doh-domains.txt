@@ -41,7 +41,6 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
-adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
@@ -59,7 +58,6 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
@@ -181,7 +179,6 @@ cryptostorm.is
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -196,7 +193,6 @@ de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
 de.dns.privex.io
 de01.dns4me.net
-deep-henchman-excuse.cfd
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -327,7 +323,6 @@ dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
-dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -981,7 +976,6 @@ han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
-hfgx.shop
 himedns.com
 hitian.me
 hk-hkg.doh.sb
@@ -1050,7 +1044,6 @@ kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
-kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 l337.site
 las-vegas.privacy-dns.pw
@@ -1059,7 +1052,6 @@ lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
-lesuo.top
 lewsha.lol
 lifeisa.live
 lindung.pp.ua
@@ -1108,7 +1100,6 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
-myatris.sbs
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
@@ -1163,7 +1154,6 @@ odvr.nic.cz
 okado.online
 omr01.dnscry.pt
 one.one.one.one
-open.dns0.eu
 opencdn.jomodns.com
 opennic.i2pd.xyz
 opennic1.eth-services.de
