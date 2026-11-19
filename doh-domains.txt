@@ -57,7 +57,6 @@ adguard.kantinyoyok.xyz
 adguard.kasbot.net
 adguard.kiboko.it
 adguard.lege.despagne.net
-adguard.londonwebnerd.cloud
 adguard.maison.gifino.fr
 adguard.meddy94.de
 adguard.neon0404.space
@@ -118,6 +117,7 @@ armorrush.eu.org
 asia.tri-dns.net
 at.pzhg.me
 atl01.dnscry.pt
+atris.cyou
 au-syd-w-f-1.nashkan.net
 au-syd.doh.sb
 au01.dns4me.net
@@ -177,7 +177,6 @@ cryptostorm.is
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -232,7 +231,6 @@ dns.3wv.de
 dns.4-the.win
 dns.7sec.com.br
 dns.7vpn.com
-dns.853852.xyz
 dns.886886886.xyz
 dns.888654.xyz
 dns.9999.sg
@@ -355,6 +353,7 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
+dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edison42.dev
@@ -730,6 +729,7 @@ dnssilo.top
 dnstls.mobik.com
 dnsvps.familiamv.net
 dnswebvsn.com
+do-39574-tr.xyz
 do.dnscrypt.uk
 do.shimul.me
 dog.dns.qwer.pw
@@ -1053,6 +1053,7 @@ lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
+lesuo.top
 lewsha.lol
 lifeisa.live
 lindung.pp.ua
@@ -1421,7 +1422,6 @@ www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
-xholgm.top
 xn--durhre-yxa.de
 yhz01.dnscry.pt
 your-dns.run
