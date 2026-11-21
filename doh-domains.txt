@@ -40,6 +40,7 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
+adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
@@ -178,6 +179,7 @@ cryptostorm.is
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
+cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -323,6 +325,7 @@ dns.crystalyx.net
 dns.csa-rz.de
 dns.csaonline.de
 dns.csswg.org
+dns.cybertonic.tech
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -638,6 +641,7 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
@@ -775,6 +779,7 @@ doh.bt.com
 doh.buzz
 doh.captnemo.in
 doh.ccb-net.it
+doh.centraleu.pi-dns.com
 doh.cippapp.com
 doh.cleanbrowsing.org
 doh.cnetwork.cloud
@@ -796,6 +801,9 @@ doh.dnshome.de
 doh.doh.pub
 doh.domreg.lt
 doh.dot.pub
+doh.eastas.pi-dns.com
+doh.eastau.pi-dns.com
+doh.eastus.pi-dns.com
 doh.eddi.net
 doh.ersei.net
 doh.eu.dnswarden.com
@@ -829,10 +837,12 @@ doh.mullvad.net
 doh.nic.lv
 doh.niyawe.de
 doh.nl.ahadns.net
+doh.northeu.pi-dns.com
 doh.ntu.ssooss.win
 doh.onedns.net
 doh.opendns.com
 doh.phdns2.lonet.org
+doh.pi-dns.com
 doh.powerdns.org
 doh.pub
 doh.pyry.me
@@ -859,6 +869,7 @@ doh.us.dnswarden.com
 doh.valscosmos.com
 doh.viatech.com.tw
 doh.webnmail.de
+doh.westus.pi-dns.com
 doh.wewitro.net
 doh.xcom.pro
 doh.xfinity.com
@@ -874,16 +885,22 @@ dooh.cloudflare-dns.com
 dot-de.blahdns.com
 dot-sg.blahdns.com
 dot.360.cn
+dot.centraleu.pi-dns.com
 dot.cox.net
+dot.eastas.pi-dns.com
+dot.eastau.pi-dns.com
+dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.la.ahadns.net
 dot.libredns.gr
 dot.nl.ahadns.net
+dot.northeu.pi-dns.com
 dot.pub
 dot.quickline.ch
 dot.seby.io
 dot.tiar.app
 dot.tooli.ca
+dot.westus.pi-dns.com
 dot.xfinity.com
 dot1.applied-privacy.net
 dot1.appliedprivacy.net
@@ -1042,6 +1059,7 @@ kr2.ooroot.com
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
 krtekvpn.duckdns.org
+kx-97795-tr.xyz
 kz-pav-w-p-1.nashkan.net
 l337.site
 las-vegas.privacy-dns.pw
@@ -1068,6 +1086,8 @@ lukscasino-929-tr.xyz
 luxembourg.privacy-dns.pw
 mabuktogel.business
 mabuktogel.cards
+mabuktogel.enterprises
+mabuktogel.ltd
 mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
@@ -1089,6 +1109,7 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 montmorot.duckdns.org
@@ -1419,6 +1440,7 @@ www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
+xholgm.top
 xn--durhre-yxa.de
 yhz01.dnscry.pt
 your-dns.run
