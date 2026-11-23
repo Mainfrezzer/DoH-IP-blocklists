@@ -23,6 +23,7 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
+adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -170,6 +171,7 @@ dns.feldy.my.id
 dns.fgbk.net
 dns.frank-ruan.com
 dns.green-ping.lol
+dns.guardmydns.com
 dns.hafidzradhival.my.id
 dns.hakutakucn.com
 dns.hannielzhang.com
