@@ -23,7 +23,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -61,6 +60,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
+atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b.family.ns.dnslify.com
@@ -94,7 +94,6 @@ cloud1.server.busold.ws
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
-cynntex.fun
 d.bod.lol
 d.niaox.com
 de-d2.foxyfy.net
@@ -162,7 +161,6 @@ dns.doh.my.id
 dns.dooks.uk
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.edgeburnmedia.com
 dns.edgy.network
 dns.editechstudio.com
 dns.ellichua.com
@@ -450,7 +448,9 @@ ko-18948-tr.xyz
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
+kx-97795-tr.xyz
 la.ray0512.win
+lesuo.top
 lim01.dnscry.pt
 lim02.dnscry.pt
 local.sufly.top
@@ -469,6 +469,7 @@ mainframe.dewed.de
 mc-sft.cn
 mecca-is.so-gorgeo.us.kg
 michelo.line.pm
+mikezhang.xyz
 miniapp.global
 minilla.store
 mita-is.so-gorgeo.us.kg
@@ -476,6 +477,7 @@ mnrv.trade
 mo0on15.com
 mru01.dnscry.pt
 msr177.com
+myatris.sbs
 myrra-is.so-gorgeo.us.kg
 n0.eu
 nana-is.so-gorgeo.us.kg
@@ -591,6 +593,7 @@ www.elshad-adgh-dns.ru
 www.memorialus.eu.org
 www.pukanuragan.ru
 www.zburger.top
+xholgm.top
 xmr.land
 xorbiadns.com
 xray.krnl.eu
