@@ -40,7 +40,6 @@ adguard-dns.com
 adguard-kartoffel.zernico.de
 adguard.aa4.co.uk
 adguard.abd.ong
-adguard.ajinga.net
 adguard.alu.dog
 adguard.bitteeinbyte.de
 adguard.bonis.de
@@ -176,7 +175,6 @@ cryptostorm.is
 cube.neubsi.at
 cubedns.com
 cvt01.dnscry.pt
-cynntex.fun
 d.adguard-dns.com
 d.apemlegit.my.id
 d.toairs.com
@@ -315,6 +313,7 @@ dns.colorfreedom.org
 dns.comff.net
 dns.comss.one
 dns.connect.fail
+dns.containerpi.com
 dns.controld.com
 dns.cryptomize.com
 dns.crystalyx.net
@@ -354,7 +353,6 @@ dns.doh.pub
 dns.dot.pub
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.eddi.net
 dns.edgeburnmedia.com
@@ -542,7 +540,6 @@ dns.pari.network
 dns.paulo.nom.za
 dns.pccoach.nl
 dns.peb-schmidt.de
-dns.pernika.net
 dns.pesaventofilippo.com
 dns.petqa.ru
 dns.phillipjberry.net
@@ -611,6 +608,7 @@ dns.surfsharkdns.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
+dns.swin.pro
 dns.switch.ch
 dns.sy.st
 dns.syaifullah.com
@@ -639,7 +637,6 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
-dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
@@ -987,6 +984,7 @@ han01.dnscry.pt
 hard.dnsforge.de
 hel01.dnscry.pt
 helios.plan9-dns.com
+hfgx.shop
 himedns.com
 hitian.me
 hk-hkg.doh.sb
@@ -995,6 +993,7 @@ hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkname.freecdn.one
 hole.elbschloss.xyz
+home-server.store
 home.chilimac.net
 home.daniil.it
 home.kebree.fr
@@ -1062,6 +1061,7 @@ lastentarvike.fi
 lax01.dnscry.pt
 lax02.dnscry.pt
 lelux.fi
+lesuo.top
 lewsha.lol
 lifeisa.live
 lindung.pp.ua
@@ -1102,6 +1102,7 @@ megumin.is.my.waifu.cz
 mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
+mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 montmorot.duckdns.org
@@ -1111,6 +1112,7 @@ muc01.dnscry.pt
 muli.stusta.mhn.de
 multi.dns.marbledfennec.net
 muxyuji.ru
+myatris.sbs
 n5.lsasss.com
 naganohara-yoimiya.momokko.moe
 najiakeji.top
@@ -1430,6 +1432,7 @@ www.unasw.eu
 wyx.cloud
 xbcpb668.com
 xenergy.cc
+xholgm.top
 xn--durhre-yxa.de
 yhz01.dnscry.pt
 your-dns.run
