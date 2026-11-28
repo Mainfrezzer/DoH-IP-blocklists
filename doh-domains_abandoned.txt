@@ -23,7 +23,6 @@ adguard-dns.rouga.ch
 adguard-dns.turker.info
 adguard-ironhide.ultima-thule.ru
 adguard-server.cf
-adguard.ajinga.net
 adguard.ambiya.net
 adguard.avdkishore.dev
 adguard.beliefanx.cn
@@ -60,6 +59,7 @@ apne1.dns.terumi.club
 asia.dnscepat.id
 at-wie-w-p-1.nashkan.net
 ath01.dnscry.pt
+atris.cyou
 au.rslvr.eu
 awan.ftp.sh
 b.family.ns.dnslify.com
@@ -93,6 +93,7 @@ cloud1.server.busold.ws
 console.carestyle.org
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
+cynntex.fun
 d.bod.lol
 d.niaox.com
 de-d2.foxyfy.net
@@ -149,6 +150,7 @@ dns.cooluc.com
 dns.criena.net
 dns.cwlys.com
 dns.cybershell.xyz
+dns.cybertonic.tech
 dns.d96.info
 dns.de.futuredns.eu.org
 dns.dns-over-https.com
@@ -446,6 +448,7 @@ ko-18948-tr.xyz
 korzhov.dev
 kracon.anycast.censurfridns.dk
 kswro.web.id
+kx-97795-tr.xyz
 la.ray0512.win
 lim01.dnscry.pt
 lim02.dnscry.pt
@@ -469,6 +472,7 @@ mnrv.trade
 mo0on15.com
 mru01.dnscry.pt
 msr177.com
+myatris.sbs
 myrra-is.so-gorgeo.us.kg
 n0.eu
 naganohara-yoimiya.momokko.moe

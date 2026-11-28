@@ -125,8 +125,8 @@
 2001:df4:b100:3:1:1:730a:2cd2           # dns1.server.my.id
 2001:e68:5040:a7da:d8e7:f548:508b:6346  # fwgw.orangepipc.mywire.org
 2001:e68:5414:e5c::10                   # dns.surobe.com
-2003:180:2:1000:0:4:0:53                # dns.telekom.de
-2003:180:2:8100:0:4:0:53                # dns.telekom.de
+2003:180:2:4000:0:4:0:53                # dns.telekom.de
+2003:180:2:7000:0:4:0:53                # dns.telekom.de
 2003:4:e0b0:102:0:4:0:53                # dns.t53.de
 2003:5f:c010:1:212:185:200:25           # dns1.conne.net
 2003:a:36f:4f00::1                      # dns.faked.org, faked.org
@@ -183,7 +183,7 @@
 2406:da18:1eac:201:3404:7a35:28af:fd77  # dns.syaifullah.com
 2406:da1a:1b5:d610:c66d:4ace:e191:b3b1  # pihole.aws.ketan.dev
 2406:ef80:1:2173::b5f                   # hkg02.dnscry.pt
-2407:0:3f68:4f9a::1                     # gustamadh.dynv6.net
+2407:0:3f68:7d4c::1                     # gustamadh.dynv6.net
 2407:24c0:2::154:3                      # dns.gi.co.id
 2407:3640:2205:1668::1                  # dot-sg.blahdns.com
 2407:3640:2238:5447::1                  # asia.tri-dns.net
@@ -218,7 +218,7 @@
 2600:1f28:60:801:2b51:b65a:f117:5b46    # dns.api.sandbox.globuscs.info
 2600:1f28:60:801:4fcd:c22f:6419:4bac    # dns.api.preview.globus.org
 2600:1f28:60:801:5d86:b089:da42:1574    # dns.api.integration.globuscs.info
-2600:1f28:60:801:6889:92b5:2193:f23d    # dns.api.staging.globuscs.info
+2600:1f28:60:801:b964:98be:af45:dc54    # dns.api.staging.globuscs.info
 2600:1f28:60:801:eb3f:1969:5fbc:f257    # dns.api.test.globuscs.info
 2600:1f28:60:802:23d2:d227:1d37:b2b7    # dns.api.integration.globuscs.info
 2600:1f28:60:802:6d86:79fb:6699:ae1a    # dns.api.staging.globuscs.info
@@ -242,14 +242,14 @@
 2600:4c00:80:8::a                       # atl01.dnscry.pt
 2600:6c7f:f000:202::7                   # doh-01.spectrum.com
 2600:6c7f:f000:202::8                   # doh-02.spectrum.com
-2600:9000:28a3:1e00:f:5c7a:55c0:93a1    # eth.link
 2600:9000:28a3:2600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:8000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:9800:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:a000:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:dc00:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:f600:f:5c7a:55c0:93a1    # eth.link
-2600:9000:28a3:f800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:5200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:5800:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:7000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:7e00:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:c000:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:d200:f:5c7a:55c0:93a1    # eth.link
+2600:9000:28a3:fe00:f:5c7a:55c0:93a1    # eth.link
 2602:f7f8:2:c::a                        # nyc01.dnscry.pt
 2602:f7f8:7:d::a                        # lax01.dnscry.pt
 2602:f7f8:b:401::a                      # mia01.dnscry.pt
@@ -1360,6 +1360,8 @@
 2a0c:4ac1:29::3                         # dns.dnsguard.pub
 2a0c:59c0:19::3                         # nl-ams.doh.sb, ru-mow.doh.sb
 2a0c:82c0::1                            # doh.suche.org
+2a0c:8901::53                           # dns.dnshome.de, doh.dnshome.de
+2a0c:8902::53                           # dns.dnshome.de, doh.dnshome.de
 2a0c:8fc0:1749:66:18::16                # muc01.dnscry.pt
 2a0c:8fc1:6441::412:ab34                # tyo01.dnscry.pt
 2a0c:9a40:e100::53                      # dns.dremaxx.de
